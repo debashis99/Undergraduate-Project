@@ -1,0 +1,1 @@
+\phi _ { i } ^ { \prime } ( x ) = \phi _ { i } ( x ) + \delta _ { \mathrm { B R S } } \phi _ { i } ( x ) \Theta [ \phi ] ,

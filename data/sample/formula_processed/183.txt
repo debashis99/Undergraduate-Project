@@ -1,0 +1,1 @@
+S ^ { \mu \nu } \equiv { \frac { \partial L } { \partial \sigma _ { \mu \nu } } } = L ^ { - 1 } [ J ^ { 2 } \sigma ^ { \mu \nu } + { \frac { M J } { { ( { \frac { a _ { 1 } a _ { 2 } } { 2 } } + a _ { 3 } } ) ^ { \frac { 1 } { 2 } } } } ( a _ { 1 } \sigma ^ { \mu \nu } + ( u ^ { \mu } \sigma ^ { \nu \lambda } - u ^ { \nu } \sigma ^ { \mu \lambda } ) u _ { \lambda } ) ] .

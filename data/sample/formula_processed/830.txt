@@ -1,0 +1,1 @@
+\tilde { \Psi } _ { \nu } ^ { \prime } = - i \bigl ( \nu + { \bf M } \delta ( \sigma ) \bigr ) \tilde { \Psi } _ { \nu } .

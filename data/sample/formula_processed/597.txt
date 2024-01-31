@@ -1,0 +1,1 @@
+B = \int _ { 0 } ^ { x _ { \mathrm { m i n } } } \rho _ { B } d x + \int _ { x _ { \mathrm { m i n } } } ^ { \infty } \rho _ { B } d x \nonumber

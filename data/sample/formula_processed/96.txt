@@ -1,0 +1,1 @@
+\ddot { R } ^ { k } ( t ) = \omega ^ { k l } \dot { R } ^ { l } ( t ) + O ( \dot { R } ^ { k } \dot { R } ^ { k } ) \; \; .

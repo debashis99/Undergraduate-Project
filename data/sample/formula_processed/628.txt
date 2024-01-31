@@ -1,0 +1,1 @@
+{ F } _ { \mathrm { r e n } } ^ { \infty } = - \frac 1 { 8 \pi ^ { 2 } } \int \! { \mathrm d } ^ { 3 } x \, { g } ^ { 1 / 2 } { \mathrm t r } \Big \{ R _ { i j } \gamma _ { 1 } ( - \triangle ) R ^ { i j } + R \gamma _ { 2 } ( - \triangle ) R + { \mathrm { O } } [ \Re ^ { 3 } ] \Big \} .

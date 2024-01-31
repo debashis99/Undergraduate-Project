@@ -1,0 +1,1 @@
+N \approx L ^ { 2 } \left[ 1 + \frac { \gamma \beta L } { 2 ( 1 - \gamma L ) ^ { 2 } } \right] .

@@ -1,0 +1,1 @@
+\delta \alpha _ { 3 } + \gamma \alpha _ { 2 } = \partial _ { \mu } \left( - f _ { a b c } \eta ^ { * \mu } \eta ^ { a } \eta ^ { b } \eta ^ { c } \right) .

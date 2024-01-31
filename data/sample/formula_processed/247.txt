@@ -1,0 +1,1 @@
+\zeta _ { 0 } ( \nu ) = - { \frac { \nu \varrho ^ { - 2 \nu } } { \pi } } \int _ { \mu } ^ { \infty } d \omega \int _ { C _ { + } } d z { \frac { 2 z ^ { 2 } } { ( z ^ { 2 } + \omega ^ { 2 } ) ^ { \nu + 1 } } } \breve { \Psi } ( \omega ; z ) e ^ { i \epsilon z } ~ ~ ~ ,

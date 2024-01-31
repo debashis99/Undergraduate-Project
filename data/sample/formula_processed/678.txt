@@ -1,0 +1,1 @@
+C _ { S R G } ^ { ( g ) } = \frac { 1 } { \sqrt { X } } X ^ { + } X ^ { - } - 8 \lambda ^ { 2 } \sqrt { X } \, .

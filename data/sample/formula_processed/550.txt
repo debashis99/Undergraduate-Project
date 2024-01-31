@@ -1,0 +1,1 @@
+\operatorname* { s u p } _ { x } \frac { | f ( x ) - f ( p ) | } { \mathrm { d i s t } ( x , p ) } \leq \operatorname* { s u p } _ { x } \operatorname* { l i m } _ { p \to x } \frac { | f ( x ) - f ( p ) | } { \mathrm { d i s t } ( p , q ) } ~ .

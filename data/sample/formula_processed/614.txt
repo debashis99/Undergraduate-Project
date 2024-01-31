@@ -1,0 +1,1 @@
+( \alpha _ { 0 } ^ { I } ) _ { i j } = \frac { 1 } { \pi \sqrt { 2 \alpha ^ { \prime } } } [ X ^ { I } , \cdot \ ] _ { i j } \ .

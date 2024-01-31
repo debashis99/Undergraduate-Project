@@ -1,0 +1,1 @@
+\phi ( \sigma ) = U \, e ^ { i \, ( N \sigma + \varphi ( \sigma ) ) } ,

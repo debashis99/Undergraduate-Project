@@ -1,0 +1,1 @@
+\frac { \partial \Sigma } { \partial m } = \mathcal { B } _ { \Sigma } \Lambda \; ,

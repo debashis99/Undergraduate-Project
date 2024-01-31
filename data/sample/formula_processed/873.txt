@@ -1,0 +1,1 @@
+{ \cal L } _ { c l a s s } = { \cal L } _ { c l a s s } ( \phi , \alpha ) = \sum _ { i } \lambda _ { i } ( \alpha ) \, { \cal G } _ { i } .

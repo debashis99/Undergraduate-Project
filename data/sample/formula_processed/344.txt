@@ -1,0 +1,1 @@
+\frac { d \Phi } { d r } = - \frac { \sqrt { 3 } } { 4 } \ell ( r ) ^ { \Lambda \Sigma } \, \mathrm { I m } { \cal N } _ { \Lambda \Sigma | \Gamma \Delta } \, f _ { ~ ~ A B } ^ { \Gamma \Delta } \, \frac { e ^ { U } } { r ^ { 2 } } \, .

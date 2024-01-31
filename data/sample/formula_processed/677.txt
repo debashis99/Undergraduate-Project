@@ -1,0 +1,1 @@
+\Delta S _ { M } ^ { \mathrm { n l } } ( \lambda = 0 ) = \frac { 5 M \kappa ^ { 2 } } { 1 5 3 6 \pi ^ { 2 } } \int d ^ { 4 } x \sqrt { - g } R \operatorname { l n } ( - \nabla ^ { 2 } ) \delta ^ { 3 } ( { \bf x } ) ,

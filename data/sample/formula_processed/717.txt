@@ -1,0 +1,1 @@
+\vert \nu _ { A } \rangle = { \frac { 1 } { \sqrt { 1 + \vert \nu _ { A } \vert ^ { 2 } } } } \left( \begin{array} { c } { - \nu _ { A } } \\ { 1 } \\ \end{array} \right) \quad , \quad \langle \nu _ { A } \vert = { \frac { 1 } { \sqrt { 1 + \vert \nu _ { A } \vert ^ { 2 } } } } \Bigl ( - \nu _ { A } ^ { * } \; \quad \; 1 \Bigr ) \; .

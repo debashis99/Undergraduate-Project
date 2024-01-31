@@ -1,0 +1,1 @@
+F _ { i j } = \partial _ { i } A _ { j } - \partial _ { j } A _ { i } - i A _ { i } \star A _ { j } + i A _ { j } \star A _ { i }

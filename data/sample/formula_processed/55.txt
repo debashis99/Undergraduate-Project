@@ -1,0 +1,1 @@
+{ \cal A } _ { f i } ( s ) = - i \frac { Q _ { \mu \nu } V _ { f } ^ { \mu } ( \bar { s } ) V _ { i } ^ { \nu } ( \bar { s } ) } { ( s - \bar { s } ) [ 1 - A ^ { \prime } ( \bar { s } ) ] } + N ,

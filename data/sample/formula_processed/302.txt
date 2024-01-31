@@ -1,0 +1,1 @@
+D _ { \mu } D ^ { \mu } \phi ^ { a } = f _ { \phantom { a } b c } ^ { a } \psi _ { \mu } ^ { b } \psi _ { \mu } ^ { c } .

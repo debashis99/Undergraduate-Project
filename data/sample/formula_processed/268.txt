@@ -1,0 +1,1 @@
+p ( x ) = \prod _ { i = 1 } ^ { N + 1 } ( x + \nu _ { i } ) \, , \quad q ( x ) = p ( x ) - e ^ { i \theta } / r ^ { N + 1 } = \prod _ { i = 1 } ^ { N + 1 } ( x - x _ { i } ) \, ,

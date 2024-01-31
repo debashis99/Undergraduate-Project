@@ -1,0 +1,1 @@
+\omega = \phi ^ { \alpha } \cdot \sum _ { i _ { 1 } < \cdots < i _ { k } } a _ { i _ { 1 } \cdots i _ { k } } ( v ) d v ^ { i _ { 1 } } \wedge \cdots \wedge d v ^ { i _ { n } }

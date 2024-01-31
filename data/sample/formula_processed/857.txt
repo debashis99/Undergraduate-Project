@@ -1,0 +1,1 @@
+Q _ { U } = \int _ { U } j _ { p } = \int _ { U } d ( d C _ { p } ) = \int _ { \partial U } d C _ { p } = \int _ { \partial U } G _ { p + 1 } - H \wedge C _ { p - 2 } .

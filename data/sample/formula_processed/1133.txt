@@ -1,0 +1,1 @@
+a ( \xi ) = \frac { \xi ^ { - 1 } - \xi } { q ^ { - 1 } \xi ^ { - 1 } - q \xi } \, , \quad b ( \xi ) = \frac { q ^ { - 1 } - q } { q ^ { - 1 } \xi ^ { - 1 } - q \xi } \, .

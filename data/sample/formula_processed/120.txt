@@ -1,0 +1,1 @@
+\vec { A } _ { \mu } ( x ) \! = \! \partial _ { \mu } \vec { n } ( x ) \wedge \vec { n } ( x ) + C _ { \mu } ( x ) \vec { n } ( x ) + \vec { W } _ { \mu } ( x ) ,

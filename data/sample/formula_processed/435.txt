@@ -1,0 +1,1 @@
+A ( b , \theta ) = A ( b , \theta ) ^ { \geq 0 } + A ( b , \theta ) ^ { < 0 } .

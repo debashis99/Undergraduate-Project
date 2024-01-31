@@ -1,0 +1,1 @@
+{ \cal W } ^ { ( 1 ) } = { \frac { 1 } { { \cal Z } ^ { ( 1 ) } N } } \sum _ { R , S } \frac { d _ { R } } { d _ { S } } \operatorname { e x p } \left[ - { \frac { g ^ { 2 } A _ { 1 } } { 2 } } C _ { 2 } ( R ) - { \frac { g ^ { 2 } A _ { 2 } } { 2 } } C _ { 2 } ( S ) \right] \int d U \mathrm { T r } [ U ] \chi _ { R } ( U ) \chi _ { S } ^ { \dagger } ( U ) ,

@@ -1,0 +1,1 @@
+j _ { [ e , m , b ] } ^ { \nu } = j _ { [ e ] } ^ { \nu } + j _ { [ m ] } ^ { \nu } * K _ { [ e ] } + j _ { [ b ] } ^ { \nu } * \varepsilon _ { 0 } * K _ { [ v ] }

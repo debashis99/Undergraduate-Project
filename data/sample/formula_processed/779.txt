@@ -1,0 +1,1 @@
+\phi ^ { \prime \prime } - \rho ^ { \prime \prime } - \frac { 1 } { 2 } ( T ^ { \prime } ) ^ { 2 } = 0

@@ -1,0 +1,1 @@
+\sigma _ { a b } = m ^ { 2 } \delta _ { a b } + v _ { a b } ,

@@ -1,0 +1,1 @@
+G ^ { \mu \nu \mu ^ { \prime } \nu ^ { \prime } } = g ^ { \mu \mu ^ { \prime } } g ^ { \nu \nu ^ { \prime } } + g ^ { \mu \nu ^ { \prime } } g ^ { \nu \mu ^ { \prime } } - { \frac { 2 } { D } } g ^ { \mu \nu } g ^ { \mu ^ { \prime } \nu ^ { \prime } } + C g ^ { \mu \nu } g ^ { \mu ^ { \prime } \nu ^ { \prime } } \: .

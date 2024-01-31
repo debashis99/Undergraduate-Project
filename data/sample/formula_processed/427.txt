@@ -1,0 +1,1 @@
+x \times y - y \times x - F ( x , y ) \; , \quad x , y \in E \; .

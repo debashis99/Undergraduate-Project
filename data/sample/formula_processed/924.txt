@@ -1,0 +1,1 @@
+M = \left( \begin{array} { c c } { C } & { \hat { 0 } } \\ { \hat { 0 } } & { \bar { C } } \\ \end{array} \right) ,

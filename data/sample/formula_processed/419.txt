@@ -1,0 +1,1 @@
+\widetilde { \Gamma } _ { k p } \ = \ \frac { 1 } { \mu _ { k } { - } \bar { \mu } _ { p } } \, T _ { k } ^ { \dagger } \, T _ { p } \quad , \qquad \textrm { i . e . } \qquad \sum _ { k = 1 } ^ { m } \, \Gamma ^ { \ell k } \, \widetilde { \Gamma } _ { k p } \ = \ \delta _ { \ p } ^ { \ell } \quad .

@@ -1,0 +1,1 @@
+P ^ { 2 } = \bigg ( \frac { 4 } { \pi h ^ { 2 } N } \bigg ) ^ { 2 } \bigg [ 1 + O \bigg ( \frac { 1 } { P ^ { 2 } } \bigg ) \bigg ] , \; \; \pi h ^ { 2 } N < < 1 .

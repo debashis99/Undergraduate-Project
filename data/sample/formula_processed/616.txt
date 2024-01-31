@@ -1,0 +1,1 @@
+\bar { \partial } _ { \dot { \alpha } } ^ { + } \theta ^ { \prime } { } ^ { \beta } = 0

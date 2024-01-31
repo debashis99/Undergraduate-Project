@@ -1,0 +1,1 @@
+p _ { \mu } ^ { i } \left( \kappa \right) = P _ { \mu } \, \, v ^ { i } \left( \kappa \right) + \varepsilon _ { a b } W _ { \mu } ^ { a } \, \lambda ^ { i b } \left( \kappa \right)

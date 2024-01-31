@@ -1,0 +1,1 @@
+\vert \Psi ( t ) \rangle = \sum _ { n } C _ { n } \vert e _ { n } , t \rangle e ^ { i \int d t \langle e _ { n } , t \vert i \frac { \partial } { \partial t } - \hat { H } \vert e _ { n } , t \rangle } .

@@ -1,0 +1,1 @@
+H = \frac { 1 } { 4 \pi } \left( P ^ { 2 } + 4 \omega ^ { 2 } \, e ^ { 2 \gamma Q } \right)

@@ -1,0 +1,1 @@
+\Pi ^ { - } = 2 i \theta ^ { - } P _ { p } \sigma ^ { p } \ , \qquad \bar { \Pi } ^ { - } = 2 i P _ { p } \sigma ^ { p } \bar { \theta } ^ { - }

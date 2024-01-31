@@ -1,0 +1,1 @@
+{ \cal T } _ { \sigma } = { \cal T } _ { C } ( X ) \otimes { \cal T } _ { C } ( Y )

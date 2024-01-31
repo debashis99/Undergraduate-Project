@@ -1,0 +1,1 @@
+i \frac { \partial } { \partial \tau _ { 2 } } < m ^ { \prime } , \bar { m ^ { \prime } } ; \tau _ { 2 } | m , \bar { m } ; \tau _ { 1 } > = \hat { H } ( m ^ { \prime } , \bar { m ^ { \prime } } ) < m ^ { \prime } , \bar { m ^ { \prime } } ; \tau _ { 2 } | m , \bar { m } ; \tau _ { 1 } > .

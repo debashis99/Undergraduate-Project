@@ -1,0 +1,1 @@
+\langle | \Phi _ { + } ( y ) | \rangle = { \frac { A } { \operatorname { c o s } [ a y + b + c _ { 0 } \mathrm { s g n } ( y ) + c _ { \pi } \mathrm { s g n } ( y - \pi R ) ] } } .

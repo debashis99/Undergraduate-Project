@@ -1,0 +1,1 @@
+[ M _ { \mu \nu } , M _ { \rho \tau } ] = g _ { \mu \tau } \, M _ { \nu \rho } - g _ { \nu \tau } M _ { \mu \rho } + g _ { \nu \rho } M _ { \mu \tau } - g _ { \mu \rho } M _ { \nu \tau } \, ,

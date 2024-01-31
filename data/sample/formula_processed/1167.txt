@@ -1,0 +1,1 @@
+\frac { 1 } { 2 } \left( 1 + \sqrt { \frac { j \left( j + 1 \right) - \alpha ^ { 2 } } { 4 } } \right) \mp \frac { i \alpha E } { \sqrt { E ^ { 2 } - \frac { m ^ { 2 } } { 4 } } } = - n

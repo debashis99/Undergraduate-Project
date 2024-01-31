@@ -1,0 +1,1 @@
+S _ { \mathrm { b o u n d a r y } } ^ { \mathrm { q u i n t i c } } = \int d x ^ { 0 } \frac { \theta } { 4 \pi r } \sum _ { i } \left( \overline { { \psi } } _ { + i } \psi _ { + i } + \overline { { \psi } } _ { - i } \psi _ { - i } \right)

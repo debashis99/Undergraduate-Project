@@ -1,0 +1,1 @@
+\varphi \sim A + B \mathrm { s i g n } ( t ) | \vec { k } t | ^ { \epsilon } .

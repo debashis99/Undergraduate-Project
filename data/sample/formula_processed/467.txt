@@ -1,0 +1,1 @@
+\tilde { \cal E } _ { q } [ \phi ( x ) ] \sim \frac { 1 } { 2 } \left( \sum _ { \tilde { E } _ { j } } | \tilde { E } _ { j } | - \sum _ { \tilde { E } _ { j } ^ { 0 } } | \tilde { E } _ { j } ^ { 0 } | \right) + \tilde { \cal E } _ { c t } [ \phi ( x ) ]

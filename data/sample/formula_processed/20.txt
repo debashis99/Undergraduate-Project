@@ -1,0 +1,1 @@
+\psi ( \gamma ) = \operatorname { e x p } { - ( { \textstyle { \frac { g ^ { 2 } } { 2 } } } ) \int _ { \gamma } d y ^ { a } \int _ { \gamma } d y ^ { a ^ { \prime } } D _ { 1 } ( y - y ^ { \prime } ) }

@@ -1,0 +1,1 @@
+\left[ { \alpha } _ { m } ^ { \mu } , { \alpha } _ { n } ^ { \nu } \right] = m { \delta } _ { m + n } { \eta } ^ { \mu \nu }

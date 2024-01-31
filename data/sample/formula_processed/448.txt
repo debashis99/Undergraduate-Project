@@ -1,0 +1,1 @@
+\partial ^ { 2 } \bar { \Psi } ^ { \alpha } - i g \; \partial _ { x + i y } \Phi \; \partial _ { 0 - z } \bar { \Psi } ^ { \alpha } + i g \; \partial _ { 0 - z } \Phi \; \partial _ { x + i y } \bar { \Psi } ^ { \alpha } = 0 \, ,

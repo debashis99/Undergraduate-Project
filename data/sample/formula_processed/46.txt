@@ -1,0 +1,1 @@
+\frac { 1 } { 2 \lambda f ^ { 2 } } \int \; d ^ { 4 } X \, \frac { d ^ { 4 } q } { \left( 2 \pi \right) ^ { 4 } } \left( \varphi ( X ) \right) ^ { 2 } \tilde { \pi } _ { 0 } ( q ) \left[ \partial _ { q } ^ { 2 } + \frac { 4 i \lambda } { q ^ { 2 } - \Sigma ^ { 2 } ( q ) } \right] \tilde { \pi } _ { 0 } ( q ) ,

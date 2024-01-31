@@ -1,0 +1,1 @@
+\frac { \mathrm { d } ^ { 2 } \mu } { \mathrm { d } x ^ { 2 } } + \biggl ( \frac { x ^ { 2 } } { 4 } - a \biggr ) \mu = 0 , \quad a \equiv - \frac { \pi } { \epsilon \sqrt { b _ { 1 } } } < 0 .

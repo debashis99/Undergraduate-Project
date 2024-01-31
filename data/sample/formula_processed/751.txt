@@ -1,0 +1,1 @@
+j _ { \alpha } ^ { 0 } = \left( i \Gamma ^ { m } \theta \right) _ { \alpha } \cdot \Lambda _ { m } + \Lambda _ { \alpha } + \left( e m b ^ { * } \Delta _ { \alpha } \right) _ { \nu } \cdot \Lambda ^ { \nu } \quad ;

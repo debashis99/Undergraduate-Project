@@ -1,0 +1,1 @@
+( i d \otimes \pi _ { - } ) \delta _ { V } ^ { 2 } ( x _ { 2 } ^ { j } ( \xi , \eta ) ) = \sum _ { k } { \cal D } ( A _ { 2 } , D _ { 2 } ) _ { k } ^ { j } \ ( i d \otimes \pi _ { - } ) \Delta ( x _ { 2 } ^ { k } ( \xi , \eta ) ) .

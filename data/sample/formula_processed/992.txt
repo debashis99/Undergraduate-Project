@@ -1,0 +1,1 @@
+{ \cal Q } _ { k } = \oint _ { \partial \Sigma } d \Sigma _ { \mu \nu } \gamma ^ { \mu \nu \lambda } \hat { \nabla } _ { \lambda } \epsilon _ { k } = 0 \ .

@@ -1,0 +1,1 @@
+S \left( \hat { A } + \delta A \right) = S \left( \hat { A } \right)

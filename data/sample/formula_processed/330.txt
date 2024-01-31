@@ -1,0 +1,1 @@
+S = \frac { 1 } { 4 \ell _ { \mathrm { P } } ^ { 2 } } \int d ^ { 4 } x ~ a ^ { 2 } ~ \eta ^ { \mu \nu } \partial _ { \mu } h \partial _ { \nu } h ,

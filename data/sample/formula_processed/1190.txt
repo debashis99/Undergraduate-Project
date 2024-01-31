@@ -1,0 +1,1 @@
+{ \cal U } ^ { \prime \prime } + { \frac { 2 } { r } } { \cal U } ^ { \prime } - \left( { \cal U } ^ { \prime } \right) ^ { 2 } = { \frac { 1 } { 4 } } \, \left( h _ { 1 } ^ { \prime } \right) ^ { 2 } + { \frac { 1 } { 4 } } \left( h _ { 2 } ^ { \prime } \right) ^ { 2 } ,

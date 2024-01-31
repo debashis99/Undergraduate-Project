@@ -1,0 +1,1 @@
+R _ { k } ^ { ( N _ { f } ) } ( x _ { 1 } , \ldots , x _ { k } , M ) \ = \ \operatorname* { d e t } \left[ K _ { N } ^ { ( N _ { f } ) } ( x _ { i } , x _ { j } , M ) \right] _ { i , j = 1 , \ldots , k }

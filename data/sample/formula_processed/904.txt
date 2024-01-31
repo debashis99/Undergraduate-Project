@@ -1,0 +1,1 @@
+\partial _ { t } Q = \frac { \delta { \cal H } ( Q , P ) } { \delta P } \quad \partial _ { t } P = - \frac { \delta { \cal H } ( Q , P ) } { \delta Q } .

@@ -1,0 +1,1 @@
+{ \frac { d ^ { 2 } \varphi } { d \tau ^ { 2 } } } = \operatorname { s i n } \varphi \ ,

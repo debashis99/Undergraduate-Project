@@ -1,0 +1,1 @@
+\partial _ { a } \hat { X } ^ { - } = 0 , \hspace { 1 . 0 c m } \partial _ { a } \hat { X } ^ { M } = 0

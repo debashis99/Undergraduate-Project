@@ -1,0 +1,1 @@
+\epsilon ^ { i j } \nabla _ { i } ^ { ( p , k ) } { \cal A } _ { ( p , k ) j } = - \sum _ { ( p ^ { \prime } , k ^ { \prime } ) \neq ( p , k ) } \beta _ { p p ^ { \prime } } \delta ^ { 2 } ( { \bf r } _ { k } ^ { ( p ) } - { \bf r } _ { k ^ { \prime } } ^ { ( p ^ { \prime } ) } ) \, .

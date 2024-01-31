@@ -1,0 +1,1 @@
+{ \frac { d n _ { i } ( \omega ) } { d \omega } } = { \frac { \omega } { \pi } } \int _ { - \infty } ^ { + \infty } d \alpha ~ e ^ { i \alpha \omega ^ { 2 } } \mathrm { T r } ~ e ^ { - i \alpha \bar { H } _ { i } ^ { 2 } } ~ ~ ~ .

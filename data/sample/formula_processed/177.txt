@@ -1,0 +1,1 @@
+\partial _ { \mu } < T T R > = ( N _ { c } ^ { 2 } - 1 ) \cdot \left[ \mathrm { \vspace { 2 e x } \mathrm { 1 } \vspace { 0 e x } } \right] + 3 \cdot ( N _ { c } ^ { 2 } - 1 ) \cdot \left[ - \frac { 1 } { 3 } \right] = 0

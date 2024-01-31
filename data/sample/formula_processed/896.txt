@@ -1,0 +1,1 @@
+d f _ { i } = d Q _ { i } \frac { \partial f ( Q _ { i } ) } { \partial Q _ { i } } \; .

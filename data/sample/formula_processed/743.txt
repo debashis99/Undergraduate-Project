@@ -1,0 +1,1 @@
+T _ { m } ( x ) \equiv \int _ { 0 } ^ { x } d x ^ { \prime } ( t a n h \; x ^ { \prime } ) ^ { m } = - \frac { ( t a n h \; x ) ^ { m - 1 } } { m - 1 } + T _ { m - 2 } ( x ) \; .

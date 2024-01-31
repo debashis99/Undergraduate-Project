@@ -1,0 +1,1 @@
+F = F ( u _ { 1 } + u _ { 3 } u _ { 2 } , u _ { 3 } ) , \quad \alpha ( u _ { 1 } + u _ { 3 } u _ { 2 } , \lambda )

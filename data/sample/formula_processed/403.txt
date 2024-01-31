@@ -1,0 +1,1 @@
+\frac { 1 } { 2 } \epsilon _ { \kappa \lambda \sigma \alpha } \partial ^ { \kappa } \omega ^ { \sigma \lambda } \equiv D _ { \alpha } = \left( \partial _ { \alpha } h _ { \beta } ^ { \beta } - \partial _ { \beta } h _ { \alpha } ^ { \beta } \right) \ .

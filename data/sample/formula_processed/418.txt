@@ -1,0 +1,1 @@
+\begin{array} { r l } { d s ^ { 2 } = \alpha ^ { \prime } g _ { 6 } \sqrt { N _ { 1 } N _ { 5 } } [ } & { u ^ { 2 } ( d x _ { 0 } ^ { 2 } + d x _ { 1 } ^ { 2 } ) + { \frac { d u ^ { 2 } } { u ^ { 2 } } } + d \Omega _ { 3 } ^ { 2 } } \\ { \nonumber + } & { \beta ( N _ { 1 } , N _ { 5 } ) ( d x _ { 2 } ^ { 2 } + . . . + d x _ { 5 } ^ { 2 } ) ] , } \\ \end{array}

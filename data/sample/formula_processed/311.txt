@@ -1,0 +1,1 @@
+F _ { \mu \rho } ^ { a } F _ { a \nu } ^ { \; \; \; \; \rho } - { \frac { 1 } { 4 } } g _ { \mu \nu } x F _ { \rho \sigma } ^ { a } F _ { a } ^ { \rho \sigma }

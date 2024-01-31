@@ -1,0 +1,1 @@
+\frac 1 { \nabla ^ { 2 } } \, \delta _ { \Sigma } ^ { ( 2 ) } ( z - z _ { 0 } ) = - \frac 1 \pi \operatorname { l o g } { \cal E } ( z , z _ { 0 } )

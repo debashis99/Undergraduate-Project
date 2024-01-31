@@ -1,0 +1,1 @@
+X ^ { + } = { \frac { * ( 2 { \cal D } X ^ { i } \wedge f ^ { + i } ) } { * ( f ^ { + i } \wedge f ^ { - i } ) } } = { \frac { 1 } { \cal R } } ( { \cal D } _ { - } X ^ { i } f _ { + } ^ { ~ + i } - { \cal D } _ { + } X ^ { i } f _ { - } ^ { ~ + i } )

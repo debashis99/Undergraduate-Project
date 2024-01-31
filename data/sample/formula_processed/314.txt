@@ -1,0 +1,1 @@
+S _ { s h e l l } \sim ( \sigma _ { a b } ) ^ { 2 } \frac { r ^ { 2 } } { L ^ { 2 } } L ^ { 2 } \sim \frac { L ^ { 2 } M ^ { 2 } } { r ^ { 2 } ( 1 - 2 M / r ) ^ { 2 } } .

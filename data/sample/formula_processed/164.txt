@@ -1,0 +1,1 @@
+\left[ \widehat { x } _ { 0 } , \widehat { x } _ { i } \right] = { \frac { i } { \kappa } } \widehat { x } _ { i } \qquad \left[ \widehat { x } _ { i } , \widehat { x } _ { j } \right] = 0

@@ -1,0 +1,1 @@
+g x ( \alpha \cdot q , \xi ) \to \left\{ \begin{array} { c l } { \mathrm { f i n i t e } , } & { \mathrm { f o r } \quad \pm \alpha _ { i } \in \Pi \quad ( \delta \leq 1 / h ) \quad \mathrm { a n d } \ \pm \alpha _ { h } \quad ( \delta = 1 / h ) , } \\ { 0 , } & { \mathrm { o t h e r w i s e , } } \\ \end{array} \right.

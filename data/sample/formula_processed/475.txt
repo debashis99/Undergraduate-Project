@@ -1,0 +1,1 @@
+c _ { n } \equiv t r _ { q } K ^ { n } \quad , \quad K c _ { n } = c _ { n } K \quad .

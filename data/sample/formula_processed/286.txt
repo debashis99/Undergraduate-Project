@@ -1,0 +1,1 @@
+S _ { m a t t e r } = 1 6 \pi \int d ^ { 4 } x \sqrt { - g } \; e ^ { 2 ( \sigma - 1 ) \psi } \; L _ { m a t t e r } .

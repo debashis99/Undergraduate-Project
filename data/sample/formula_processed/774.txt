@@ -1,0 +1,1 @@
+O _ { K } = \left( \frac 1 8 \epsilon _ { \mu \nu \kappa \tau } G _ { \mu \nu } ^ { a } G _ { \kappa \tau } ^ { a } \right) ^ { 2 }

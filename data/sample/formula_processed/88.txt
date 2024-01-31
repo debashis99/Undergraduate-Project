@@ -1,0 +1,1 @@
+\ddot { h } = - \nabla _ { h } \Phi

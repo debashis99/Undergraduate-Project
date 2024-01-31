@@ -1,0 +1,1 @@
+\dot { \omega } + e _ { \alpha \beta } \partial _ { \alpha } \psi \partial _ { \beta } \Delta \psi = \nu \Delta \omega \ ,

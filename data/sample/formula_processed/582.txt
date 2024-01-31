@@ -1,0 +1,1 @@
+[ \Delta _ { \perp } ^ { d } ] ^ { - 1 } ( x _ { \perp } ) = - \int \frac { d ^ { d } k _ { \perp } } { ( 2 \pi ) ^ { d } } \frac { e ^ { i k _ { \perp } \cdot x _ { \perp } } } { k _ { \perp } ^ { 2 } } = - \frac { 1 } { 2 ^ { 2 - d / / 2 } } \frac { 1 } { ( 2 \pi ) ^ { d / 2 } } \frac { 1 } { ( x _ { \perp } ) ^ { d / 2 - 1 } } \Gamma ( d / 2 - 1 )

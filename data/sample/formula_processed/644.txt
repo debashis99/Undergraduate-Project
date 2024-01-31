@@ -1,0 +1,1 @@
+\Gamma ^ { \mu _ { 1 } . . . \mu _ { k } } \equiv { \frac { 1 } { k ! } } \Gamma ^ { [ \mu _ { 1 } } . . . \Gamma ^ { \mu _ { k } ] }

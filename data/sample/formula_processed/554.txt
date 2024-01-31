@@ -1,0 +1,1 @@
+\left. { \delta I / { \delta \phi } } \right| _ { \phi = \phi _ { 0 } } = 0 ~ ~ ~ .

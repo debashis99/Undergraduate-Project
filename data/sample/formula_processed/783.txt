@@ -1,0 +1,1 @@
+Y ^ { - } ( t , \sigma ^ { a } ) = { \frac { R } { N } } E t + \xi ( t , \sigma ^ { a } )

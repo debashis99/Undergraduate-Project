@@ -1,0 +1,1 @@
+m _ { l } / M = \mathrm { L o g } \left( \frac { F _ { l } } { F _ { 0 } } \right) .

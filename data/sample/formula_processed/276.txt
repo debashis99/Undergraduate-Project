@@ -1,0 +1,1 @@
+\psi ^ { \prime } ( t , x ) = e ^ { - i e \epsilon ( t , x ) } \psi ( t , x ) \ \ , \ \ A _ { \mu } ^ { \prime } ( t , x ) = A _ { \mu } ( t , x ) + \partial _ { \mu } \epsilon ( t , x ) \ ,

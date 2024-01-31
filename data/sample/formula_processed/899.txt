@@ -1,0 +1,1 @@
+T _ { i k } = ( 1 - 2 \zeta ) \partial _ { i } \varphi \partial _ { k } \varphi + ( 2 \zeta - 1 / 2 ) g _ { i k } \partial ^ { l } \varphi \partial _ { l } \varphi - 2 \zeta \varphi \nabla _ { i } \nabla _ { k } \varphi + ( 1 / 2 - 2 \zeta ) m ^ { 2 } g _ { i k } \varphi ^ { 2 } .

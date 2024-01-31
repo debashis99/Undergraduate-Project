@@ -1,0 +1,1 @@
+S = \frac { - 8 } { \kappa ^ { 2 } } \int d t d ^ { 2 } \theta d ^ { 2 } \overline { { \theta } } { I \! \! N } ^ { - 1 } A ( { I \! \! N } { \bf Q } ^ { \mu } ) ,

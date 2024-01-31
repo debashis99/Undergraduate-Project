@@ -1,0 +1,1 @@
+\{ F ^ { \sigma \nu } , x ^ { \mu } \} - \{ F ^ { \sigma \mu } , x ^ { \nu } \} = \{ F ^ { \mu \nu } , x ^ { \sigma } \} .

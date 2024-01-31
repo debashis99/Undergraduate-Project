@@ -1,0 +1,1 @@
+{ \cal S } _ { ( - 1 ) } = { \cal S } _ { \mathrm { c u b i c } } + { \cal S } _ { \mathrm { q u a r t i c } }

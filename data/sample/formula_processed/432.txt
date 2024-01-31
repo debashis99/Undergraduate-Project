@@ -1,0 +1,1 @@
+\{ \phi , \psi \} = \{ \phi , \psi \} _ { \mathrm { K i r } } + \partial ^ { i } \phi L _ { i } \psi - \partial ^ { i } \psi L _ { i } \phi , ~ ~ ~ \phi , \psi \in \mathrm { F u n } ( T ^ { * } G ) .

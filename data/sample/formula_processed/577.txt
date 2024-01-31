@@ -1,0 +1,1 @@
+\kappa = \sqrt { { \frac { g ( g + 1 ) } { R ^ { 2 } } } + R ^ { 2 } - ( 2 \epsilon + 2 g - 1 ) } \approx { \frac { \sqrt { g ( g + 1 ) } } { R } }

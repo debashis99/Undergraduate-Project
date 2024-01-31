@@ -1,0 +1,1 @@
+D _ { i } = \partial _ { i } + e ( \partial _ { j } A _ { i } ) \, \tilde { \partial } _ { j }

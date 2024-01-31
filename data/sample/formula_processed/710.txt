@@ -1,0 +1,1 @@
+\tilde { Z } _ { i j } = i \sigma _ { 2 } \left( \begin{matrix} { | Z | } & { 0 } \\ { 0 } & { | Z | } \\ \end{matrix} \right) \ , \qquad \tilde { Z } _ { i j } = i \sigma _ { 2 } \left( \begin{matrix} { | Z | } & { 0 } & { 0 } & { 0 } \\ { 0 } & { | Z | } & { 0 } & { 0 } \\ { 0 } & { 0 } & { | Z | } & { 0 } \\ { 0 } & { 0 } & { 0 } & { | Z | } \\ \end{matrix} \right) \ ,

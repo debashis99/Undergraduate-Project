@@ -1,0 +1,1 @@
+q _ { i + 1 } = { \frac { 1 } { r _ { i } } } = \operatorname { e x p } - x _ { i } , \quad r _ { i + 1 } = r _ { i } [ q _ { i } r _ { i } - \ddot { \mathrm { l n } r _ { i } } ]

@@ -1,0 +1,1 @@
+e _ { \bot } ( x _ { \bot } ) = g \nabla _ { \bot } \int d y ^ { - } d y _ { \bot } d ( x _ { \bot } - y _ { \bot } ) \left\{ f ^ { 3 a b } A _ { \bot } ^ { a } ( y _ { \bot } , y ^ { - } ) \Pi _ { \bot } ^ { b } ( y _ { \bot } , y ^ { - } ) + \rho _ { m } ^ { 3 } ( y _ { \bot } , y ^ { - } ) \right\} \frac { \tau ^ { 3 } } { 2 } \, .

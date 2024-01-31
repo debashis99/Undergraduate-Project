@@ -1,0 +1,1 @@
+{ \frac { d H _ { 2 } } { d t } } = \nu \int \sp { 1 / a } k \sp 2 H _ { k } d k \propto \nu a \sp { - 6 - 4 \Delta _ { \psi } } \propto \nu \sp { \frac { 3 + \Delta _ { \phi } + \Delta _ { \psi } } { \Delta _ { \phi } - \Delta _ { \psi } } } \, .

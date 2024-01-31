@@ -1,0 +1,1 @@
+H _ { \mu \nu } = \mu \delta _ { \mu , \nu } , \quad E ( \alpha ) _ { \mu \nu } = \delta _ { \mu - \nu , \alpha } .

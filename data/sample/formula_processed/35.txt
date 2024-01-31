@@ -1,0 +1,1 @@
+\delta W _ { P \mu } = A _ { \mu } \Phi + B _ { P \mu } ^ { \alpha } K _ { P } ^ { \alpha } \ .

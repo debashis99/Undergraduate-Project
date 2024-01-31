@@ -1,0 +1,1 @@
+T ^ { M } \cdot T ^ { N } - ( M \leftrightarrow N ) = f ^ { M N K } T ^ { K }

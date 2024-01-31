@@ -1,0 +1,1 @@
+[ { \bar { K } } _ { a } ^ { - } ( p ) , { \bar { K } } _ { b } ^ { - } ( k ) ] = i f _ { a b c } { \bar { K } } _ { c } ^ { - } ( p + k ) - 2 { \pi } ^ { 2 } C p { \delta } _ { a b } { \delta } _ { p + k , 0 } .

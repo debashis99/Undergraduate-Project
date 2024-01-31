@@ -1,0 +1,1 @@
+z _ { \nu } ^ { ( 3 ) } + p \ddot { z } _ { \nu } + q \dot { z } _ { \nu } + r \lambda _ { \nu } = 0 \; .

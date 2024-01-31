@@ -1,0 +1,1 @@
+\left\{ \begin{array} { l c l l } { \phi ~ ( \infty ) } & { = } & { 0 } & { , \vspace { 3 m m } } \\ { \phi ~ ( 0 ) } & { = } & { 1 } & { . } \\ \end{array} \right.

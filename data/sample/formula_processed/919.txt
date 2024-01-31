@@ -1,0 +1,1 @@
+P _ { M } ^ { N } ( z ) = \frac { \sum _ { n = 0 } ^ { N } A _ { n } z ^ { n } } { \sum _ { n = 0 } ^ { M } B _ { n } z ^ { n } }

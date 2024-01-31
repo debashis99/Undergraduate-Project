@@ -1,0 +1,1 @@
+\xi = \alpha ^ { - 1 } \sqrt { \rho } \operatorname { c o s h } ( 2 \alpha ^ { 2 } t ) \, , \quad \eta = \alpha ^ { - 1 } \sqrt { \rho } \operatorname { s i n h } ( 2 \alpha ^ { 2 } t )

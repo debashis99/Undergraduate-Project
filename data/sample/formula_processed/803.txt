@@ -1,0 +1,1 @@
+B _ { a b } ( \tau _ { 1 } , \tau _ { 2 } ) = \Bigl [ \delta ( \tau _ { 1 } - \tau _ { a } ) - \delta ( \tau _ { 1 } - \tau _ { b } ) \Bigr ] \Bigl [ \delta ( \tau _ { 2 } - \tau _ { a } ) - \delta ( \tau _ { 2 } - \tau _ { b } ) \Bigr ] \quad .

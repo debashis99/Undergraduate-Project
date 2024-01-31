@@ -1,0 +1,1 @@
+m , n = 1 \ldots d ; \; \; \; \; \; \; a , b , c = 1 \ldots g ; \; \; \; \; \; i , j , k = 1 \ldots g \; \; \; \; \; \; ( g \leq d )

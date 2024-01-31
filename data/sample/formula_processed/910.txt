@@ -1,0 +1,1 @@
+e _ { n } = \gamma _ { n } \, ; \quad e _ { 7 } = i \gamma _ { 5 } \, ; \quad e _ { n + 3 } = e _ { n } e _ { 7 } = i \gamma _ { n } \gamma _ { 5 } \, ; \qquad n = 1 , 2 , 3 \, .

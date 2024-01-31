@@ -1,0 +1,1 @@
+0 = \frac { \partial \left\langle V , V \right\rangle } { \partial \lambda _ { m } }

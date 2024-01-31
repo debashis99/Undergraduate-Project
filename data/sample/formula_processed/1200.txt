@@ -1,0 +1,1 @@
+Z _ { R } ^ { ( m , n ) } = \frac { 1 } { 4 } \sum _ { e } C _ { e } ( m , n ) \frac { \theta ^ { 4 } [ e ] } { \eta ^ { 1 2 } } \Theta _ { ( m , n ) } ( 0 | \tau ) ;

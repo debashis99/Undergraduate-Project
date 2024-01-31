@@ -1,0 +1,1 @@
+f ( x , p ; t ) = \int \! d a d b ~ \tilde { f } ( a , b ) ~ e ^ { i a x ( - t ) } e ^ { i b p ( - t ) } ,

@@ -1,0 +1,1 @@
+\psi ( x ) = - 2 \phi ( x ) + 2 \phi ( L ) + c ,

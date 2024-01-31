@@ -1,0 +1,1 @@
+\frac { 1 } { 2 4 . 8 \pi ^ { 2 } } \, \int _ { \cal M } R \wedge R = \frac { 1 } { 2 4 . 8 \pi ^ { 2 } } \, \int _ { { \cal M } } \mathrm { d } C = \frac { 1 } { 2 4 . 8 \pi ^ { 2 } } \, \int _ { \partial { \cal M } } C \, ,

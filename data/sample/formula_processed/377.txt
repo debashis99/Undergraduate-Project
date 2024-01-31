@@ -1,0 +1,1 @@
+V _ { F } ^ { ( d i v ) } ( H ) = - \frac { N } { 6 4 \pi ^ { 2 } \epsilon } \left( m _ { t } ( H ) ^ { 4 } + \sum _ { k = 1 } ^ { \infty } \left( \frac { 2 k } { R } + m _ { t } ( H ) \right) ^ { 4 } + \sum _ { k = 1 } ^ { \infty } \left( - \frac { 2 k } { R } + m _ { t } ( H ) \right) ^ { 4 } \right)

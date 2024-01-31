@@ -1,0 +1,1 @@
+\phi \Big [ \beta , a , b , c , d \Big ] = \phi _ { 0 } ^ { \beta } + a \, \phi _ { 0 } ^ { \beta + 1 } + b \, \phi _ { 0 } ^ { \beta + 2 } + c \, \phi _ { 0 } ^ { \beta + 3 } + d \, \phi _ { 0 } ^ { \beta + 4 } \; .

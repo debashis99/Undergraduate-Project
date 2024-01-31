@@ -1,0 +1,1 @@
+\omega _ { \pm } ( p , \sigma ) = \sqrt { C ( p ) ^ { 2 } + m _ { \sigma } ^ { 2 } + ( B ( p ) \pm \Lambda ) ^ { 2 } }

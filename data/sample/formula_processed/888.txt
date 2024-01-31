@@ -1,0 +1,1 @@
+R _ { S } ^ { 0 } ( F ^ { \otimes n } , G ) = \int d ^ { n } x ( { \mathcal R } ( x _ { \pi _ { t } ( 1 ) } ) \ldots { \mathcal R } ( x _ { \pi _ { t } ( n ) } ) G ) _ { S } \ .

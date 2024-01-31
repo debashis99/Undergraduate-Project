@@ -1,0 +1,1 @@
+\left[ - \left( 1 - \frac { 2 M } { \rho } \right) \frac { d ^ { 2 } } { d \rho ^ { 2 } } - \frac { 2 ( \rho - 4 M ) ( 2 \rho - 3 M ) } { \rho ^ { 2 } ( \rho - 3 M ) } \frac { d } { d \rho } + \frac { 8 M } { \rho ^ { 2 } ( \rho - 3 M ) } \right] H _ { 1 } ( \rho ) = \lambda H _ { 1 } ( \rho ) ,

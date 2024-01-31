@@ -1,0 +1,1 @@
+( \sum _ { n = 1 } ^ { 1 5 } ( - 1 ) ^ { n } - 1 ) ( \frac { g ^ { 2 } } { 3 2 \pi ^ { 2 } } ) t r \epsilon ^ { \mu \nu \alpha \beta } F _ { \mu \nu } F _ { \alpha \beta } = - 2 ( \frac { g ^ { 2 } } { 3 2 \pi ^ { 2 } } ) t r \epsilon ^ { \mu \nu \alpha \beta } F _ { \mu \nu } F _ { \alpha \beta }

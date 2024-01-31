@@ -1,0 +1,1 @@
+\left[ \frac { 1 } { \omega } ( A _ { N - 6 } b ^ { 6 } ) ^ { 5 / 8 } \right] ^ { 6 } = \frac { ( A _ { N - 6 } b ^ { 6 } ) ^ { 6 } } { b ^ { 4 N } } \quad \Rightarrow \quad b ^ { 4 N } = 1 .

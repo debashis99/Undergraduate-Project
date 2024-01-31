@@ -1,0 +1,1 @@
+H r ( \tau ) = \frac { k } { \sqrt { 1 + k ^ { 2 } } } \mid \mathrm { s n } [ \frac { \tau } { \sqrt { 1 + k ^ { 2 } } } , \; k ] \mid .

@@ -1,0 +1,1 @@
+\Omega : u \rightarrow \ { S _ { \Omega } } \left( u \right) = { { \Omega } ^ { - 1 } } u .

@@ -1,0 +1,1 @@
+{ \cal M } = M ( \infty ) = 4 \pi \int _ { 0 } ^ { \infty } \left[ r ^ { 2 } \left( { \cal U } ( f , h , u ) + \alpha ^ { 2 } { \cal K } ( f , h , u ) \right) - \eta ^ { 2 } \right] e ^ { - P ( r ) } \ ,

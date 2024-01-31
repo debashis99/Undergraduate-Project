@@ -1,0 +1,1 @@
+H ( \omega , 0 ) = \frac { \phi _ { 1 } f _ { 2 } \partial _ { r } ( \phi _ { 2 } ^ { ( - ) } / A _ { - } ) - ( \phi _ { 2 } ^ { ( - ) } / A _ { - } ) f _ { 1 } \partial _ { r } \phi _ { 1 } } { \phi _ { 1 } f _ { 2 } \partial _ { r } ( \phi _ { 2 } ^ { ( + ) } / A _ { + } ) - ( \phi _ { 2 } ^ { ( + ) } / A _ { + } ) f _ { 1 } \partial _ { r } \phi _ { 1 } } \ .

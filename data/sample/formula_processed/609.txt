@@ -1,0 +1,1 @@
+F _ { \alpha \beta } = \partial _ { \alpha } A _ { \beta } - \partial _ { \beta } A _ { \alpha } + [ A _ { \alpha } , A _ { \beta } ] _ { \star }

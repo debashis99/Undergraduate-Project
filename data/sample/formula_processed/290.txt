@@ -1,0 +1,1 @@
+V ( \phi ) \ = \ < H _ { \mu \nu } ^ { 2 } > \cdot ( 1 - [ \rho ^ { 2 } + \sigma ^ { 2 } ] ) ^ { 2 } \ \sim \ \lambda ( 1 - | \phi | ^ { 2 } ) ^ { 2 }

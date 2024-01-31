@@ -1,0 +1,1 @@
+\left[ D _ { f } , D \right] = 0 \, .

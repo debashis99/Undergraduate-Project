@@ -1,0 +1,1 @@
+\zeta _ { \pm } ^ { \prime } ( 0 | K _ { 0 } ) = \frac { 1 } { 2 } \zeta ^ { \prime } ( 0 | L ) \pm \frac { i \pi } { 2 } \eta ( 0 | K _ { 0 } ) \, .

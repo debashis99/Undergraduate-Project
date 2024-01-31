@@ -1,0 +1,1 @@
+\delta B = { \frac { 1 } { 2 } } \delta \bar { \theta } \Gamma _ { M N } \theta ( d X ^ { M } d X ^ { N } + \bar { \theta } \Gamma ^ { M } d \theta d X ^ { N } + { \frac { 1 } { 3 } } \bar { \theta } \Gamma ^ { M } d \theta \bar { \theta } \Gamma ^ { N } d \theta )

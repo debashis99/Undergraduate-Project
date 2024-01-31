@@ -1,0 +1,1 @@
+\left( S _ { n } ( \rho a ) - S _ { n } ^ { ' } ( \rho a ) \right) \left( S _ { n } ( - \rho R ) - S _ { n } ^ { ' } ( - \rho R ) \right) .

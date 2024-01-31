@@ -1,0 +1,1 @@
+H _ { 0 } = \int _ { 0 } ^ { \infty } d p \, p [ A ^ { \dag } ( p ) A ( p ) - B ^ { \dag } ( p ) B ( p ) ] .

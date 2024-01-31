@@ -1,0 +1,1 @@
+S = { \frac { \pi ^ { 3 } R ^ { 5 } } { 2 \kappa _ { 1 0 } ^ { 2 } } } \left[ \; \int _ { 0 } ^ { 1 } \! d u \, d ^ { 4 } x \, \sqrt { - g } \left( { \cal R } - 2 \Lambda \right) + 2 \int \! d ^ { 4 } x \, \sqrt { - h } K + a \int \! d ^ { 4 } x \, \sqrt { - h } \; \right] \, .

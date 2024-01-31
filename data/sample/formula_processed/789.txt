@@ -1,0 +1,1 @@
+\varepsilon _ { i j } D _ { i } \phi ^ { a } = \pm \varepsilon ^ { a b c } D _ { j } \phi ^ { b } \phi ^ { c } ,

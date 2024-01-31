@@ -1,0 +1,1 @@
+[ \partial _ { x } - \sum _ { s = 1 } ^ { m _ { 1 } } A ^ { - s } , \partial _ { y } - ( \rho h ) - \sum _ { s = 1 } ^ { m _ { 2 } } A ^ { + s } ] = 0

@@ -1,0 +1,1 @@
+\frac { \overline { { b } } } { \overline { { d } } } = \frac { 2 \overline { { B } } _ { 2 } } { 3 \overline { { B } } _ { 1 } }

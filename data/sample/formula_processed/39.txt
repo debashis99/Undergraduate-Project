@@ -1,0 +1,1 @@
+\langle f | g \rangle _ { { \cal L } ^ { 1 | 2 } } = \langle f _ { 0 } | g _ { 0 } \rangle _ { \cal L } ^ { s } + \langle f _ { 1 } | g _ { 1 } \rangle _ { \cal L } ^ { s + 1 / 2 } + \langle f _ { 2 } | g _ { 2 } \rangle _ { \cal L } ^ { s + 1 / 2 } + \langle f _ { 3 } | g _ { 3 } \rangle _ { \cal L } ^ { s + 1 } \, ,

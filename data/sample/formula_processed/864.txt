@@ -1,0 +1,1 @@
+C ( \theta ) = \left\{ \begin{array} { l } { \operatorname { c o t } { \theta } \hspace { 0 . 5 c m } \mathrm { f o r } \hspace { 0 . 3 c m } k = + 1 , } \\ { 0 \hspace { 0 . 5 c m } \mathrm { f o r } \hspace { 0 . 3 c m } k = 0 , } \\ { \operatorname { c o t h } { \theta } \hspace { 0 . 5 c m } \mathrm { f o r } \hspace { 0 . 3 c m } k = - 1 , } \\ \end{array} \right. \

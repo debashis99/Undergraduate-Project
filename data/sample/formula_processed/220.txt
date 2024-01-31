@@ -1,0 +1,1 @@
+\Sigma _ { \pm } ( q _ { 3 } , \left| { \bf q } \right| ) = - \frac { 1 } { 4 \pi } \operatorname { l n } \left[ \frac { 1 } { 2 m } \left( - \frac { 1 } { 2 } \delta \pm i q _ { 3 } + \frac { \left| { \bf q } \right| ^ { 2 } } { 2 m } \right) \right] \, + \, O \left( \frac { 1 } { m ^ { 2 } } \right) .

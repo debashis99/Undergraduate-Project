@@ -1,0 +1,1 @@
+( K ^ { - 1 } ) _ { S } ^ { U } = - \frac { z ^ { * 3 } ( 1 - A | z | ^ { 2 } ) P ^ { \prime } ( y ) } { e ^ { \tilde { K } / 2 } P ^ { \prime \prime } ( y ) } , \mathrm { ~ } ( K ^ { - 1 } ) _ { T } ^ { U } = \frac { ( T + T ^ { * } ) z ^ { * 3 } ( 1 - A | z | ^ { 2 } ) } { e ^ { \tilde { K } / 2 } ( 1 - \frac { \bar { n } } { 3 } B ( 1 - A | z | ^ { 2 } ) \| \Pi \| ) } ,

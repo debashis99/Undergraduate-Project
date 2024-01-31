@@ -1,0 +1,1 @@
+F ^ { T } \rightarrow - { \frac { 1 } { T ^ { 2 } } } ~ F ^ { T } \; .

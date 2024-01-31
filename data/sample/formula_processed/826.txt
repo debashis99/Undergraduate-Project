@@ -1,0 +1,1 @@
+\triangle ^ { s y m } ( t ) = - t ^ { * } \times 1 + 1 \times t ,

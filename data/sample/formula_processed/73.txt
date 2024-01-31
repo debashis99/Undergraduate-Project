@@ -1,0 +1,1 @@
+Z _ { \mathrm { F } } [ A ] = \int \! D { \bar { \psi } } D \psi e ^ { - \int \! d ^ { 2 } x \, [ \psi _ { 1 } ^ { \dagger } i \partial \psi _ { 1 } + \psi _ { 2 } ^ { \dagger } i { \bar { \partial } } \psi _ { 2 } - \psi _ { 1 } ^ { \dagger } A \psi _ { 1 } - \psi _ { 2 } ^ { \dagger } { \bar { A } } \psi _ { 2 } ] } \; ,

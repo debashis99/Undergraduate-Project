@@ -1,0 +1,1 @@
+W _ { \infty } ^ { 3 , D } = { \frac { 1 } { 1 6 } } ( 1 - \gamma ) ^ { - 1 } \sum _ { k = 0 } ^ { \infty } ( - 1 ) ^ { k } \beta ^ { k } ( k + 1 ) ( k + 3 ) ( k + 5 ) \sum _ { m = 0 } ^ { \infty } ( m ^ { 2 + k } - m ^ { 1 + k } ) \alpha _ { m } ^ { - k - 7 } .

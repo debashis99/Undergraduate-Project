@@ -1,0 +1,1 @@
+\begin{array} { l l } { f ( \psi ) = 1 + \frac { 1 } { R ^ { 2 } } \sum _ { r = 1 } ^ { N } m _ { r } ^ { 2 } ( \psi _ { r } ) ^ { 2 } + O ( \psi ^ { 3 } ) } & { \mathrm { w i t h ~ \frac { m _ { r } ^ { 2 } } { R ^ { 2 } } ~ \equiv ~ \frac { 1 } { 2 } ~ \partial _ { r } ~ \partial _ { r } ~ f ~ | _ { \psi ~ = 0 } ~ } . } \\ \end{array}

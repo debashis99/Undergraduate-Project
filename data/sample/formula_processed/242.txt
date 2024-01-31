@@ -1,0 +1,1 @@
+\delta _ { \beta } \left( \alpha \right) = \alpha \wedge \beta = \alpha _ { a b } \cdot \beta _ { c d } \left( \chi ^ { a b } \otimes \chi ^ { c d } \right) A d _ { R }

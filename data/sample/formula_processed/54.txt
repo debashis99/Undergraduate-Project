@@ -1,0 +1,1 @@
+\theta \epsilon ^ { i } = \zeta ^ { i } \, ; \qquad \theta \zeta ^ { i } = \epsilon ^ { i } \, ; \qquad \theta \eta ^ { i } = - \eta ^ { i } \, .

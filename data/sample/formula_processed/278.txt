@@ -1,0 +1,1 @@
+V _ { A } = T ^ { a } \int _ { 0 } ^ { T } d \tau \, \bigl [ \dot { x } _ { \mu } \varepsilon _ { \mu } - 2 \mathrm { i } \psi _ { \mu } \psi _ { \nu } k _ { \mu } \varepsilon _ { \nu } \bigr ] \mathrm { e x p } [ i k x ( { \tau } ) ]

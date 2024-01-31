@@ -1,0 +1,1 @@
+p _ { \nu } ^ { \prime } T _ { \mu \nu } ^ { S \rightarrow A A } = 2 m i [ T _ { \mu } ^ { S \rightarrow A P } ] - 4 m ( k _ { 3 } + k _ { 2 } ) _ { \alpha } \triangle _ { \alpha \mu } - 4 m ( l _ { 3 } + l _ { 2 } ) _ { \alpha } \triangle _ { \alpha \mu } ,

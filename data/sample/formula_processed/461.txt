@@ -1,0 +1,1 @@
+\langle \Theta \rangle = c ~ R ^ { ( 2 ) } + \beta ^ { i } \langle V _ { i } \rangle

@@ -1,0 +1,1 @@
+\theta _ { s } ( \sum ( x _ { i } - y _ { i } ) / 2 + z - w ) \prod _ { I } \theta _ { s , h _ { I } } ( \sum ( x _ { i } + y _ { i } ) / 2 - \sum u _ { i , I } ) ~ .

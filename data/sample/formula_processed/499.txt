@@ -1,0 +1,1 @@
+\Sigma _ { \alpha \beta } = V ^ { - 1 } ~ \sigma _ { \alpha \beta } V

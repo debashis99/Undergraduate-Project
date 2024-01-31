@@ -1,0 +1,1 @@
+\Pi _ { \mu \nu } ^ { ( I ) } = { \frac { e ^ { 2 } C ^ { ( I ) } } { 2 } } \, \int { \frac { d ^ { n } k } { ( 2 \pi ) ^ { n } } } \, { \frac { ( 1 - \operatorname { c o s } p \times k ) } { k ^ { 2 } ( k + p ) ^ { 2 } } } \, N _ { \mu \nu } ^ { ( I ) } ; \; \; \; \; \; \; \; \; \; \; \; I = a , b , c

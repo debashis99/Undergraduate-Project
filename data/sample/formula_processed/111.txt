@@ -1,0 +1,1 @@
+\langle P ^ { \prime } | J ^ { \mu } ( 0 ) | P \rangle = \bar { u } ( P ^ { \prime } ) \, \Big [ \, F _ { 1 } ( q ^ { 2 } ) \gamma ^ { \mu } + F _ { 2 } ( q ^ { 2 } ) { \frac { i } { 2 M } } \sigma ^ { \mu \alpha } q _ { \alpha } \, \Big ] \, u ( P ) \ ,

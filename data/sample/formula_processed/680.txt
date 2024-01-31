@@ -1,0 +1,1 @@
+T ^ { 0 } = \frac { 1 } { 4 \pi \kappa _ { B } k } \frac { ( d - 2 k - 1 ) } { r _ { + } } .

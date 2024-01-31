@@ -1,0 +1,1 @@
+\left( \frac { i \phi } { { 2 \pi } } \right) ^ { 2 n } \int _ { M } \mathrm { e } ^ { i \phi H } \frac { \omega ^ { n } } { n ! } = \sum _ { d H = 0 } \frac { \mathrm { e } ^ { i \phi H } { { \sqrt { \operatorname* { d e t } \omega } } } } { \sqrt { \operatorname* { d e t } \mathrm { P f } H } } .

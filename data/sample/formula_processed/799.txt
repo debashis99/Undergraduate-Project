@@ -1,0 +1,1 @@
+{ \cal L } _ { \mathrm { e f f } } = T \, ( \partial _ { \mu } y ( x ) ) ( \partial ^ { \mu } y ( x ) ) \, .

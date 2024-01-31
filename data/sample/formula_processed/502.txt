@@ -1,0 +1,1 @@
+V _ { \mu } \rightarrow \frac { i } { g } ~ \theta ( \mathrm { \boldmath ~ r ~ } ) ~ \partial _ { \mu } ~ \theta ( \mathrm { \boldmath ~ r ~ } ) + \theta ( \mathrm { \boldmath ~ r ~ } ) ~ V _ { \mu } ~ \theta ^ { \dag } ( \mathrm { \boldmath ~ r ~ } )

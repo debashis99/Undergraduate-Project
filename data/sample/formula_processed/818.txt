@@ -1,0 +1,1 @@
+\left\{ \begin{array} { c c c } { - \lambda ^ { 2 } x ^ { + } \left( x ^ { - } + \Delta \right) } & { = } & { { \frac { \kappa } { 4 } } } \\ { - \lambda ^ { 2 } x ^ { + } x ^ { - } } & { = } & { { \frac { \kappa } { 4 } } \, e ^ { \frac { 4 M } { \kappa \lambda } } \; . } \\ \end{array} \right.

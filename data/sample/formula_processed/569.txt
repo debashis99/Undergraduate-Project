@@ -1,0 +1,1 @@
+| D \rangle _ { 0 } = { \frac { 1 } { \sqrt { M } } } | { \widetilde D } \rangle _ { 0 } ~ .

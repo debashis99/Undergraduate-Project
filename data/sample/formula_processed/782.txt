@@ -1,0 +1,1 @@
+A _ { 1 } = - \frac { i \sqrt { 2 } G \hbar D _ { 1 } \operatorname { s i n } ( \frac { 1 } { \hbar } p _ { 3 } ^ { ( 1 ) } L ) } { ( E + p _ { 3 } ^ { ( 1 ) } ) \left[ e ^ { - \frac { i } { \hbar } p _ { 3 } ^ { ( 1 ) } L } - \frac { ( G \hbar D _ { 1 } ) ^ { 2 } } { ( E + p _ { 3 } ^ { ( 1 ) } ) ^ { 2 } } e ^ { \frac { i } { \hbar } p _ { 3 } ^ { ( 1 ) } L } \right] }

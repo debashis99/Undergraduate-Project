@@ -1,0 +1,1 @@
+{ \cal L } = - \frac { 1 } { 4 } F _ { \mu \nu } F ^ { \mu \nu } + \frac { 1 } { 2 } m ^ { 2 } ( A _ { \mu } + \partial _ { \mu } \theta ) ( A ^ { \mu } + \partial ^ { \mu } \theta ) + A ^ { \mu } \partial _ { \mu } B - \partial _ { \mu } \bar { \cal C } \partial ^ { \mu } { \cal C } - \frac { 1 } { 2 } \alpha B ^ { 2 } .

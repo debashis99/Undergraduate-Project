@@ -1,0 +1,1 @@
+\phi ( \Gamma ) ( m ; p _ { i } ) = \int _ { 0 } ^ { \infty } \frac { F _ { \Gamma } ( r ; m ; p _ { i } ) } { r } d r ,

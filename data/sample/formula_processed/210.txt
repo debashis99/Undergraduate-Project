@@ -1,0 +1,1 @@
+I _ { n } ( x ) = \int _ { 0 } ^ { x } d x _ { n } \int _ { 0 } ^ { x _ { n } } d x _ { n - 1 } \cdots \int _ { 0 } ^ { x _ { 2 } } d x _ { 1 } \cdot 1 = \frac { x ^ { n } } { n ! } .

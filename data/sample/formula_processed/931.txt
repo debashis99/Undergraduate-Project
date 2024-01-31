@@ -1,0 +1,1 @@
+\eta ^ { \mu } ( \sigma ) = \hat { \xi } ^ { \mu } ( \sigma , r ( \sigma ) ) \ .

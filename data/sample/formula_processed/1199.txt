@@ -1,0 +1,1 @@
+\left[ a , b , c \right] = a b c + b c a + c a b - c b a - a c b - b a c ,

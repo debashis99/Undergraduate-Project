@@ -1,0 +1,1 @@
+( 2 \pi { \bar { N } } \dot { \xi } ^ { 2 } ( s ) ) ^ { - 1 } { \cal D } ^ { \mu } ( s ) F _ { \mu } [ \xi | s ] = - [ { \cal D } ^ { \mu } ( s ) , { \cal D } ^ { \nu } ( s ) ] L _ { \mu \nu } [ \xi | s ] .

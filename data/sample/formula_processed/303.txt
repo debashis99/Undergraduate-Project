@@ -1,0 +1,1 @@
+\delta _ { { \hat { \xi } } _ { 2 } } L [ { \hat { \xi } } _ { 1 } ] = \left\{ L [ { \hat { \xi } } _ { 2 } ] , L [ { \hat { \xi } } _ { 1 } ] \right\} = L [ \{ { \hat { \xi } } _ { 1 } , { \hat { \xi } } _ { 2 } \} _ { \mathrm { \scriptsize ~ S D } } ] + K [ { \hat { \xi } } _ { 1 } , { \hat { \xi } } _ { 2 } ]

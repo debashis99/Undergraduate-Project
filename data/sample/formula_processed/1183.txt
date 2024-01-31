@@ -1,0 +1,1 @@
+\alpha = \sum _ { a = 1 } ^ { J } \alpha ( a ; \infty ) .

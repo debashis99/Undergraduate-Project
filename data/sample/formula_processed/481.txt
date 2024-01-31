@@ -1,0 +1,1 @@
+S ( \mathrm { i } \pi - \theta ) = - \mathrm { i } t a n h ( \frac { \theta } { 2 } ) \; \; \; \bar { S } ( \theta )

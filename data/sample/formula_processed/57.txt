@@ -1,0 +1,1 @@
+\phi ^ { A } = \frac { \partial F ( \phi , \phi ^ { * } ) } { \partial \phi _ { A } ^ { * } } \hspace { 2 c m } \phi _ { A } ^ { * } = \frac { \partial F ( \phi , \phi ^ { * } ) } { \partial \phi ^ { A } } .

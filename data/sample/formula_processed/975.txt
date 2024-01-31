@@ -1,0 +1,1 @@
+\operatorname { e x p } \left( { \frac { \Phi } { 2 } } \right) = { \frac { C _ { 0 } } { \operatorname { l o g } { \rho / \rho _ { 0 } } } } ,

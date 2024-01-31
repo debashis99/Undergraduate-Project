@@ -1,0 +1,1 @@
+\sum _ { n = 1 / 2 , \cdots } { \frac { \Delta p ^ { + } } { p _ { n } ^ { + } } } = \sum _ { n = n _ { \mathrm { I R } } + 1 } ^ { n _ { \mathrm { U V } } - 1 } \frac { 1 } { n } \simeq \mathrm { l n } \frac { n _ { \mathrm { U V } } } { n _ { \mathrm { I R } } } \simeq \mathrm { l n } \frac { 2 \Lambda ^ { 2 } } { M ^ { 2 } + { \bf p } _ { \bot } ^ { 2 } } ,

@@ -1,0 +1,1 @@
+\psi \left( x \right) = \psi _ { o u t } \left( x \right) + \int S _ { A } \left( x - y \right) j \left( y \right) d ^ { 4 } y

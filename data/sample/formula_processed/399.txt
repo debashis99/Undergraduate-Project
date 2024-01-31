@@ -1,0 +1,1 @@
+\sum _ { i , j , k , l = 1 } ^ { h } a _ { i j } ^ { p } A _ { i k } A _ { j l } \overline { a } _ { k l } ^ { q } = \sum _ { i , j , k , l , m , n = 1 } ^ { h } b _ { i j m } ^ { p } A _ { i k } A _ { j l } A _ { m n } \overline { b } _ { k l n } ^ { q } .

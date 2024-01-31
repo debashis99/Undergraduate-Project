@@ -1,0 +1,1 @@
+\Gamma [ W , \bar { W } , q ^ { + } ] = S [ V ^ { + + } , q ^ { + } ] + \bar { \Gamma } [ W , \bar { W } , q ^ { + } ] ,

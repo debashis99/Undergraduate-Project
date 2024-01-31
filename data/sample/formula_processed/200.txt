@@ -1,0 +1,1 @@
+G _ { \alpha \beta } ( \tau , \tau ^ { \prime } ) = \frac { 1 } { 2 } \int \Sigma _ { \alpha \beta } ( \tau , \lambda ^ { \prime } ) \epsilon ( \lambda ^ { \prime } - \tau ^ { \prime } ) \; d \lambda ^ { \prime }

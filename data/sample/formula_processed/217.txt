@@ -1,0 +1,1 @@
+l n d e t = \frac { | e \Phi | } { 2 \pi } \operatorname { l n } ( m a ) + R ( m ) ,

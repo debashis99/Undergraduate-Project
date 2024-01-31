@@ -1,0 +1,1 @@
+- \left( \frac { \partial } { \partial \xi } , \frac { \partial } { \partial \eta } \right) \Gamma ( \xi , \eta ) \left( \begin{array} { c } { \frac { \partial } { \partial \xi } } \\ { \frac { \partial } { \partial \eta } } \\ \end{array} \right)

@@ -1,0 +1,1 @@
+G ^ { ( \rho ) } ( x , y ) : = \sum _ { n } \overline { { P _ { n } ^ { ( \rho ) } ( x ) } } P ^ { ( \rho ) n } ( y ) .

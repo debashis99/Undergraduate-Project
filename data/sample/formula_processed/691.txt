@@ -1,0 +1,1 @@
+V ( \Phi ) = \frac { m ^ { 2 } } { 2 } | \Phi | ^ { 2 } + \frac { \lambda } { 4 ! } | \Phi | ^ { 4 } ,

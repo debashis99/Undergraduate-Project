@@ -1,0 +1,1 @@
+\Delta _ { + } = - ( \beta ^ { - 1 } \partial _ { \mu } \beta ) ( \beta \partial _ { \mu } \beta ^ { - 1 } ) \quad \mathrm { a n d } \quad \Delta _ { - } = - ( \beta \partial _ { \mu } \beta ^ { - 1 } ) ( \beta ^ { - 1 } \partial _ { \mu } \beta ) \, ,

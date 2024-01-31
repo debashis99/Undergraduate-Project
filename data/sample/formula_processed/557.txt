@@ -1,0 +1,1 @@
+\dot { G } _ { B } ( \tau , \tau ) = 0 , \quad \dot { G } _ { B } ^ { 2 } ( \tau , \tau ) = 1

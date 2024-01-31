@@ -1,0 +1,1 @@
+\widetilde { \Omega } _ { i } ^ { ( 1 ) } ( x ) = \int d y X _ { i j } ( x , y ) \Phi ^ { j } ( y ) .

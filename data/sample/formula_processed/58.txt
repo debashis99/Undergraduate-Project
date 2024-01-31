@@ -1,0 +1,1 @@
+Q ^ { M } = \dot { g } _ { 0 } \int _ { \phi ( \Sigma ) } \sum _ { i = 1 } ^ { l } \beta _ { i } \eta _ { i } \int _ { N _ { i } } \frac 1 { \sqrt { g } } \delta ^ { D } ( x - z _ { i } ( u ) ) \sqrt { g _ { u } }

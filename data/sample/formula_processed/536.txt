@@ -1,0 +1,1 @@
+\Psi _ { F Q H E } ^ { m } ( Z ) = \prod _ { i < j } ^ { N } ( Z _ { i } - Z _ { j } ) ^ { m } \operatorname { e x p } \{ - \sum _ { k = 1 } ^ { N } | Z _ { k } | ^ { 2 } \} ,

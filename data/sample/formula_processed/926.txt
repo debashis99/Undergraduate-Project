@@ -1,0 +1,1 @@
+T ^ { 0 i } = B \tilde { E } _ { i } - ( \partial _ { j } E _ { j } ) A _ { i } - \frac { 2 < B ^ { 2 } > } { \Lambda ^ { 3 } \kappa } \partial _ { i } ( A E ) + \frac { M } { 8 } \partial _ { j } ( A _ { i } \tilde { A } _ { j } + A _ { j } \tilde { A } _ { i } ) ;

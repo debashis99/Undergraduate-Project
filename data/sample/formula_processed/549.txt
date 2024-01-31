@@ -1,0 +1,1 @@
+L ^ { d = 4 } = \frac { 1 } { 4 e ^ { 2 } } \int \left( W ^ { 2 } d ^ { 2 } \theta + \bar { W } ^ { 2 } d ^ { 2 } \bar { \theta } \right) + \frac { 1 } { e ^ { 2 } } \sum _ { r , s , t = 0 } ^ { \infty } a _ { r s t } \int d ^ { 4 } \theta \left( W ^ { 2 } \bar { W } ^ { 2 } \right) ^ { r } X ^ { s } Y ^ { t }

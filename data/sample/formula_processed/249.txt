@@ -1,0 +1,1 @@
+a _ { \alpha } W _ { i } Z _ { \alpha } ^ { I } Y _ { 0 } ^ { \alpha } + W Z _ { \alpha } ^ { I } Y _ { I } ^ { \alpha }

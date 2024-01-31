@@ -1,0 +1,1 @@
+{ \displaystyle x = \frac { 3 / 2 e _ { 1 } ( \tau ) } { 3 / 2 e _ { 1 } ( \tau ) - \hat { u } } , } \hspace { 1 c m } { \displaystyle \sqrt { y } = - \frac { e _ { 2 } ( \tau ) - e _ { 3 } ( \tau ) } { 3 e _ { 1 } ( \tau ) } , }

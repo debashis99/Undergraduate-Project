@@ -1,0 +1,1 @@
+\operatorname { e x p } \left( i p _ { \mu } X ^ { \mu } \right) \rightarrow \hat { v } _ { p } = \hat { h } ^ { k _ { 2 } }

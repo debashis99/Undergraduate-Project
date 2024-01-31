@@ -1,0 +1,1 @@
+T _ { [ \mu \nu ] } ^ { \ a } = \partial _ { \mu } E _ { \nu } ^ { \underline { { a } } } - \partial _ { \nu } E _ { \mu } ^ { \underline { { a } } }

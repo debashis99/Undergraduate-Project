@@ -1,0 +1,1 @@
+\not \! \! D _ { V } : { \cal C } ^ { \infty } ( { \cal S } ^ { \pm } ) \otimes { \cal C } ^ { \infty } ( V ) \longrightarrow { \cal C } ^ { \infty } ( { \cal S } ^ { \mp } ) \otimes { \cal C } ^ { \infty } ( V )

@@ -1,0 +1,1 @@
+2 i \pi \Theta [ - \epsilon ( z ) ] [ \; ] { \cal B } ( - \alpha , \beta + \alpha + 1 ) \left[ e ^ { i \pi \epsilon ( z ) \alpha } - e ^ { i \pi \alpha } \right] z ^ { - \alpha - \beta - 1 } =

@@ -1,0 +1,1 @@
+\epsilon _ { \mathbf { p } } = \pm \sqrt { \left( E _ { \mathbf { p } } \pm \mu \right) ^ { 2 } + \chi ^ { 2 } } .

@@ -1,0 +1,1 @@
+x = a + b \overline { { \psi } } _ { 0 } \psi _ { 0 } , \qquad \psi = c \psi _ { 0 } + d \overline { { \psi } } _ { 0 } , \qquad \overline { { \psi } } = c ^ { * } \overline { { \psi } } _ { 0 } + d ^ { * } \psi _ { 0 } ,

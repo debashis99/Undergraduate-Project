@@ -1,0 +1,1 @@
+J = \left( \begin{array} { c c } { 1 } & { 0 } \\ { A } & { 1 } \\ \end{array} \right) ,

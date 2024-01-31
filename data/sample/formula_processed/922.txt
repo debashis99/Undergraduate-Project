@@ -1,0 +1,1 @@
+\nabla _ { \mu } \phi _ { \mu _ { 1 } \dots \mu _ { k } } = ( \partial _ { \mu } + \omega _ { \mu } ) \phi _ { \mu _ { 1 } \dots \mu _ { k } } - \sum _ { i = 1 } ^ { k } \Gamma _ { \mu _ { i } \mu } ^ { \lambda } \phi _ { \mu _ { 1 } \dots \mu _ { i - 1 } \lambda \mu _ { i + 1 } \dots \mu _ { k } }

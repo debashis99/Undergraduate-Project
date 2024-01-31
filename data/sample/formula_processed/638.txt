@@ -1,0 +1,1 @@
+\alpha _ { w e a k } ^ { u _ { R } } = \frac { 4 } { 9 } \alpha _ { e l } \frac { \operatorname { s i n } ^ { 2 } \theta _ { W } } { \operatorname { c o s } ^ { 2 } \theta _ { W } } .

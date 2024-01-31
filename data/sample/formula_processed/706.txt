@@ -1,0 +1,1 @@
+[ T _ { i } , T _ { j } ] = c _ { i j k } T _ { k } \ , \quad [ T _ { i } , T _ { j } ^ { \prime } ] = c _ { i j k } T _ { k } ^ { \prime } \ , \quad [ T _ { i } ^ { \prime } , T _ { j } ^ { \prime } ] = - c _ { i j k } T _ { k } \ .

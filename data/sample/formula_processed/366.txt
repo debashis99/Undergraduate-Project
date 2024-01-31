@@ -1,0 +1,1 @@
+\{ \{ F , G \} , H \} = \sum I _ { A B } I _ { C D } \int _ { \Omega } D _ { I } { \frac { \partial h } { \partial \phi _ { B } ^ { ( J ) } } }

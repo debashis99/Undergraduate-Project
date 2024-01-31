@@ -1,0 +1,1 @@
+Q = ( b + 1 / b ) \rho , \qquad \rho = \frac 1 2 \sum _ { \alpha > 0 } \alpha ,

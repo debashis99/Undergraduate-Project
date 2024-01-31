@@ -1,0 +1,1 @@
+3 . 8 G = \eta _ { a b } d z ^ { a } \otimes d z ^ { b } = - d z ^ { 0 } \otimes d z ^ { 0 } + \sum _ { i = 1 } ^ { n - 1 } d z ^ { i } \otimes d z ^ { i } ,

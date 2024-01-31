@@ -1,0 +1,1 @@
+d s ^ { 2 } = ( 1 - \frac { N ^ { 4 } } { r ^ { 4 } } ) ( \frac { r } { 8 N } ) ^ { 2 } ( d \tau + 4 N \operatorname { c o s } \theta d \phi ) ^ { 2 } + ( 1 - \frac { N ^ { 4 } } { r ^ { 4 } } ) ^ { - 1 } d r ^ { 2 } + \frac { 1 } { 4 } r ^ { 2 } d \Omega ^ { 2 } .

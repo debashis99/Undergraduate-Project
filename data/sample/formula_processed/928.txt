@@ -1,0 +1,1 @@
+\sqrt { \kappa ^ { 2 } + | \alpha | ^ { 2 } } = \frac { \pi \lambda ^ { 2 } } { L _ { 1 } L _ { 2 } } .

@@ -1,0 +1,1 @@
+\psi = \sqrt \rho _ { 0 } e ^ { i n \theta } , \quad A _ { 0 } = 0 , \quad { \bf A } = \frac { n } { e } \frac { { \bf e } _ { \theta } } { r }

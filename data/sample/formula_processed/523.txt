@@ -1,0 +1,1 @@
+M ( E ) = \left( \begin{matrix} { g - B g ^ { - 1 } B } & { B g ^ { - 1 } } \\ { - g ^ { - 1 } B } & { g ^ { - 1 } } \\ \end{matrix} \right) ,

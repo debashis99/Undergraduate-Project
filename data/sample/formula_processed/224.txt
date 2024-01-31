@@ -1,0 +1,1 @@
+{ \delta _ { \rho } } { \mathcal { F } _ { D } ^ { 1 } } = { \delta _ { \rho } } { \mathcal { F } _ { D } ^ { 0 } } - \alpha { Q } \oint { d } \hat { s } ( \xi ) \rho ( \xi ) { \partial _ { \hat { n } } } { \hat { G } _ { D } } ( \xi , \xi ^ { \prime } ) + ( { \alpha ^ { 2 } } - \alpha { Q } ) \rho ( \xi ^ { \prime } ) .

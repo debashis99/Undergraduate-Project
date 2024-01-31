@@ -1,0 +1,1 @@
+{ \bf P } \left( \hat { a } _ { a _ { 1 } } ^ { \dagger } \ldots \hat { a } _ { a _ { s } + 1 } ^ { \dagger } A _ { \; \; \quad \quad b _ { 1 } \ldots b _ { s } } ^ { a _ { 1 } \ldots a _ { s + 1 } } \hat { a } ^ { b _ { 1 } } \ldots \hat { a } ^ { b _ { s } } \right) = \hat { a } _ { a } ^ { \dagger } K ^ { a }

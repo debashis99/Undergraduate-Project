@@ -1,0 +1,1 @@
+\sum _ { j = 1 } ^ { n } [ I _ { i j } ] _ { \hat { q } } \, m _ { j } = 2 \operatorname { c o s } \pi \left( \vartheta _ { h } + t _ { i } \vartheta _ { H } \right) \, m _ { i } \; , \quad \hat { q } = e ^ { i \pi s \vartheta _ { H } } \; .

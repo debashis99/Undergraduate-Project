@@ -1,0 +1,1 @@
+( t \partial _ { z } + z ^ { - 1 } ( D _ { \jmath _ { 1 } } ^ { + } D _ { \jmath _ { 1 } } ^ { - } - 2 \jmath _ { 0 } D _ { \jmath _ { 1 } } ^ { 0 } ) ) - ( \tilde { J } ^ { + } ( z ) D _ { \jmath _ { 1 } } ^ { - } + 2 \tilde { J } ^ { 0 } ( z ) D _ { \jmath _ { 1 } } ^ { 0 } + \tilde { J } ^ { - } ( z ) D _ { \jmath _ { 1 } } ^ { + } )

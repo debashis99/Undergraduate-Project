@@ -1,0 +1,1 @@
+\left( A _ { 0 } , A _ { 1 } , \phi , \pi _ { 0 } , \pi _ { 1 } , \pi _ { \phi } \right) \longleftrightarrow \left( \xi _ { 1 } , . . . , \xi _ { 6 } \right) ,

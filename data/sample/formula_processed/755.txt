@@ -1,0 +1,1 @@
+V _ { 1 } ( t ) = \operatorname { e x p } \{ i { \frac { e } { \hbar c } } \int \int d ^ { 2 } x d ^ { 2 } x ^ { \prime } \sqrt { g ( x ) } J _ { 0 } ( x ) G ( \vec { x } , \vec { x } ^ { \prime } ) \partial _ { i } ^ { \prime } a _ { i } ^ { ( 1 ) } ( x ^ { \prime } ) \} .

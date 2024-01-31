@@ -1,0 +1,1 @@
+\beta ^ { I } = - G ^ { I J } ( \phi ) { \frac { \partial } { \partial \phi ^ { J } } } \, \operatorname { l o g } ( { a \, \langle T \rangle + U ( \phi ) } )

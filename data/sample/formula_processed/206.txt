@@ -1,0 +1,1 @@
+\left\{ Q _ { a } , Q _ { b } \right\} _ { { \footnotesize P B } } = f _ { a b c } Q _ { c } \; ,

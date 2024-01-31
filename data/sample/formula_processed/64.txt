@@ -1,0 +1,1 @@
+\lambda _ { + } = \frac { 1 + i \omega } { 2 } , \quad \lambda _ { - } = \frac { 1 - i \omega } { 2 }

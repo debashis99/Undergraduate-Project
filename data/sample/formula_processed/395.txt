@@ -1,0 +1,1 @@
+\delta z ^ { M } e _ { M } ^ { \alpha q } \equiv \kappa ^ { \underline { \beta } } ( z ) v _ { \underline { \beta } } ^ { ~ \alpha q } .

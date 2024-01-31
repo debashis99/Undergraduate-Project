@@ -1,0 +1,1 @@
+Z = { \operatorname* { d e t } } _ { T } ^ { - \frac 1 2 } ( - \Delta ) \times { \operatorname* { d e t } } _ { S } ^ { \frac 1 2 } ( - \Delta ) ,

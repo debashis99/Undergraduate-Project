@@ -1,0 +1,1 @@
+U _ { x , i j } = \operatorname { e x p } \left( - \textstyle { { \frac { 1 } { 2 } } } i g a ^ { 2 } \epsilon _ { i j k } B _ { x , k } ^ { a } \tau ^ { a } \right) \, .

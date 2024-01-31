@@ -1,0 +1,1 @@
+\vert j , L = M = 0 \rangle = { \frac { 1 } { \sqrt { 2 j + 1 } } } \; \sum _ { m \; = - j } ^ { j } \vert j , m , - m \rangle

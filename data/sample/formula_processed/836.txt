@@ -1,0 +1,1 @@
+V ( \varphi _ { 0 } ) = 4 \sum _ { s = 1 } ^ { \infty } \int \frac { d ^ { 4 } p } { ( 2 \pi ) ^ { 4 } } \frac { ( - 1 ) ^ { s } } { 2 s } \frac { ( M + g \varphi _ { 0 } ) ^ { 2 s } } { ( p _ { E } ^ { 2 } ) ^ { s } } .

@@ -1,0 +1,1 @@
+{ \frac { \tau _ { j k } } { c _ { 2 } \tau \sp 2 _ { j m } } } =

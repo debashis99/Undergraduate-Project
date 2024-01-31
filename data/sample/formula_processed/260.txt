@@ -1,0 +1,1 @@
+( N _ { c } + \tilde { N } _ { c } , \overline { { N _ { c } + \tilde { N } _ { c } } } ) ( 1 , 1 , 0 , \beta _ { i } ) , \ \ \ i = 1 , 2 , 3

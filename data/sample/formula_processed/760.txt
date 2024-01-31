@@ -1,0 +1,1 @@
+W [ \varphi , \rho ] = W _ { + } ^ { ( 1 ) } [ \varphi ] + W _ { - } ^ { ( 1 ) } [ \rho ] + { \frac { 1 } { 2 \pi } } \int d ^ { 2 } x \, B _ { + } \, B _ { - }

@@ -1,0 +1,1 @@
+\chi _ { a } ( A ) = \varepsilon _ { a b i } \, A _ { b i } ( x ) = 0 \, ,

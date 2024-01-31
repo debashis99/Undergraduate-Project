@@ -1,0 +1,1 @@
+{ \cal M } _ { b } ^ { u u } = \frac { i g ^ { 4 } } { 2 } [ T ^ { a } T ^ { b } \otimes T _ { a } T _ { b } ] \int \frac { d ^ { 2 } k } { ( 2 \pi ) ^ { 2 } } \left[ \frac { T ( k , p _ { 1 } ) T ^ { * } ( k , p _ { 3 } ) } { w _ { k } - w _ { p } } \right]

@@ -1,0 +1,1 @@
+d A = \sqrt { E G - F ^ { 2 } } \hspace { 0 . 2 c m } d u \hspace { 0 . 1 c m } d v = | \operatorname { s i n } \phi | \hspace { 0 . 2 c m } d u \hspace { 0 . 1 c m } d v

@@ -1,0 +1,1 @@
+E _ { c } = \frac { 4 k l } { R } \left( k - \frac { r _ { + } ^ { 2 } } { l ^ { 2 } } \right) ,

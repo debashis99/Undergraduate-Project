@@ -1,0 +1,1 @@
+F \equiv \frac { 1 } { 4 } F ^ { a b } F _ { a b } =

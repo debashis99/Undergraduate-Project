@@ -1,0 +1,1 @@
+s = { \frac { S } { V } } = { \frac { A _ { H } } { l _ { p } ^ { 8 } V } } = { \frac { T ^ { 2 } } { \gamma } } .

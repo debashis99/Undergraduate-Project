@@ -1,0 +1,1 @@
+: \psi _ { r , a } ^ { * } \psi _ { s , b } : = \psi _ { r , a } ^ { * } \psi _ { s b } - \langle 0 | \psi _ { r , a } ^ { * } \psi _ { s b } | 0 \rangle ,

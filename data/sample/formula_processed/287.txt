@@ -1,0 +1,1 @@
+H ^ { ( N ) } ( L , r , l | d , p ) = \sum _ { k = l + p } ^ { N } q ^ { - \sum _ { i = d } ^ { p - 1 } m _ { i } - e _ { d - 1 } C ^ { - 1 } m } B ^ { ( N ) } ( L , r , l + 1 | k ) .

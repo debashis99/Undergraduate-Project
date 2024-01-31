@@ -1,0 +1,1 @@
+X \Psi _ { n _ { 1 } n _ { 2 } m } ( \mu , \nu , \varphi ; \delta _ { 1 } , \delta _ { 2 } ) = - \alpha \frac { n _ { 1 } - n _ { 2 } + \frac { \delta _ { 1 } - \delta _ { 2 } } { 2 } } { n + \frac { \delta _ { 1 } + \delta _ { 2 } } { 2 } } \, \Psi _ { n _ { 1 } n _ { 2 } m } ( \mu , \nu , \varphi ; \delta _ { 1 } , \delta _ { 2 } ) ,

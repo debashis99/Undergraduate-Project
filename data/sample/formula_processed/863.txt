@@ -1,0 +1,1 @@
+\Phi ^ { 2 } = 2 ( { \frac { d - 3 } { d - 2 } } ) q \Phi _ { h } \phi ~ ~ , ~ ~ \gamma _ { a b } = ( { \frac { \phi _ { h } } { \phi } } ) ^ { \frac { d - 3 } { d - 2 } } e ^ { { \frac { 2 } { q \Phi _ { h } } } \phi } \bar { \gamma } _ { a b } ~ ~

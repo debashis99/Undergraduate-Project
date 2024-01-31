@@ -1,0 +1,1 @@
+\int _ { \Sigma } ( i ( D g ) \varphi - ( A g + i g ) \Lambda ) \Psi _ { 0 } = \int _ { \Sigma } g ( i D \varphi + C \Lambda - i \Lambda ) \Psi _ { 0 }

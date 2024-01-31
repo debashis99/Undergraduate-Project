@@ -1,0 +1,1 @@
+\hat { D } ( \hat { u } ) = \lambda ^ { - 1 } \hat { Q } ( \hat { u } )

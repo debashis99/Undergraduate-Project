@@ -1,0 +1,1 @@
+\tilde { \Lambda } _ { S U } ^ { 2 N _ { c } ^ { \prime } - 2 N _ { f } } = ( \mu ^ { - 1 } a ^ { 2 } ) ^ { 2 N _ { f } - 2 N _ { c } } \tilde { \Lambda } ^ { \prime 4 ( N _ { c } ^ { \prime } - 1 ) - 2 ( N _ { f } + \tilde { N } _ { c } ) } .

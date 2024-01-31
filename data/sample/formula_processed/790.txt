@@ -1,0 +1,1 @@
+\Omega ( a _ { 0 } , a _ { 1 } ; b _ { 0 } , b _ { 1 } ) = \left\langle { \frac { \mathrm { D e t } ( 1 - a _ { 1 } U ) \, \mathrm { D e t } ( 1 - b _ { 1 } \bar { U } ) } { \mathrm { D e t } ( 1 - a _ { 0 } U ) \, \mathrm { D e t } ( 1 - b _ { 0 } \bar { U } ) } } \right\rangle \; .

@@ -1,0 +1,1 @@
+\eta _ { \mu \nu } = \mathrm { d i a g ( - , + ) }

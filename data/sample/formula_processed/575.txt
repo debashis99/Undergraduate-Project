@@ -1,0 +1,1 @@
+e _ { \mu } ^ { a } \, e _ { \nu } ^ { b } \, \hat { \xi } _ { a b } \, e ^ { c \, \mu } \, e ^ { d \, \nu } \, \hat { \xi } _ { c d } = \Omega ^ { - 1 } \, \hat { \eta } _ { \mu \nu } \, \hat { \eta } ^ { \mu \nu } \, \Omega .

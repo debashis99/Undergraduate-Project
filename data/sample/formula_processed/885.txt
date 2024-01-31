@@ -1,0 +1,1 @@
+\tilde { G } _ { \mu \nu } ^ { 0 A } - \tilde { G } _ { \mu \nu } ^ { 0 L } = - { \frac { 1 } { k ^ { 2 } } } k _ { \mu } k _ { \nu } \biggl ( { \frac { ( \lambda k ^ { 2 } + \eta ^ { 2 } ) } { ( \eta \cdot k ) ^ { 2 } } } + { \frac { ( 1 - \lambda ) } { k ^ { 2 } } } \biggr ) + { \frac { k _ { [ \mu } \eta _ { \nu ] _ { + } } } { k ^ { 2 } \eta \cdot k } } .

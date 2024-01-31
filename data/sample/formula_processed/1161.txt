@@ -1,0 +1,1 @@
+\operatorname { e x p } \left( \sum _ { g = 0 } ^ { \infty } x ^ { 2 g - 2 } \mathcal { F } _ { g } \right) = e ^ { - \frac { D ( 0 , 0 , 0 ) } { 2 } \zeta ( 1 ) } \prod _ { ( \ell , n , \gamma , j ) > 0 } ( 1 - p ^ { \ell } q ^ { n } \zeta ^ { \gamma } y ^ { j } ) ^ { D ( \ell n , \gamma , j ) } \, .

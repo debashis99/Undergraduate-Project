@@ -1,0 +1,1 @@
+{ \cal E } ^ { B } = \frac 1 { 1 2 \pi } \int _ { - \infty } ^ { \infty } [ d \tau \, a ^ { 2 } \sqrt { f ^ { \prime } } - d ( a \sqrt { f ^ { \prime } } ) ] ,

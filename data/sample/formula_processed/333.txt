@@ -1,0 +1,1 @@
+\zeta ( z , a ) = \sum _ { n = - \infty } ^ { \infty } \frac { 1 } { ( n ^ { 2 } + a ^ { 2 } ) ^ { z } } \, \, \, \, a ^ { 2 } > 0 ,

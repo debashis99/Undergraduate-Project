@@ -1,0 +1,1 @@
+{ \cal H } ( p ) = - 2 i \varepsilon ^ { \mu \nu \rho } \varepsilon ^ { \alpha \beta \lambda } g _ { \nu \alpha } \frac { \mu ^ { \epsilon } } { ( 2 \pi ) ^ { d } } \int { \cal D } q \frac { 1 } { ( p + q ) ^ { 2 } q ^ { 2 } } I _ { \beta \mu \lambda \rho } ( q ) \; ,

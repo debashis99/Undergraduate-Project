@@ -1,0 +1,1 @@
+\nabla ^ { ( H ) } Z _ { A B } = Z _ { I } P _ { A B } ^ { I }

@@ -1,0 +1,1 @@
+E ( l , k ) = \delta _ { l , 2 } \delta _ { k , 1 } + \frac { 2 } { l + k } \sum _ { 2 d | l \pm k } \mu ( d ) { \binom { \frac { l + k } { 2 d } } { \frac { l - k } { 2 d } } } \, ,

@@ -1,0 +1,1 @@
+N ^ { \mu \nu } = L ^ { i } n ^ { [ \mu } { } _ { i } X ^ { \nu ] } { } ^ { \prime } = L ^ { * } \eta _ { 1 } ^ { [ \mu } X ^ { \nu ] } { } ^ { \prime } \, .

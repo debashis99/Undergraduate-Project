@@ -1,0 +1,1 @@
+j ( x ; z ) \Phi _ { h } ( y , \bar { y } ; w , \bar { w } ) \sim \frac { 1 } { z - w } \left\{ ( y - x ) ^ { 2 } \partial _ { y } + 2 h ( y - x ) \right\} \Phi _ { h } ( y , \bar { y } ; w , \bar { w } ) ,

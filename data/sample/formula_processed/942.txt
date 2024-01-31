@@ -1,0 +1,1 @@
+\Psi ( x ) = ( 2 \pi ) ^ { - 3 / 2 } \int \left[ \Psi ^ { + } ( \mathbf { p } ) e ^ { i p x } + \Psi ^ { - } ( \mathbf { p } ) e ^ { - i p x } \right] d ^ { 3 } p ,

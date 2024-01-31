@@ -1,0 +1,1 @@
+S = \frac { 1 } { 1 6 \pi } \int d ^ { 5 } x \sqrt { - g } R \, ,

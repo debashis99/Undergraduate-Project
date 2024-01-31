@@ -1,0 +1,1 @@
+E ( L ) - E _ { 0 } ( L ) = E _ { R } + E _ { L } + M \operatorname { c o s h } \theta \ ,

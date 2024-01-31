@@ -1,0 +1,1 @@
+\frac { d ( T _ { \eta } ^ { \eta } c ( \eta ) } { d \eta } = \frac { \dot { c } ( \eta ) } { 2 } T _ { \beta } ^ { \beta } .

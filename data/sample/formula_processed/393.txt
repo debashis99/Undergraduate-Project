@@ -1,0 +1,1 @@
+\left. \frac { \partial } { \partial \zeta _ { N } } T ( \zeta _ { 1 } , \ldots , \zeta _ { N } ) \right| _ { \zeta _ { 1 } , \ldots , \zeta _ { N } = 1 } \propto H _ { \mathrm { \scriptsize ~ X Y Z } } + \mathrm { c o n s t . } .

@@ -1,0 +1,1 @@
+\partial ^ { m } \bar { \chi } _ { m \dot { \alpha } } = \partial ^ { m } \chi _ { m \alpha } = 0 ,

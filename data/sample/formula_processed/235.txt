@@ -1,0 +1,1 @@
+\hat { \Gamma } _ { 0 } \ldots \hat { \Gamma } _ { ( 1 0 ) } = 1

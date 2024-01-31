@@ -1,0 +1,1 @@
+E _ { | 2 } \left( m , \lambda \right) = 2 \frac V { 2 \pi ^ { 2 } } \sum _ { l = 0 } ^ { \infty } \sum _ { i = 1 } ^ { 2 } \int _ { 0 } ^ { \infty } d p p ^ { 2 } \sqrt { E _ { i } ^ { 2 } \left( p , m , l \right) } ,

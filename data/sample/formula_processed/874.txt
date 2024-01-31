@@ -1,0 +1,1 @@
+\Psi _ { E } ^ { ( - ) } = \left( \begin{array} { l } { e ^ { i \frac { \theta } { 2 } } \sum f _ { n } e ^ { i \left( n + \frac { 1 } { 2 } \right) \theta } } \\ { e ^ { - i \frac { \theta } { 2 } } \sum g _ { n } e ^ { i \left( n + \frac { 1 } { 2 } \right) \theta } } \\ \end{array} \right)

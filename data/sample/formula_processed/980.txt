@@ -1,0 +1,1 @@
+\epsilon ^ { \mu \nu } = { \frac { 1 } { 2 } } e ( e ^ { \mu { [ + 2 ] } } e ^ { \nu { [ - 2 ] } } - e ^ { \mu { [ - 2 ] } } e ^ { \nu { [ + 2 ] } } ) , \qquad \left( \epsilon ^ { { 0 1 } } = - \epsilon _ { { 0 1 } } = 1 \right) ,

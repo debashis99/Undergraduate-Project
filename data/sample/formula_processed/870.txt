@@ -1,0 +1,1 @@
+\partial _ { \tau } \langle x , \tau \vert x ^ { \prime } , 0 \rangle = - \langle x , \tau \vert H \vert x ^ { \prime } , 0 \rangle \; ,

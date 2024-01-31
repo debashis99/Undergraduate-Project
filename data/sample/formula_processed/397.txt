@@ -1,0 +1,1 @@
+S _ { \mathrm { Y M } } = - { \frac { 1 } { 4 e ^ { 2 } } } \int _ { \cal M } d ^ { 2 } x \sqrt { g } g ^ { a c } g ^ { b d } \mathrm { T r } ( F _ { a b } F _ { c d } ) ,

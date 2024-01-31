@@ -1,0 +1,1 @@
+d s ^ { 2 } \rightarrow - K _ { \tau } e ^ { ( \lambda _ { 1 } - \lambda _ { 3 } - 6 ) \tau } d \tau ^ { 2 } + K _ { x } e ^ { - ( \lambda _ { 3 } + 2 ) \tau } d \vec { x } ^ { 2 } + K _ { y } e ^ { ( \lambda _ { 1 } - 2 ) \tau } d \vec { y } ^ { 2 }

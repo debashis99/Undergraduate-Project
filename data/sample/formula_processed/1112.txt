@@ -1,0 +1,1 @@
+{ \frac { d z } { d r } } = e ^ { 2 A } , \hspace { 1 c m } \psi \rightarrow e ^ { - 3 A / 2 } \psi

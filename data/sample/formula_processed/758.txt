@@ -1,0 +1,1 @@
+\mu = 1 / 2 + \nu , \mathrm { f o r ~ t y p e ~ I ~ b o u n d a r y ~ c o n d i t i o n s }

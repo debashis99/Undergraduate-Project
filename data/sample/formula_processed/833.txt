@@ -1,0 +1,1 @@
+R _ { i j k l } ^ { ( + ) } = \frac { 1 } { 2 } g _ { i m } g _ { j n } \phi ^ { m n p q } R _ { p q k l } ^ { ( + ) } .

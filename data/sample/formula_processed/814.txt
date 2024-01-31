@@ -1,0 +1,1 @@
+\{ X ^ { M } \} = \{ x ^ { \mu } , y ^ { i } \} , \quad D _ { i } ( X ) \equiv y ^ { i } .

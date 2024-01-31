@@ -1,0 +1,1 @@
+\dot { G } _ { \pm } + \frac { i } { 2 } \phi ^ { \pm } D _ { \pm } ^ { 2 } G _ { \pm } + \frac { i } { 4 } D _ { \pm } \phi ^ { \pm } D _ { \pm } G _ { \pm } + \frac { 3 } { 4 } i D _ { \pm } ^ { 2 } \phi ^ { \pm } G _ { \pm } = \frac { \kappa _ { 0 } } { 2 } D _ { \pm } ^ { 5 } \phi ^ { \pm } ~ .

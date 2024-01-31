@@ -1,0 +1,1 @@
+i \frac { \partial \psi } { \partial t } = - i \mathrm { \boldmath ~ \alpha ~ } \cdot \nabla \psi + \beta m \psi - q \mathrm { \boldmath ~ \alpha ~ } \cdot { \bf A } \psi + q A _ { 0 } \psi

@@ -1,0 +1,1 @@
+\left\langle \operatorname { e x p } \left( \; 2 \sum _ { b = 1 } ^ { N } \beta ^ { ( b ) } \int _ { \Lambda } d ^ { 2 } x \; t ( x ) \; : \operatorname { c o s } \left( 2 \sqrt { \pi } \varphi ^ { ( b ) } ( x ) \; \right) : _ { Q ^ { W } } \; \right) \right\rangle \; .

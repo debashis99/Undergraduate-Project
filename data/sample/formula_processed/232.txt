@@ -1,0 +1,1 @@
+\alpha ^ { 2 } \partial _ { x ^ { - } } ^ { 3 } g _ { a } ( x ) = 0 ~ ; \alpha \neq 0

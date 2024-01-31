@@ -1,0 +1,1 @@
+\psi ( x ) = [ 2 \pi \sigma ^ { 2 } ] ^ { - 1 / 4 } \operatorname { e x p } \left[ - \left( \frac { x - x _ { 0 } } { 2 \sigma } \right) ^ { 2 } + i p _ { 0 } x \right] ,

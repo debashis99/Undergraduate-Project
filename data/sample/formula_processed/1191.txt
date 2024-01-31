@@ -1,0 +1,1 @@
+\mathbf { \nabla \cdot } { \mathbf { K } } ^ { C } = 4 \pi { \mathbf { J } } ^ { C } \qquad \mathbf { \nabla \cdot } \; ^ { * } { \mathbf { K } } ^ { C } = 0

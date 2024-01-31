@@ -1,0 +1,1 @@
+{ \cal D } = \sum _ { i , j } c _ { i , j } \, \frac { ( g ^ { 2 } N ) ^ { i } } { N ^ { 2 j } } ,

@@ -1,0 +1,1 @@
+H _ { Q ( t , z ) } ^ { S , l } \cong H _ { Q ( t ) } ^ { S } \otimes C [ [ z ] ] \cong \hat { H } _ { Q ( t , z ) } ^ { S } ,

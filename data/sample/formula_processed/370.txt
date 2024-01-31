@@ -1,0 +1,1 @@
+\int \prod _ { i } d Y _ { i } \delta ( \sum _ { i = 1 } ^ { 6 } w _ { i } Y _ { i } - t ) e ^ { - \sum _ { i } \mu _ { i } Y _ { i } } \ \stackrel { Y _ { i } \rightarrow Y _ { i } + l n \mu _ { i } } { \longrightarrow } \int \prod _ { i } d Y _ { i } \delta ( \sum _ { i = 1 } ^ { 6 } w _ { i } Y _ { i } - t ^ { \prime } ) e ^ { - \sum _ { i } Y _ { i } } ,

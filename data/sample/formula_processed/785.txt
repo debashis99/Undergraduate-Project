@@ -1,0 +1,1 @@
+G _ { _ C } ( x , y ; A ) = \operatorname { e x p } \left[ - i e \int \! \! d z \; A _ { \mu } ( z ) j _ { + } ^ { \mu } ( z , x , y ) \right] P _ { + } G _ { F } ( x - y ) + P _ { - } G _ { F } ( x - y )

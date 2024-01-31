@@ -1,0 +1,1 @@
+d s ^ { 2 } = - \frac { d W ^ { 2 } } { \operatorname { s i n h } ^ { 2 } W \operatorname { l n } ^ { 2 / 3 } T _ { c } ^ { 2 } } + \operatorname { l n } ^ { 2 / 3 } T _ { c } ^ { 2 } \sum _ { j = 2 } ^ { 4 } d x _ { j } ^ { 2 } ,

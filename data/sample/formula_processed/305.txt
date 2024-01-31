@@ -1,0 +1,1 @@
+{ \bf S } = - ( { \bf r } - { \bf q } ) \times m { \bf u } ,

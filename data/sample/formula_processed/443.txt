@@ -1,0 +1,1 @@
+I _ { 1 } ( y , \mp r ) = \int _ { 0 } ^ { \infty } \frac { d x } { \sqrt { x ^ { 2 } + y ^ { 2 } } } \frac { 1 } { \operatorname { e x p } ( \sqrt { x ^ { 2 } + y ^ { 2 } } \mp r ) + 1 } ,

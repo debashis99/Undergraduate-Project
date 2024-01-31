@@ -1,0 +1,1 @@
+H = \frac { 1 } { 2 } \int ( { \cal H } + \bar { \cal H } ) d x ,

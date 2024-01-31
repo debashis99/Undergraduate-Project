@@ -1,0 +1,1 @@
+S _ { p , m } = \prod _ { A < B } \prod _ { I < J } ( z _ { I } ^ { A } - z _ { J } ^ { B } ) ^ { K _ { A , B } } \prod _ { A } \prod _ { I < J } ( z _ { I } ^ { A } - z _ { J } ^ { A } ) ^ { K _ { A , A } - 1 }

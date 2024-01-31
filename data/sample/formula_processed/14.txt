@@ -1,0 +1,1 @@
+L _ { 0 } = \Phi ( w ) = \bigtriangleup \Phi ( w ) ,

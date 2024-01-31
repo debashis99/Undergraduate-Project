@@ -1,0 +1,1 @@
+S _ { \mathrm { m a s s i v e \ I I A } } ( C ^ { ( 9 ) } ) \sim \int d ^ { 1 0 } x { \sqrt { | g | } } \left\{ e ^ { - 2 \phi } \left[ R - 4 ( \partial \phi ) ^ { 2 } \right] - \frac { 1 } { 2 \times 1 0 ! } ( G ^ { ( 1 0 ) } ) ^ { 2 } + \cdots \right\} \, .

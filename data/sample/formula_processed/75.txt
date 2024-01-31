@@ -1,0 +1,1 @@
+P _ { n } ^ { p } = \frac { ( - 1 ) ^ { p + n } } { n ! ( p - n ) ! } \mathop { { \prod } ^ { \prime } } _ { k = 0 } ^ { p } ( N - k ) , \quad n = 0 , . . . , p ,

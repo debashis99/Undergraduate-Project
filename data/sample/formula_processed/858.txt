@@ -1,0 +1,1 @@
+( \partial p ) ^ { * } \partial \Theta , \partial g

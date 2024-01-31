@@ -1,0 +1,1 @@
+{ \cal L } = - { \frac { 1 } { 2 } } \left\{ U \partial _ { \mu } { \bf X } \cdot \partial ^ { \mu } { \bf X } + U ^ { - 1 } { \cal D } _ { \mu } \varphi { \cal D } ^ { \mu } \varphi + \mu ^ { 2 } U ^ { - 1 } \right\} ,

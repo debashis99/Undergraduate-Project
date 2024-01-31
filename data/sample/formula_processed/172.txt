@@ -1,0 +1,1 @@
+E ^ { ( R ) } = { \frac { n _ { R } } { | G | } } \sum _ { g \in G } \chi ^ { ( R ) } ( g ) U ( g ) ~ ,

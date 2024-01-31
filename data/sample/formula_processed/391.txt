@@ -1,0 +1,1 @@
+\sum _ { n _ { 1 } = - \infty } ^ { \infty \prime } { \frac { e ^ { i \pi n _ { 1 } ( \alpha - 2 \sigma ) } } { n _ { 1 } \mathrm { S i n } ( \pi n _ { 1 } \alpha ) } } \quad .

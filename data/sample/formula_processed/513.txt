@@ -1,0 +1,1 @@
+V ( \phi ) = { \frac { \lambda } { 2 } } \left( \phi ^ { a } \phi ^ { a } - v ^ { 2 } \right) ^ { 2 } \ .

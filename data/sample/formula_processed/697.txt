@@ -1,0 +1,1 @@
+\tilde { R } _ { \xi } ^ { + } = \operatorname* { l i m } _ { q \to 1 } \left[ \frac { \alpha ( 2 - \alpha ) ( 1 - \alpha ) \mathcal { A } _ { f } } { ( q - 1 ) } \right] ^ { \frac { 1 } { 2 } } \xi _ { 0 } ^ { + } .

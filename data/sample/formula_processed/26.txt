@@ -1,0 +1,1 @@
+\tilde { \alpha } = \alpha \beta ^ { - m } = \left( \begin{array} { c c c } { \omega _ { k } ^ { - 2 y } \omega _ { 2 d } ^ { 2 m } } & { 0 } & { 0 } \\ { 0 } & { \omega _ { k } ^ { y } \omega _ { 2 d } ^ { - m } } & { 0 } \\ { 0 } & { 0 } & { \omega _ { k } ^ { y } \omega _ { 2 d } ^ { - m } } \\ \end{array} \right)

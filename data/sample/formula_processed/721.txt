@@ -1,0 +1,1 @@
+e ^ { i \theta } = { \frac { p - q \tau ^ { * } } { | p - q \tau ^ { * } | } } ,

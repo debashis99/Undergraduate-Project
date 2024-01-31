@@ -1,0 +1,1 @@
+r a n k ( b ( x ; \xi ) \ q ( x ; \xi ) ) = r a n k ( q ( x ; \xi ) ) = r \ ,

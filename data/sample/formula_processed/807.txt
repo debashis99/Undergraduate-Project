@@ -1,0 +1,1 @@
+\triangle _ { \alpha \beta } ^ { a b } ( x , y ) + \int d ^ { 3 } w ~ d ^ { 3 } z ~ X _ { \alpha \gamma } ^ { a c } ( x , w ) \omega _ { c d } ^ { \gamma \delta } ( w , z ) X _ { \beta \delta } ^ { b d } ( y , z ) = 0 .

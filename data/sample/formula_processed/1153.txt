@@ -1,0 +1,1 @@
+{ \cal H } _ { i n t } ( x ) = - e \overline { { \psi } } ^ { ( 0 ) } ( x ) \beta ^ { \mu } A _ { \mu } ^ { ( 0 ) } ( x ) [ I + \frac { e } { m } ( I - \beta _ { 0 } ^ { 2 } ) \beta ^ { \nu } A _ { \nu } ^ { ( 0 ) } ( x ) ] \psi ^ { ( 0 ) } ( x ) \, \, ,

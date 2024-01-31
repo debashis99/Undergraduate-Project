@@ -1,0 +1,1 @@
+\phi ^ { ( 1 ) } ( a , b , c | u , v , w + 1 / 4 ) = C ( u , v , w ) \, f ( u , v , w ) \, W ( a , b | A _ { - 1 } ) \, \overline { { W } } ( b , c | B _ { - 1 } ) ,

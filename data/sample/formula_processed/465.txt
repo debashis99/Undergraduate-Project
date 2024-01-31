@@ -1,0 +1,1 @@
+G _ { \mathrm { c o m p a c t } } = S O \left( 2 \right) _ { E } \oplus S O \left( 3 \right) _ { S } \oplus S O \left( 2 \right) _ { R } \subset G _ { \mathrm { e v e n } } .

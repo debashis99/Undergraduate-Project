@@ -1,0 +1,1 @@
+H ( t ) | n ; t > = E _ { n } ( t ) | n ; t > , ~ ~ < m ; t | n ; t > = \delta _ { m n }

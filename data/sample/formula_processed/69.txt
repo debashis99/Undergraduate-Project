@@ -1,0 +1,1 @@
+\Gamma _ { i j } ^ { k } = ( \partial _ { i } G _ { j { \bar { l } } } ) G ^ { { \bar { l } } k } \,

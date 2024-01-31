@@ -1,0 +1,1 @@
+A = a r ^ { \beta } , \quad B = b r ^ { \beta + 2 } ; \qquad a / b = c ( \beta + 2 ) / ( \beta - 2 ) ,

@@ -1,0 +1,1 @@
+G ( \mu ) = G _ { 0 } l ^ { 1 - d } W ^ { \Delta } F \left( \Delta , \Delta - \frac { d } { 2 } + \frac { 1 } { 2 } , 2 \Delta - d + 1 , W \right) ,

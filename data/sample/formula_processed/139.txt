@@ -1,0 +1,1 @@
+H _ { L C } = \int _ { 0 } ^ { l } \mathcal { H } _ { L C } = \int _ { 0 } ^ { l } d \sigma \, \frac { G _ { + - } } { 2 \, \pi _ { - } } \left( G ^ { i j } \pi _ { i } \pi _ { j } + \frac { 1 } { ( 2 \pi \alpha ^ { \prime } ) ^ { 2 } } G _ { i j } Z ^ { i \, \prime } Z ^ { j \, \prime } \right)

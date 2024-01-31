@@ -1,0 +1,1 @@
+E [ f ^ { ( 0 ) } + f ^ { ( 1 ) } ] = E [ f ^ { ( 0 ) } ] + \frac { \delta E } { \delta f } [ f ^ { ( 0 ) } ] \cdot f ^ { ( 1 ) } + \frac { 1 } { 2 } \frac { \delta ^ { 2 } E } { \delta f ^ { 2 } } [ f ^ { ( 0 ) } ] \cdot ( f ^ { ( 1 ) } ) ^ { 2 } + \cdots ,

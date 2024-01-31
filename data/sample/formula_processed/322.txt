@@ -1,0 +1,1 @@
+c _ { l , m } = \eta ( \tau ) ^ { - 3 } \sum _ { - | x | < y \leq | x | } \mathrm { s i g n } ( x ) ~ q ^ { ( k + 2 ) x ^ { 2 } - k y ^ { 2 } }

@@ -1,0 +1,1 @@
+V ( r ) \sim \left\{ \begin{array} { c l } { - 2 k ^ { 2 } / r ^ { 6 } } & { \textrm { s c a l a r p e r t u r b a t i o n } } \\ { + 4 k ^ { 2 } / r ^ { 6 } } & { \textrm { e l e c t r o m a g n e t i c - g r a v i t a t i o n a l p e r t u r b a t i o n } } \\ \end{array} \right.

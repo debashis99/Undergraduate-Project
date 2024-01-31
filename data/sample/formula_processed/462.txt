@@ -1,0 +1,1 @@
+g _ { 2 } \equiv r + \frac { \lambda v ^ { 2 } } { 2 } + \frac { w v ^ { 4 } } { 2 4 } ,

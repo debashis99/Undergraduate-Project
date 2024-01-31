@@ -1,0 +1,1 @@
+{ \cal L } = - \mathrm { \small ~ \frac { 1 } { 2 } ~ } f ^ { 2 } \, \partial _ { \mu } \pi _ { r } \, \partial ^ { \mu } \pi _ { r } - \mathrm { \small ~ \frac { 1 } { 2 } ~ } f ^ { 2 } \lambda \left( \pi _ { r } \pi _ { r } - N \right) \; ,

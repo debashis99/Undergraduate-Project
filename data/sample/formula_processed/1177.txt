@@ -1,0 +1,1 @@
+= \int d ^ { n } x \left\{ \frac { 1 } { 2 } F _ { \alpha \beta } F ^ { \alpha \beta } + \frac { 1 } { 2 } G _ { \alpha \beta } G ^ { \alpha \beta } + 2 D _ { \alpha } \phi ^ { \dagger } D ^ { \alpha } \phi + 2 ( m ^ { 2 } - \phi ^ { \dagger } \phi ) ^ { 2 } \right\}

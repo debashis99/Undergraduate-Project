@@ -1,0 +1,1 @@
+V ( T ) = \sqrt { 2 } \tau _ { p } e ^ { - { \frac { \kappa T ^ { 2 } } { 2 \alpha ^ { \prime } } } } \ ,

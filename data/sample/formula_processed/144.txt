@@ -1,0 +1,1 @@
+R _ { \mu \nu } - \frac { 1 } { 2 } R g _ { \mu \nu } = 0

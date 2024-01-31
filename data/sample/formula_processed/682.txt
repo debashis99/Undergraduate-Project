@@ -1,0 +1,1 @@
+\Lambda = D _ { 0 } \otimes \Lambda _ { 2 p } ^ { C } = \mathrm { d i a g } \left( d _ { 1 } \Lambda _ { 2 p } ^ { C } , \ldots , d _ { s } \Lambda _ { 2 p } ^ { C } \right) .

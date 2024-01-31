@@ -1,0 +1,1 @@
+c ( z ) \equiv ( a \ast b ) ( z ) = \left( e ^ { \pi i \theta ^ { j k } \frac { \partial } { \partial x ^ { j } } \frac { \partial } { \partial y ^ { k } } } a ( x ) b ( y ) \right) _ { x = y = z } \, .

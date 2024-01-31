@@ -1,0 +1,1 @@
+\tau = \frac { \lambda } { 2 } ( T _ { 0 } ^ { \prime } - T _ { 0 } )

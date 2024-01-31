@@ -1,0 +1,1 @@
+\delta \vec { \alpha } = { \textstyle \frac 1 2 } \, ( a - F ) \, \delta \theta \, \vec { \alpha } \, , \qquad \delta a = { \textstyle \frac 1 2 } \, ( a - F ) \, \delta \theta \, a \, .

@@ -1,0 +1,1 @@
+\Omega \to \Omega + 1 \qquad \mathrm { a n d } \qquad \Omega \to - 1 / \Omega \ .

@@ -1,0 +1,1 @@
+V = i \left[ \begin{array} { c c } { B } & { 2 \overline { { A } } } \\ { - 2 A } & { - B } \\ \end{array} \right]

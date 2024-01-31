@@ -1,0 +1,1 @@
+\Gamma _ { \underline { \alpha } \underline { \beta } } ^ { i } = \left( \begin{array} { c c } { 0 } & { \delta _ { \beta } ^ { \alpha } ( \gamma ^ { i } ) _ { q } ^ { ~ r } } \\ { - \delta _ { \alpha } ^ { \beta } ( \gamma ^ { i } ) _ { ~ r } ^ { q } } & { 0 } \\ \end{array} \right) \, , \quad i = 1 , . . . , 5 \, ,

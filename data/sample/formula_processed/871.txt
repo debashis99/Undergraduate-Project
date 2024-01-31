@@ -1,0 +1,1 @@
+{ \cal L } _ { S G } = \frac { 1 } { 2 } \partial _ { \mu } \varphi \partial _ { \mu } \varphi -

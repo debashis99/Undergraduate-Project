@@ -1,0 +1,1 @@
+q ^ { ( \frac { L } { 2 } - \frac { r } { N } ) } \sum _ { k = l + 1 } ^ { N } q ^ { - m _ { 0 } } B ^ { ( N ) } ( L , r , l + 1 | k ) = \sum _ { k = l + 1 } ^ { N } B ^ { ( N ) } ( L , r , l | k ) .

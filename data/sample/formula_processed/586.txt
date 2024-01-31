@@ -1,0 +1,1 @@
+\bar { H } _ { \mathrm { g } } = H _ { \mathrm { g } } ( q ^ { r } , p ^ { r } ) + \lambda _ { a } ^ { ( 1 ) r _ { a } } \pi _ { a } ^ { r _ { a } } + \lambda _ { a } ^ { ( 2 ) r _ { a } } \psi _ { a } ^ { r _ { a } } + \lambda _ { a } ^ { ( 3 ) } \theta _ { a } + \lambda _ { a } ^ { ( 4 ) } \gamma _ { a } ,

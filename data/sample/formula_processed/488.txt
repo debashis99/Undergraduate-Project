@@ -1,0 +1,1 @@
+E ^ { f K K } = - { \cal { F } } \left[ \frac { \sqrt { { \bf p } ^ { 2 } + a ^ { 2 } k ^ { 2 } x ^ { 2 } } } { 2 } \operatorname { t a n h } \left( \frac { \beta } { 2 } \sqrt { { \bf p } ^ { 2 } + a ^ { 2 } k ^ { 2 } x ^ { 2 } } \right) \right] .

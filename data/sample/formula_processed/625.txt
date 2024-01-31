@@ -1,0 +1,1 @@
+k _ { 2 } ^ { \mu } [ T _ { \mu \nu } ^ { ( 1 ) a b } + T _ { \mu \nu } ^ { ( 2 ) a b } ] = - g ^ { 2 } f ^ { a b c } \overline { { v } }

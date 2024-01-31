@@ -1,0 +1,1 @@
+\left. \prod _ { p \in Y _ { j } } \, \frac { e \beta } { 1 - \frac { e \beta } { 2 } } \leq e ^ { - N _ { p } ( Y _ { j } ) \, \operatorname { l o g } ( \frac { 1 } { 2 e \beta } ) } \ \ \ \ \ \ \ \ \ \ \mathrm { f o r } \ \ \ \beta < \frac { 1 } { e } \ , \right.

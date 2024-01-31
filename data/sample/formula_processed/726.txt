@@ -1,0 +1,1 @@
+\tilde { L } _ { 0 } ^ { k , k } ( e ^ { x } ) = \sum _ { d = 0 } ^ { \infty } \frac { ( k d ) ! } { ( d ! ) ^ { k } } e ^ { d x } ,

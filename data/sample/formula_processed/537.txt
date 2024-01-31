@@ -1,0 +1,1 @@
+\mathbf { \gamma } _ { b } ^ { a } = - ( \alpha _ { b c } ^ { a } \mathbf { \omega } ^ { c } + \beta _ { b } ^ { a c } \mathbf { \omega } _ { c } )

@@ -1,0 +1,1 @@
+\beta F _ { \mathrm { b o s e } } = 9 N ^ { 2 } \operatorname { l o g } [ 2 \operatorname { s i n h } ( 2 \beta R _ { \mathrm { r m s } } ) ]

@@ -1,0 +1,1 @@
+\left. \begin{array} { l } { \rho ( 1 ) = 1 } \\ { \rho ( 2 ) = 2 } \\ { \ldots } \\ { \rho ( p ) = p } \\ \end{array} \right\}

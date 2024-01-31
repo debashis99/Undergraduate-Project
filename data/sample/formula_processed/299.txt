@@ -1,0 +1,1 @@
+{ \mathrm { T r } } ( \gamma _ { g } ) = - 2 ~ , ~ ~ ~ { \mathrm { T r } } ( \gamma _ { R _ { s } } ) = { \mathrm { T r } } ( \gamma _ { g R _ { s } } ) = 0 ~ .

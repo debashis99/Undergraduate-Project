@@ -1,0 +1,1 @@
+\sigma = 4 \pi g ^ { 2 } M ~ ~ \mathrm { a n d } ~ ~ \alpha ^ { - 1 } = - \frac { \pi g ^ { 2 } } { 2 M } ,

@@ -1,0 +1,1 @@
+\operatorname* { l i m } _ { q \to 1 } { \frac { 1 } { 2 } } \Big [ Z ^ { a | a } ( L ; q ) - Z ^ { a } ( L ; q ) \Big ] = \left\{ \begin{cases} { \frac { 1 } { 2 } \left( 2 ^ { L - 1 } - 2 ^ { \lfloor \frac { L } { 2 } \rfloor } \right) , } & { a = 1 o r + } \\ { \frac { 1 } { 2 } \left( 2 ^ { L } - 2 ^ { \lfloor \frac { L + 1 } { 2 } \rfloor } \right)

@@ -1,0 +1,1 @@
+| 0 ( t ) \rangle _ { e , \mu } \equiv G _ { \theta } ^ { - 1 } ( t ) | 0 \rangle _ { 1 , 2 } \, ,

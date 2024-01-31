@@ -1,0 +1,1 @@
+\gamma _ { L } = \left( 1 - L ^ { - 2 } \right) \; c _ { \infty } , \quad \delta _ { L } = L ^ { - 1 } .

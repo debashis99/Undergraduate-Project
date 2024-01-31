@@ -1,0 +1,1 @@
+\gamma B _ { a } ^ { 0 i } = \partial _ { j } \eta _ { a } ^ { ( 2 ) i j } , \; \gamma B _ { a } ^ { i j } = \eta _ { a } ^ { ( 1 ) i j } , \; \gamma H _ { i } ^ { a } = C _ { i } ^ { ( 1 ) a } , \; \gamma H _ { 0 } ^ { a } = - \partial ^ { i } C _ { i } ^ { ( 2 ) a } ,

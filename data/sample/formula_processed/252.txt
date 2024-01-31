@@ -1,0 +1,1 @@
+V ( z ) = A ^ { 2 } e ^ { - 2 \alpha z } - 2 A e ^ { - \alpha z } \ , \ A , \alpha > 0 \ .

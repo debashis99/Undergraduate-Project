@@ -1,0 +1,1 @@
+\epsilon ^ { \delta \gamma \alpha _ { 1 } \beta _ { 1 } } D _ { \gamma } ^ { i } \; { \cal O } _ { \alpha _ { 1 } \ldots \alpha _ { J _ { 2 } } \; \beta _ { 1 } \ldots \beta _ { J _ { 2 } } } = 0 \, .

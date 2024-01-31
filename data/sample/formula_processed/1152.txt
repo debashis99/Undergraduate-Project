@@ -1,0 +1,1 @@
+\Phi ^ { i } = \frac { 1 } { 2 } \pi ^ { i } - \int d u \; \; \epsilon ( x - u ) \; \theta ^ { i } ( u )

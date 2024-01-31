@@ -1,0 +1,1 @@
+\sigma _ { \mathrm { a b s } } ^ { ( 1 , 0 ) } = \frac { { \cal A } _ { H } } { 2 } .

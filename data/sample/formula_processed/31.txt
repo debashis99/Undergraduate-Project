@@ -1,0 +1,1 @@
+K _ { \mu \nu } ~ = ~ \frac { 1 } { 2 } \dot { g } _ { \mu \nu } .

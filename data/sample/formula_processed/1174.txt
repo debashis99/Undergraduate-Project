@@ -1,0 +1,1 @@
+m _ { C } ^ { 2 } = \langle g ^ { 2 } A _ { \mu } ^ { a } A _ { \mu } ^ { a } \rangle + \left( { \frac { 1 } { 2 } } \alpha + \beta \right) \langle i g ^ { 2 } \bar { C } ^ { a } C ^ { a } \rangle .

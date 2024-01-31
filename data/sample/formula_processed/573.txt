@@ -1,0 +1,1 @@
+\Delta a _ { j } ^ { i } ( x , y , z ) = a _ { j } ^ { i } ( x , y , z ) = \sum _ { k , l } a _ { k } ^ { i } ( x ) a _ { l } ^ { k } ( y ) a _ { j } ^ { l } ( z )

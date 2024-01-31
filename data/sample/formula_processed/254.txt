@@ -1,0 +1,1 @@
+k ^ { u } ( K _ { u v } ) _ { j } ^ { i } = \partial _ { v } P _ { j } ^ { i } + [ p _ { v } , P ] _ { j } ^ { i } ,

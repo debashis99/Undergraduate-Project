@@ -1,0 +1,1 @@
+M _ { p _ { e } , q _ { m } } = { \frac { 2 \pi } { g _ { \mathrm { Y M } } ^ { 2 } } } { \frac { q _ { m } u } { \operatorname { c o s } \xi } } = u \sqrt { \left( \frac { 2 \pi q _ { m } } { g _ { Y M } ^ { 2 } } \right) ^ { 2 } + p _ { e } ^ { 2 } } \, .

@@ -1,0 +1,1 @@
+{ \cal F } ( a , \Lambda ) = { 8 \pi i b _ { 1 } } \Lambda ^ { 2 } a ^ { 2 } \int _ { 4 \Lambda / \pi } ^ { a } d x { \cal G } _ { 1 } ( x ) x ^ { - 3 } - { \frac { i b _ { 1 } \pi ^ { 3 } } { 4 } } a ^ { 2 } ,

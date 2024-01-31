@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 3 } T r ( \gamma _ { \theta , 7 _ { i } } ) + 3 T r ( \gamma _ { \theta , 3 } ) = 0 .

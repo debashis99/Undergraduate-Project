@@ -1,0 +1,1 @@
+\Delta ^ { ( N , 0 ) } ( s ) = - \sum _ { n > 0 , \vec { n } ^ { 2 } < N } \left[ J ( z _ { n } ) - 2 + 2 J ( y _ { n } ) + \frac { J ^ { 2 } ( y _ { n } ) } { 2 ( 1 - y _ { n } ) } - J ( \tilde { z } _ { n } ) - 2 J ( \tilde { y } _ { n } ) \right] \ ,

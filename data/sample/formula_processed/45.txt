@@ -1,0 +1,1 @@
+\delta ( L _ { 1 } + L _ { 2 } ) = 2 \delta \bar { \theta } ( 1 + \gamma ^ { ( p ) } ) T _ { ( p ) } ^ { \nu } \partial _ { \nu } \theta .

@@ -1,0 +1,1 @@
+t _ { 2 } = \operatorname { t a n } \left( \frac { \pi } { 2 4 } \right) T _ { 0 } T _ { 2 } T _ { 3 } / \sqrt { 3 } = \operatorname { t a n } \left( \frac { \pi } { 2 4 } \right) \operatorname { t a n } \left( \frac { 5 \pi } { 2 4 } \right) \operatorname { t a n } \left( \frac { \pi } { 1 2 } \right)

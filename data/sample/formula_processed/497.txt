@@ -1,0 +1,1 @@
+e _ { \mu } ^ { f } = \left( { \frac { 1 } { 2 } } \left( e _ { \mu } ^ { [ + 2 ] } + e _ { \mu } ^ { [ - 2 ] } \right) , { \frac { 1 } { 2 } } \left( e _ { \mu } ^ { [ + 2 ] } - e _ { \mu } ^ { [ - 2 ] } \right) \right)

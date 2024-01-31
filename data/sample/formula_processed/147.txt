@@ -1,0 +1,1 @@
+A _ { p a r e n t } ^ { \mathrm { I V } } = - \frac { T _ { p } } { 2 } \int d ^ { p + 1 } { \xi } \left[ \sqrt { - g } \left( - { \Psi } ^ { ( p + 3 ) / 2 } g _ { i j } h ^ { i j } + ( p + 3 ) { \Psi } ^ { ( p + 1 ) / 2 } \right) + { \Lambda } \left( { \Psi } - { \Phi } \right) \right] .

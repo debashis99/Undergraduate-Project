@@ -1,0 +1,1 @@
+\sum _ { B } \, \Phi _ { A B } \ast L _ { B } ^ { \pm } ( \theta , r ) = r \, M _ { A } \operatorname { c o s h } \theta + \operatorname { l n } ( 1 - \operatorname { e x p } ( - L _ { A } ^ { \pm } ( \theta , r ) ) ) \quad \, .

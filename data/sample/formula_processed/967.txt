@@ -1,0 +1,1 @@
+{ \bf E } _ { \infty } \simeq \frac { Q \, { \bf r } } { 4 \pi r ^ { 3 } } \, , \ \, , \ \ { \bf B } _ { \infty } \simeq \frac { { \bf m } \wedge { \bf r } } { 4 \pi r ^ { 3 } } \, .

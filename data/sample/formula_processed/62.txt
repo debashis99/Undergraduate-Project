@@ -1,0 +1,1 @@
+\operatorname { e x p } _ { q } A = \sum _ { n = 0 } ^ { \infty } \frac { A ^ { n } } { [ n ] ! }

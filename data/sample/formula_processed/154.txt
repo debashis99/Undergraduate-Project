@@ -1,0 +1,1 @@
+\Pi _ { \mu \nu \rho \sigma } ^ { r } ( p , q , k ) = \Pi _ { \mu \nu \rho \sigma } ( p , q , k ) - \Pi _ { \mu \nu \rho \sigma } ( p , 0 , 0 )

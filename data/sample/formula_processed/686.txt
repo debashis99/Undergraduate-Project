@@ -1,0 +1,1 @@
+\int _ { \beta } \Omega ^ { ( 1 , 0 ) } = \frac { \sqrt { 6 } } { \pi } ( \pm \sqrt { B ^ { \prime } } ) ^ { - 1 / 2 } \, ( \pm k _ { \mp } ^ { 2 } ) ^ { - 1 / 2 } \, \, { \bf K } ( k _ { \mp } ^ { - 2 } )

@@ -1,0 +1,1 @@
+\delta _ { i = j } = \delta _ { + - } = \delta _ { - + } = 1 , \quad \delta _ { i \neq j } = \delta _ { i + } = \delta _ { i - } = \delta _ { + + } = \delta _ { -- } = 0 .

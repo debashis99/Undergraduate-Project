@@ -1,0 +1,1 @@
+E _ { \small C a s i m i r } ^ { \small b u l k } = { \frac { 1 } { 8 \pi ^ { 2 } } } \; V \; \hbar c \; K ^ { 4 } \; \left[ { \frac { 1 } { n } } - 1 \right] .

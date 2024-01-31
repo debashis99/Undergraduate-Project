@@ -1,0 +1,1 @@
+\mathrm { c } = \frac { \theta } { n } ,

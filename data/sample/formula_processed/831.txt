@@ -1,0 +1,1 @@
+E = { \frac { 1 } { n ! } } \int d \Omega \left[ E _ { 1 } \left| Y _ { a _ { 1 } \cdots a _ { n } } ^ { ( l ) } \right| ^ { 2 } + E _ { 2 } \left| Y _ { a _ { 2 } \cdots a _ { n } } ^ { ( l ) } \right| ^ { 2 } + E _ { 3 } \left| Y _ { a _ { 3 } \cdots a _ { n } } ^ { ( l ) } \right| ^ { 2 } \right] .

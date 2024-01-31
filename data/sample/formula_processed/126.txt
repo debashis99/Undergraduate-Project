@@ -1,0 +1,1 @@
+\lambda t K _ { \left| n \right| } ( \mu t ) I _ { \left| n \right| } ( \mu t ) .

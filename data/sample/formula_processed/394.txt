@@ -1,0 +1,1 @@
+\{ \bar { \mathcal V } ( x ) , \Phi ( x ^ { \prime } ) \} = ( \Phi ( x ) + ( \bar { h } - 1 ) \Phi ( x ^ { \prime } ) ) \, \delta ^ { \prime } ( x - x ^ { \prime } ) + \ldots .

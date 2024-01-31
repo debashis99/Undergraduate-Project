@@ -1,0 +1,1 @@
+: e ^ { i \hat { \varphi } ( \sigma ) } : \, = e ^ { i \hat { \chi } ^ { \dagger } ( \sigma ) } \, e ^ { i \hat { \chi } ( \sigma ) } .

@@ -1,0 +1,1 @@
+P \sim \operatorname { e x p } \left( - y _ { 0 } ^ { 3 } / M _ { p } ^ { 2 } \ell \right) ,

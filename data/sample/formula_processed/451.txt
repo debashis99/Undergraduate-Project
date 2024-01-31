@@ -1,0 +1,1 @@
+[ \: x ^ { \lambda } , \eta _ { \mu \nu } \, \dot { x } ^ { \mu } \, \dot { x } ^ { \nu } \: ] = 0 .

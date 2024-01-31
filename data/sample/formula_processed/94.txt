@@ -1,0 +1,1 @@
+S = \int _ { \mathcal M } \left( { \frac { i } { 2 } } \left[ \overline { \psi } \gamma ^ { a } \nabla _ { a } \psi - \overline { { ( \nabla _ { a } \psi ) } } \gamma ^ { a } \psi \right] - m \overline { \psi } \psi \right) \, ,

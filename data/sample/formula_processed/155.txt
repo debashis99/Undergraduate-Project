@@ -1,0 +1,1 @@
+\frac { t } { d } = \oint \frac { d z } { 2 \pi \imath } U _ { e f f } ^ { \prime } \left( z + \frac { R ( t ) } { z } \right) = \left( \frac { m _ { 0 } ^ { 2 } } { d } - \Gamma _ { 2 } \right) R ( t ) - \sum _ { n > 2 } \frac { ( 2 n ) ! } { ( n ! ) ^ { 2 } } \Gamma _ { 2 n } R ( t ) ^ { n }

@@ -1,0 +1,1 @@
+\Phi _ { 0 } ( Z ) = \delta ^ { - 1 } \alpha , \qquad \Phi _ { 0 } ( Z ) = \alpha ^ { - 1 } \delta

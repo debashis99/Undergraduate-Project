@@ -1,0 +1,1 @@
+T ( \xi ) = e ^ { i \xi _ { i } \Sigma ^ { i } } = e ^ { 2 i \xi _ { i } { \cal S } ^ { i } } \, , \quad \xi = \xi _ { i } f ^ { i } \in L _ { F } ,

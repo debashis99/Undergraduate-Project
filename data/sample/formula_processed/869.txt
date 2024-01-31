@@ -1,0 +1,1 @@
+h ( r ) = \eta \left( 1 - \sqrt { \frac { \lambda _ { 2 } } { 2 \lambda _ { 1 } } } \eta r K _ { 1 } ( 2 \sqrt { \frac { \lambda _ { 2 } } { \lambda _ { 1 } } } \eta r ) \right) ,

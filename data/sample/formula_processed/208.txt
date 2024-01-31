@@ -1,0 +1,1 @@
+C _ { 0 } ( k , q ) = < k , q | \sum _ { j = 0 } ^ { m - 1 } R ^ { - j } \omega ^ { j s } | \phi > = \sum _ { j = 0 } ^ { m - 1 } ( R ^ { j } | k , q > ) ^ { + } \omega ^ { j s } | \phi > .

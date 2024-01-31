@@ -1,0 +1,1 @@
+Q _ { 0 } ^ { R , L } = \frac { 1 } { 2 \pi i } \int _ { C ^ { R } , C ^ { L } } d z j ( z ) _ { 0 } \ , R ^ { R , L } = \frac { 1 } { 2 \pi i } \int _ { C ^ { R } , C ^ { L } } d z r ( z ) \ .

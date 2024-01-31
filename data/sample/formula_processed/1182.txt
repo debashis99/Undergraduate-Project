@@ -1,0 +1,1 @@
+\tau _ { j } = 1 - y \operatorname { e x p } ( i ( \mu _ { a } ( 2 j ) - \varepsilon ) ) .

@@ -1,0 +1,1 @@
+d s _ { D W } ^ { 2 } = H ( z ) ^ { - \frac { 2 \alpha } { \epsilon } } \left( d x ^ { \mu } \otimes d x ^ { \nu } \eta _ { \mu \nu } \right) + H ( z ) ^ { - \frac { 2 \beta + \epsilon } { \epsilon } - 2 } \, \frac { d z ^ { 2 } } { \epsilon ^ { 2 } }

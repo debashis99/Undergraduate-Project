@@ -1,0 +1,1 @@
+\phi ( x , y ) = \lambda ^ { 2 s } \, \phi ( \lambda x , \lambda y )

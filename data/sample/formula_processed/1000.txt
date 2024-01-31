@@ -1,0 +1,1 @@
+F ( x ) \equiv \int _ { 0 } ^ { x } d x \, \sqrt { x ^ { 2 } + 1 } + { \frac { 1 } { i \alpha } } \operatorname { l n } ( x ^ { 2 } + 1 ) , \quad \alpha \equiv { \frac { 2 \beta } { \hbar v g } } = { \frac { 4 } { \hbar v g ^ { 2 } [ V _ { 1 } ^ { \prime } ( 0 ) - V _ { 2 } ^ { \prime } ( 0 ) ] } } > 0 .

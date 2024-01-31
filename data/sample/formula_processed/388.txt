@@ -1,0 +1,1 @@
+\Delta E _ { \mathrm { u p } } = \frac { 1 } { T ^ { ( 0 ) } } \frac { 4 e ^ { S ^ { ( 0 ) } } \operatorname { t a n } ^ { 2 } \frac { 1 } { 2 } ( \phi _ { \alpha } + \phi _ { \gamma } ) + 4 e ^ { S ^ { ( 0 ) } } } { 4 e ^ { 2 S ^ { ( 0 ) } } \operatorname { t a n } ^ { 2 } \frac { 1 } { 2 } ( \phi _ { \alpha } + \phi _ { \gamma } ) - 1 } ,

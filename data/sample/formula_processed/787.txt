@@ -1,0 +1,1 @@
+\left[ \mathrm { V } _ { H _ { 1 } } ( \phi _ { i } ) , \mathrm { V } _ { H _ { 2 } } ( \phi _ { j } ) \right] = \delta _ { i j } \mathrm { V } _ { { \{ H _ { 1 } , H _ { 2 } \} } _ { \mathrm { p b } } } ( \phi _ { i } )

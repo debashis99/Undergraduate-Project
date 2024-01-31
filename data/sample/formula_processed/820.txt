@@ -1,0 +1,1 @@
+{ \cal M } ( \theta ) = \left( \begin{array} { c c } { \operatorname { c o s } \theta } & { \operatorname { s i n } \theta } \\ { - \operatorname { s i n } \theta } & { \operatorname { c o s } \theta } \\ \end{array} \right)

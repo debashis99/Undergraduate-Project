@@ -1,0 +1,1 @@
+\{ \langle n | O | p \rangle \: | n \in \Sigma _ { s } ^ { \prime } \}

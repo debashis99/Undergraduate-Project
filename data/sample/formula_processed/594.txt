@@ -1,0 +1,1 @@
+\chi ( \tilde { \cal M } _ { k } ) = \sum _ { i = 0 } ^ { 4 ( k - 1 ) } \ \sum _ { p = 0 } ^ { k - 1 } \delta _ { i , 2 k - ( p , q ) } = k

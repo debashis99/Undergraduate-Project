@@ -1,0 +1,1 @@
+s _ { a } = 2 \frac { ( s \xi ) } { \zeta ^ { 2 } } \xi _ { a } + 2 \frac { ( s \bar { \xi } ) } { \zeta ^ { 2 } } \bar { \xi } _ { a } - ( s n ) n _ { a } , \qquad \zeta = 1 - z \bar { z }

@@ -1,0 +1,1 @@
+\int [ d \bar { \psi } ] [ d \psi ] \operatorname { e x p } \left\{ - \int \bar { \psi } D \psi d x \right\} = \prod _ { n } \lambda _ { n } = { \tt d e t } D ,

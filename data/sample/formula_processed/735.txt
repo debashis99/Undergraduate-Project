@@ -1,0 +1,1 @@
+S [ \vec { r } ] \ = \ \int d ^ { D } \! x \ { \frac { 1 } { 2 } } ( \nabla _ { \! x } \vec { r } ) ^ { 2 } \ + \b \ \int d ^ { D } \! x \int d ^ { D } \! y \ \delta ^ { d } ( \vec { r } ( x ) - \vec { r } ( y ) ) \ .

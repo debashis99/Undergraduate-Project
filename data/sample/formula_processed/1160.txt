@@ -1,0 +1,1 @@
+{ \cal S } ^ { \mu \nu } \equiv \epsilon ^ { \mu \nu \rho \sigma } \theta _ { \rho } P _ { \sigma } = 0 \ \ ,

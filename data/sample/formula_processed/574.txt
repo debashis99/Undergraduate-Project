@@ -1,0 +1,1 @@
+\phi _ { n } = \phi _ { n } ^ { \left( 0 \right) } - T \sum _ { m = - \infty } ^ { \infty } \Delta _ { F } ^ { n - m }

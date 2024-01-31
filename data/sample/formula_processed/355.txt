@@ -1,0 +1,1 @@
+{ \cal K } ^ { + 4 } = \mathrm { T r } \left( [ \tilde { q } ^ { + } , q ^ { + } ] [ \tilde { q } ^ { + } , q ^ { + } ] \right) \, .

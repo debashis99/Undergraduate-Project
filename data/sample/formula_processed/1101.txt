@@ -1,0 +1,1 @@
+L ( z , u _ { a } , D ) \equiv \int _ { 0 } ^ { \infty } d \hat { T } \, J ( z , u _ { a } , \hat { T } , D ) = L _ { 0 2 } ( z , u _ { a } , D ) + g ( z , D ) G _ { B a b } ^ { 1 - { \frac { D } { 2 } } } + O \bigl ( z ^ { 4 } , G _ { B a b } ^ { 2 - { \frac { D } { 2 } } } \bigr ) \nonumber \,

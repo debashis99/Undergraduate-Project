@@ -1,0 +1,1 @@
+\left( \tilde { \alpha } _ { J } \right) _ { k } = \frac { 1 } { \sqrt { n } } \sum _ { i = 1 } ^ { n }

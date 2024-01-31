@@ -1,0 +1,1 @@
+( 1 - \gamma ^ { 1 } ) k _ { n } ( 0 , x ^ { \prime } ) = \left( \begin{array} { c c } { 1 } & { i } \\ { - i } & { 1 } \\ \end{array} \right) k _ { n } ( 0 , x ^ { \prime } ) = 0 .

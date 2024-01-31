@@ -1,0 +1,1 @@
+{ \frac { m ! } { ( 2 m - 1 ) ! ! } } \left\{ - 1 / 2 \partial _ { t } ^ { 2 } + { \cal Z } ^ { F _ { m - 2 } } ( t ) + \partial _ { t } ^ { - 1 } { \cal Z } ^ { F _ { m - 2 } } ( t ) \partial _ { t } \right\} ^ { m } \cdot 1 = t ,

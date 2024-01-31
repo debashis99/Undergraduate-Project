@@ -1,0 +1,1 @@
+Q = \frac { 1 } { C } \int _ { T _ { 2 } } W ^ { * } \omega ,

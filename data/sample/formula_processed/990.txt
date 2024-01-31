@@ -1,0 +1,1 @@
+f ( \rho ) = \frac { C } { \rho } , \qquad a ( \rho ) = \frac { D } { \rho ^ { \beta } }

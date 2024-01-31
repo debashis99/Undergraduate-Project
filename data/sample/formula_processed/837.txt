@@ -1,0 +1,1 @@
+F ( \phi ) = \int \frac { d ^ { D } p } { ( 2 \pi ) ^ { D } } \frac { 1 } { p ^ { 2 } + M ^ { 2 } ( \phi ) } ,

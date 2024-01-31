@@ -1,0 +1,1 @@
+( \partial _ { \gamma } , \partial _ { \gamma } ) _ { ( 1 0 ) } = \sqrt { \tilde { \Delta } } e ^ { 2 U }

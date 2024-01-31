@@ -1,0 +1,1 @@
+d s ^ { 2 } / \alpha ^ { \prime } = \frac { U } { R _ { 5 } f _ { 1 } ^ { 1 / 2 } } ( - d t ^ { 2 } + d x _ { 1 } ^ { 2 } ) + \frac { U f _ { 1 } ^ { 1 / 2 } } { R _ { 5 } } ( d x _ { 2 } ^ { 2 } + \cdots + d x _ { 5 } ^ { 2 } ) + U R _ { 5 } f _ { 1 } ^ { 1 / 2 } \left( \frac { d U ^ { 2 } } { U ^ { 2 } } + d \Omega _ { 3 } ^ { 2 } \right) .

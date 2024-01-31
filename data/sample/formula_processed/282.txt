@@ -1,0 +1,1 @@
+\widehat { F } _ { \mu \nu } = F _ { \mu \nu } + \frac { 1 } { 4 } \theta ^ { \rho \sigma } \bigg ( 2 \left\{ F _ { \mu \rho } , F _ { \nu \sigma } \right\} - \left\{ A _ { \rho } , D _ { \sigma } F _ { \mu \nu } + \partial _ { \sigma } F _ { \mu \nu } \right\} \bigg ) + { \cal O } \left( \theta ^ { 2 } \right) .

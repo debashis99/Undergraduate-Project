@@ -1,0 +1,1 @@
+E ( l ) = \sum _ { k = 1 } ^ { l } E ( l , k ) = \frac { 1 } { l } \sum _ { d | l } \mu ( l / d ) \left\{ F _ { d + 1 } + F _ { d - 1 } \right\} \, ,

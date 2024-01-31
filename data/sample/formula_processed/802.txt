@@ -1,0 +1,1 @@
+A _ { \mu } ^ { a } \frac { \sigma ^ { a } } { 2 } = \bar { \Sigma } _ { \mu \nu } J _ { \nu } [ \Phi ]

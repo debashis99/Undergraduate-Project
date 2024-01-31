@@ -1,0 +1,1 @@
+{ \cal P } _ { \delta x } \equiv { \frac { k ^ { 3 } } { 2 \pi ^ { 2 } } } | \delta x | ^ { 2 } \, ,

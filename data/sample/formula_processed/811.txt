@@ -1,0 +1,1 @@
+\int \Phi _ { \Xi } ^ { \dagger } ( \xi , \xi ^ { * } ) \Phi _ { H } ( \xi , \xi ^ { * } ) d v ( \xi , \xi ^ { * } ) = \left( \Xi \mid H \right)

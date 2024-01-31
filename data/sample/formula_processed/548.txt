@@ -1,0 +1,1 @@
+F _ { \theta \phi } ^ { I } = k q ^ { I } f ( \theta ) , \qquad A _ { \phi } ^ { I } = k q ^ { I } \intf ( \theta ) d \theta .

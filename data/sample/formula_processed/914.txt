@@ -1,0 +1,1 @@
+A _ { \mu } = \frac { 1 } { 2 q } \frac { i ( \overline { { \psi } } \gamma _ { \mu } \slash { \partial } \psi - \overline { { \psi } } \overleftarrow { \slash { \partial } } \gamma _ { \mu } \psi ) - 2 m j _ { \mu } } { \overline { { \psi } } \psi } .

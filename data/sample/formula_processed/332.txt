@@ -1,0 +1,1 @@
+\begin{matrix} { U ( 3 ) } & { \longrightarrow } & { U ( 5 ) / U ( 2 ) } \\ { } & { } & { \downarrow } \\ { } & { } & { U ( 5 ) / [ U ( 3 ) \times U ( 2 ) ] \ . } \\ \end{matrix}

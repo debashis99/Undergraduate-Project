@@ -1,0 +1,1 @@
+P ^ { - } = { \frac { m ^ { 2 } } { 4 \pi } } \int _ { 0 } ^ { \infty } { \frac { d k } { k ^ { 2 } } } \left[ b ^ { \dag } ( k ) b ( k ) + d ^ { \dag } ( k ) d ( k ) \right] + { \frac { 1 } { 2 } } \int _ { 0 } ^ { \infty } { \frac { d p } { p ^ { 2 } } } a ^ { \dag } ( p ) a ( p ) \ .

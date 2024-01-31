@@ -1,0 +1,1 @@
+R _ { i j , k l } = \delta _ { i k } \delta _ { j l } ( 1 + \delta _ { i j } ( q - 1 ) ) + \lambda \delta _ { i l } \delta _ { j k } \theta ( i - j ) \quad i , j . . . = 1 . . . n

@@ -1,0 +1,1 @@
+N = \sum _ { n > 0 } \alpha _ { - n } ^ { i } ( E ) G _ { i j } \alpha _ { n } ^ { j } ( E ) , \, \tilde { N } = \sum _ { n > 0 } \tilde { \alpha } _ { - n } ^ { i } ( E ) G _ { i j } \tilde { \alpha } _ { n } ^ { j } ( E )

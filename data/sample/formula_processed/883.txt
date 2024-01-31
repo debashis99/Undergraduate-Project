@@ -1,0 +1,1 @@
+J _ { 0 } ^ { \pm } | j m > = \sqrt { m ( m \pm 1 ) - j ( j + 1 ) } \; | j m \pm 1 >

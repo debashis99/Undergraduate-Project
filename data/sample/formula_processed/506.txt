@@ -1,0 +1,1 @@
+A ^ { \mathrm { T } } = - A , \qquad M \eta A + A \eta M = 0

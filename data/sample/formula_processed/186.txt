@@ -1,0 +1,1 @@
+V ( \Phi ) = - m ^ { 2 } \mathrm { T r } [ \Phi ^ { 2 } ] + h ( \mathrm { T r } [ \Phi ^ { 2 } ] ) ^ { 2 } + \lambda \mathrm { T r } [ \Phi ^ { 4 } ] + V _ { 0 }

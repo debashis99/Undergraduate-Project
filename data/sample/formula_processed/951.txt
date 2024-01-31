@@ -1,0 +1,1 @@
+{ \cal D } = \left( \begin{array} { c c } { - \frac { d ^ { 2 } } { d x ^ { 2 } } + 4 } & { 0 } \\ { 0 } & { - \frac { d ^ { 2 } } { d x ^ { 2 } } + 4 - \frac { 6 } { \operatorname { c o s h } ^ { 2 } x } } \\ \end{array} \right) \qquad .

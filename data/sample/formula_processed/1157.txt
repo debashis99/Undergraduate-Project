@@ -1,0 +1,1 @@
+V _ { \mathrm { e f f } } = \operatorname* { l i m } _ { \lambda \rightarrow 0 } \left( V ^ { g e n } + V ^ { P T } \right) .

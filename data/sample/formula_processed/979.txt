@@ -1,0 +1,1 @@
+\hat { \lambda } _ { j } \cdot \hat { \sigma } _ { q } ^ { x } \hat { \gamma } _ { i } ^ { + } = \hat { \lambda }

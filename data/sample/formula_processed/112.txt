@@ -1,0 +1,1 @@
+f \star g = \operatorname { e x p } \Bigg [ \hbar \Bigg ( \frac { \partial ~ } { \partial q } \frac { \partial ~ } { \partial \tilde { p } } - \frac { \partial ~ } { \partial p } \frac { \partial ~ } { \partial \tilde { q } } \Bigg ) \Bigg ] f ( { \bf x } ) g ( { \bf \tilde { x } } ) \vert _ { { \bf x } = { \bf \tilde { x } } } ,

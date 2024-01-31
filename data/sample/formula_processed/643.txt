@@ -1,0 +1,1 @@
+Z _ { \alpha _ { 1 } , j } ^ { \alpha _ { 0 } } R _ { \beta _ { 0 } } ^ { j } + F _ { \beta _ { 0 } \gamma _ { 0 } } ^ { \alpha _ { 0 } } Z _ { \alpha _ { 1 } } ^ { \gamma _ { 0 } } = - Z _ { \gamma _ { 1 } } ^ { \alpha _ { 0 } } G _ { \beta _ { 0 } \alpha _ { 1 } } ^ { \gamma _ { 1 } } ,

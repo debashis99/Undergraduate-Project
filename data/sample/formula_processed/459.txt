@@ -1,0 +1,1 @@
+\delta \hat { \vec { B } } \; = \; d \hat { \vec { \cal N } } \; \rightarrow \; \delta \hat { \vec { B } } \, = \, { \cal D } \hat { \vec { \cal N } } \, = \, d \hat { \vec { \cal N } } \, + \, \hat { \cal E } \wedge \hat { \vec { \cal N } } \; ,

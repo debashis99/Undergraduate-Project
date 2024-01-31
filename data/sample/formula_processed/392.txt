@@ -1,0 +1,1 @@
+\left( \frac { \sqrt { 2 } { \bf S } \cdot { \bf A } _ { 0 } } { k } \right) \phi _ { E \, \pm k \, m } = - \left( E + \frac { 1 } { 2 k ^ { 2 } } \right) ^ { \mathrm { ~ \frac { 1 } { 2 } ~ } } \phi _ { E \, \mp k \, m } .

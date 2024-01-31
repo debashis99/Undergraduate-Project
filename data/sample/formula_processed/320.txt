@@ -1,0 +1,1 @@
+j _ { ( \varphi ) } ^ { \mu i } = \epsilon ^ { i j } \partial _ { j } x ^ { \mu } \quad , \quad j ^ { \alpha i } = ( 1 / 2 ) \epsilon ^ { i j } \partial _ { j } \theta ^ { \alpha } \ ,

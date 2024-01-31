@@ -1,0 +1,1 @@
+\partial _ { u } \xi _ { z } ^ { ( 1 ) } + { \frac { 1 } { u } } \xi _ { z } ^ { ( 1 ) } = { \frac { 1 } { ( \pi T R ) ^ { 2 } u } } \left[ C _ { z } H _ { z z } ^ { \prime } + C _ { t } H _ { t z } ^ { \prime } \right] \, .

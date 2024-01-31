@@ -1,0 +1,1 @@
+h ( \tau ) = ( g _ { s } M \alpha ^ { \prime } ) ^ { 2 } 2 ^ { 2 / 3 } \varepsilon ^ { - 8 / 3 } \int _ { \tau } ^ { \infty } d x { \frac { x \operatorname { c o t h } x - 1 } { \operatorname { s i n h } ^ { 2 } x } } ( \operatorname { s i n h } 2 x - 2 x ) ^ { 1 / 3 } ,

@@ -1,0 +1,1 @@
+P \sim \operatorname { e x p } \Bigl ( - { \frac { 3 M _ { P } ^ { 4 } } { 8 V ( \phi ) } } \Bigr ) \ ,

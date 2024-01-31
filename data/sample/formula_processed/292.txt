@@ -1,0 +1,1 @@
+V _ { \mu } ^ { s } ( x , p ) = { \pi } ^ { - 4 } \partial _ { \nu } ^ { ( x ) } \int d ^ { 4 } q e ^ { 2 i p . q } { \bar { \psi } } ( x + q ) { \frac { \sigma _ { \mu \nu } } { 2 m } } \psi ( x - q ) .

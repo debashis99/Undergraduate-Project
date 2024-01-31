@@ -1,0 +1,1 @@
+B _ { p } ( \beta ) = \operatorname { d i m } \{ \operatorname { k e r } \Delta _ { \beta } \cap \Lambda ^ { p } \} .

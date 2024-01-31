@@ -1,0 +1,1 @@
+\lambda _ { l } ^ { n } = \lambda _ { c } ^ { n } + i [ n + 1 - 2 l + \frac { \pi } { 2 \gamma } ( 1 - v _ { s } v _ { n } ) ]

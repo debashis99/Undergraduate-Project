@@ -1,0 +1,1 @@
+\begin{array} { l l l l l l } { \displaystyle D } & { = 3 } & { : \quad } & { S p ( 4 ; R ) } & { \to } & { O S p ( N ; 1 | R ) } \\ { \displaystyle D } & { = 4 } & { : \quad } & { S U ( 2 , 2 ) } & { \to } & { S U ( 2 , 2 | N ) } \\ { \displaystyle D } & { = 6 } & { : \quad } & { U _ { \alpha } ( 4 ; H ) } & { \to } & { U U _ { \alpha } ( N ; 4 | R ) } \\ \end{array}

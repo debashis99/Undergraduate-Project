@@ -1,0 +1,1 @@
+\Delta ^ { ( 1 ) } ( \beta _ { R } , \beta _ { I } , k , z _ { 1 } ) = u ~ P ( \beta _ { R } | \beta _ { I } , k , \mathrm { R e } ( z _ { 1 } ) , \mathrm { I m } ( z _ { 1 } ) )

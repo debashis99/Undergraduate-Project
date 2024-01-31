@@ -1,0 +1,1 @@
+G _ { \alpha } ^ { ( n ) } \equiv \sum _ { m = 0 } ^ { n } \{ \tau _ { \alpha } ^ { ( n - m ) } , \tilde { H } ^ { ( m ) } \} + \sum _ { m = 0 } ^ { n - 2 } \{ \tau _ { \alpha } ^ { ( n - m ) } , \tilde { H } ^ { ( m + 2 ) } \} _ { ( \eta ) } + \{ \tau _ { \alpha } ^ { ( n + 1 ) } , \tilde { H } ^ { ( 1 ) } \} _ { ( \eta ) } ; \hspace { 0 . 5 c m } n \geq 2 .

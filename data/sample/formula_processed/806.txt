@@ -1,0 +1,1 @@
+\langle { \bf \Psi } , { \bf \Xi } \rangle = \frac 1 2 \int _ { - \infty } ^ { \infty } [ \psi ^ { * } ( x ) \operatorname { t a n } ( - i \partial _ { x } ) \xi ( x ) - \xi ( x ) \operatorname { t a n } ( - i \partial _ { x } ) \psi ^ { * } ( x ) ] \; d x

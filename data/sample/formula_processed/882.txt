@@ -1,0 +1,1 @@
+c ^ { ( 0 ) } \delta ( \nu ) \equiv \operatorname* { l i m } _ { t \to 0 } { \frac { c ^ { ( 0 ) } ( \nu , t ) } { \nu ^ { n - 2 } } } \quad .

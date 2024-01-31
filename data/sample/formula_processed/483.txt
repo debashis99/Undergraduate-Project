@@ -1,0 +1,1 @@
+R _ { 1 } ^ { \mathbf { I I B } } = \frac { R } { \sqrt { 2 } N _ { 2 } } \quad \textrm { a n d } \quad \omega _ { n } = \sqrt { \mu ^ { 2 } + \frac { n ^ { 2 } } { l _ { s } ^ { 4 } ( p ^ { + } ) ^ { 2 } } } .

@@ -1,0 +1,1 @@
+\theta ^ { \prime } ( u ^ { \prime } ) = D ( \Lambda , u ) \theta ( u ) D ^ { - 1 } ( \Lambda , u ) .

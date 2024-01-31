@@ -1,0 +1,1 @@
+\tilde { \omega } _ { m a b } = \hat { \omega } _ { m a b } - \frac { i \kappa ^ { 2 } } { 4 } \bar { \psi } _ { c } \gamma ^ { c d } { } _ { m a b } \psi _ { d } .

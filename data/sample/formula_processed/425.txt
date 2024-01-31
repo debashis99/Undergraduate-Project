@@ -1,0 +1,1 @@
+D _ { 1 } \phi + i \sigma _ { 1 } D _ { 2 } \phi = 0 \, , \hspace { 5 m m } D _ { 1 } \chi + i \sigma _ { 2 } D _ { 2 } \chi = 0 \, ,

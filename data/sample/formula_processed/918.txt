@@ -1,0 +1,1 @@
+\zeta _ { s } ( \Delta _ { X } ) - \zeta _ { s } ( \Delta _ { Y } ) + \zeta _ { s } ( \Delta _ { Z } ) = 0 , \quad \forall s .

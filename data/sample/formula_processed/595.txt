@@ -1,0 +1,1 @@
+T r : e x p i ( 2 \pi F ) = \sum _ { j = 0 } ^ { M - 1 } [ e x p i ( { \frac { 2 \pi j n } { { M } } } ) ] = 0 , \quad

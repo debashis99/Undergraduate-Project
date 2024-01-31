@@ -1,0 +1,1 @@
+\left( \begin{array} { c c } { - \operatorname { c o s } 2 \phi } & { - \operatorname { s i n } 2 \phi } \\ { \operatorname { s i n } 2 \phi } & { - \operatorname { c o s } 2 \phi } \\ \end{array} \right)

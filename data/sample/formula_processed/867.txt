@@ -1,0 +1,1 @@
+J _ { 5 } ^ { \mu } = - \frac { e ^ { 2 } } { 8 \pi ^ { 2 } } \epsilon ^ { \mu \nu \lambda \sigma } A _ { \nu } F _ { \lambda \sigma }

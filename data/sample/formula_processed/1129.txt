@@ -1,0 +1,1 @@
+V _ { e f f } ( z ) = \frac { 3 ( 5 \alpha + 4 ) k ^ { 2 } } { 6 4 \left( { \frac { k z } { 2 } } + 1 \right) ^ { 2 } } + { \frac { l ^ { 2 } } { 2 R ^ { 2 } } } \left( { \frac { k z } { 2 } } + 1 \right) ^ { { \frac { 5 } { 2 } } ( \alpha - 2 ) } - { \frac { 3 k } { 4 } } \delta ( z )

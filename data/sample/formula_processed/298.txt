@@ -1,0 +1,1 @@
+\Delta _ { \mu \nu } ( p ) = \frac { 4 \pi } { \kappa } \frac { \mu } { p ^ { 2 } ( p ^ { 2 } + \mu ^ { 2 } ) } ( \mu \epsilon _ { \mu \nu \lambda } p ^ { \lambda } + \delta _ { \mu \nu } p ^ { 2 } - p _ { \mu } p _ { \nu } )

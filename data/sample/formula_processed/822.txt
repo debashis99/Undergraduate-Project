@@ -1,0 +1,1 @@
+x _ { 1 } = \frac { 1 } { 2 } \left( x _ { + } + x _ { - } \right) , \quad x _ { 2 } = \frac { \imath } { 2 } \left( x _ { - } - x _ { + } \right) , \quad x _ { 3 } = \frac { 1 } { 2 } h ,

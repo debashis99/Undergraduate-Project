@@ -1,0 +1,1 @@
+{ \frac { 1 } { 2 } } \sum _ { i = 1 } ^ { n } \mathrm { d e g } ( \phi _ { i } ) = ( 1 - g ) ( d - 3 ) + n + \int _ { \Sigma _ { g } } x ^ { * } ( c _ { 1 } ( X ) )

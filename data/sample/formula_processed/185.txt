@@ -1,0 +1,1 @@
+z ( \varepsilon , \tau ) \; = \; u \: + \: 2 \tau v \: + \: ( 1 - \varepsilon ^ { 2 } ) \: \tau ^ { 2 } \: q ^ { 2 } \: - \: \frac { q ^ { 2 } } { 4 } \; .

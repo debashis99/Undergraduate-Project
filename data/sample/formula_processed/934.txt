@@ -1,0 +1,1 @@
+\partial _ { 5 } \left\langle { \Phi } \right\rangle = - g _ { 5 } ^ { 2 } \phi ^ { \dagger } \phi \left( \delta ( x _ { 5 } ) - { \frac { 1 } { 2 \pi R } } \right) \ .

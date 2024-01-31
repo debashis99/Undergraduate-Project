@@ -1,0 +1,1 @@
+{ \cal H } = { \cal H } _ { a } \otimes { \cal H } _ { A } \otimes { \cal H } _ { c } .

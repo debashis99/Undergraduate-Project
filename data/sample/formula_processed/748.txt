@@ -1,0 +1,1 @@
+\operatorname { s i n } ^ { 2 } ( \pi k / N ) \sum _ { a = 1 } ^ { K } \, I _ { a b } \, r _ { a , k } = 0

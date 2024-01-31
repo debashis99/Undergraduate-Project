@@ -1,0 +1,1 @@
+\langle \! \langle \psi _ { i } | \psi _ { j } \rangle = \langle \psi _ { i } ^ { * } | \psi _ { j } \rangle \ ,

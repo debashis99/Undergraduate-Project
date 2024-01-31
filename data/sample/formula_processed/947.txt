@@ -1,0 +1,1 @@
+Q = \frac { 1 } { 2 \pi R } \int _ { 0 } ^ { L } \partial _ { x } \varphi ( x , \, t ) d x \, .

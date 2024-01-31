@@ -1,0 +1,1 @@
+\beta ( g ) \frac { \partial } { \partial g } = 2 g \beta ( g ) \frac { \partial } { \partial g ^ { 2 } }

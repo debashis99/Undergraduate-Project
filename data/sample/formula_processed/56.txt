@@ -1,0 +1,1 @@
+S = \frac { 1 } { G } \int d x d t \: \sqrt { - \bar { g } } \: e ^ { - 2 \bar { \phi } } ( \bar { R } + 4 ( \bar { \nabla } \bar { \phi } ) ^ { 2 } + 4 \lambda ^ { 2 } ) - \frac { 1 } { 2 } \int d x d t \: \sqrt { - \bar { g } } \: \sum _ { i = 1 } ^ { N } ( \bar { \nabla } f _ { i } ) ^ { 2 } ,

@@ -1,0 +1,1 @@
+\Big ( L ^ { \frac { 3 } { 2 } } \Big ) _ { + } = p ^ { 3 } + \frac { 3 } { 2 } u \star p - \frac { 2 \kappa } { 2 } u ^ { ( 1 ) } ,

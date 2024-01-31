@@ -1,0 +1,1 @@
+\Gamma _ { \mathrm { e f f } } ^ { \mathrm { P V } } = \Gamma _ { \mathrm { e f f } } ^ { \mathrm { P V } , ( 1 ) } + \Gamma _ { \mathrm { e f f } } ^ { \mathrm { P V } , \, ( \vec { E } ) }

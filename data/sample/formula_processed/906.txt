@@ -1,0 +1,1 @@
+\left[ m _ { 0 } ^ { D - 2 } - K _ { c r } ^ { \frac { D - 2 } { 2 } } \frac { 1 } { \sqrt { \pi } } \Gamma ( \frac { D - 1 } { 2 } ) \Gamma ( \frac { D } { 2 } ) \right] \Gamma ( 1 - \frac { D } { 2 } ) = 0 .

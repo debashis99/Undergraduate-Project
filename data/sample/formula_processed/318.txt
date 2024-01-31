@@ -1,0 +1,1 @@
+W [ B , J , \eta ^ { \ast } , \eta ] = \operatorname { l n } Z [ B , J , \eta ^ { \ast } , \eta ] \quad .

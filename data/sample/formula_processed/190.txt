@@ -1,0 +1,1 @@
+s p ^ { \mu } = \eta ^ { \alpha } e _ { \alpha } ^ { \mu } ( P _ { 0 } )

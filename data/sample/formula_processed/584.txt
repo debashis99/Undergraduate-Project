@@ -1,0 +1,1 @@
+V _ { \mathrm { s t a t } } ^ { \mathrm { L R } } = \frac { 1 } { 2 } \sigma \, ( r _ { 1 2 } + r _ { 2 3 } + r _ { 3 1 } )

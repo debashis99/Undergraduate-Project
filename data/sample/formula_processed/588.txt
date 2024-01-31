@@ -1,0 +1,1 @@
+d s ^ { 2 } = R _ { h } ^ { 2 } \left[ d \chi ^ { 2 } + \operatorname { s i n h } ^ { 2 } ( \chi ) \left( d \alpha ^ { 2 } + \operatorname { s i n } ^ { 2 } ( \beta ) d \beta ^ { 2 } \right) \right]

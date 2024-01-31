@@ -1,0 +1,1 @@
+- i A ^ { i j } E ^ { i j } = S q r t { 2 } ( A _ { L } ^ { l } \alpha _ { L } ^ { l } + A _ { R } ^ { r } \alpha _ { R } ^ { r } )

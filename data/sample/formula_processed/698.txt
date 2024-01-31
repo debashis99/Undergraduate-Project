@@ -1,0 +1,1 @@
+m _ { j } = 8 \, p ^ { \frac { r } { 6 s } } \left\{ \sum _ { a } \operatorname { s i n } \frac { a \pi } { g } + \frac { 4 } { 3 } ( p ^ { \frac { r } { 6 s } } ) ^ { 2 } \sum _ { a } \operatorname { s i n } ^ { 3 } \frac { a \pi } { g } + \ldots \right\} ,

@@ -1,0 +1,1 @@
+d e t \left| \begin{array} { c c c } { Q ( \lambda - 3 i / 2 ) } & { Q ( \lambda \pm i / 2 ) } & { Q ( \lambda + 3 i / 2 ) } \\ { P ( \lambda - 3 i / 2 ) } & { P ( \lambda \pm i / 2 ) } & { P ( \lambda + 3 i / 2 ) } \\ { R ( \lambda - 3 i / 2 ) } & { R ( \lambda \pm i / 2 ) } & { R ( \lambda + 3 i / 2 ) } \\ \end{array} \right| = T ^ { \pm } ( \lambda ) .

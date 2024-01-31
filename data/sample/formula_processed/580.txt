@@ -1,0 +1,1 @@
+\delta _ { l } ^ { ( 2 ) } \approx \eta \left[ \operatorname { l n } \left( \frac { z _ { l } } \alpha \right) + \frac 1 { 2 4 z _ { l } ^ { 2 } } - \frac { q ^ { 2 } } { 2 z _ { l } ^ { 2 } } + O \left( \frac 1 { z _ { l } ^ { 4 } } \right) \right] + O ( \eta ^ { 3 } ) \ .

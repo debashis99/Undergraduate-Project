@@ -1,0 +1,1 @@
+\Omega ( z ) = \int _ { \c C } d w \rho ( w ) \operatorname { l n } ( z - w )

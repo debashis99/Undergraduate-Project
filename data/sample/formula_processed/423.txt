@@ -1,0 +1,1 @@
+\widehat { X } = X _ { + } \otimes \sigma _ { 3 } + X _ { - } \otimes i \sigma _ { 2 } ,

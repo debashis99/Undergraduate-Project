@@ -1,0 +1,1 @@
+e ^ { i \Gamma [ A ] } = \int { \cal D } \psi { \cal D } \overline { \psi } e ^ { i \int d ^ { 2 } x \overline { \psi } i D \! \! \! / \psi } ,

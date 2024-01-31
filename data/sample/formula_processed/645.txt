@@ -1,0 +1,1 @@
+\left( M ^ { T } \overline { M } \right) _ { j k } = 2 \pi D _ { j j } K _ { N } ( \theta _ { j } , \theta _ { k } ) \bar { D } _ { k k }

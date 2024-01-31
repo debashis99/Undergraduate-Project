@@ -1,0 +1,1 @@
+T _ { \bar { \imath } \bar { \jmath } k } = T _ { i \bar { \jmath } \bar { k } } = T _ { \bar { \imath } j \bar { k } } = m \epsilon _ { i j k } \ .

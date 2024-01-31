@@ -1,0 +1,1 @@
+E = E _ { 0 } + \frac { 1 } { 2 \operatorname { s i n h } ( \gamma ( 0 ) / 2 ) } \operatorname { s i n h } \left( \gamma ( 0 ) \left( \frac { 1 } { 2 } + c ( 0 ) \right) \right) h c \nu _ { \mathrm { v i b } }

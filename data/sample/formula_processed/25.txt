@@ -1,0 +1,1 @@
+C ( x ^ { \prime } , x ^ { \prime \prime } ) = C \Phi ( x ^ { \prime } , x ^ { \prime \prime } ) \ , \quad \Phi ( x ^ { \prime } , x ^ { \prime \prime } ) = \operatorname { e x p } \left[ - i e \int _ { x ^ { \prime \prime } } ^ { x ^ { \prime } } d x ^ { \mu } A _ { \mu } ( x ) \right] \ ,

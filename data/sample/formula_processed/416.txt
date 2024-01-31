@@ -1,0 +1,1 @@
+\tilde { { \cal K } } = \frac { ( D - 2 ) { \cal K } } { D - 2 - { \cal K } } \ ,

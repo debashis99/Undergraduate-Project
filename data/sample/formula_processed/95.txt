@@ -1,0 +1,1 @@
+\Psi \sim \operatorname { e x p } \left\{ - \frac { 1 } { \hbar } \int _ { a } ^ { x } \sqrt { 2 ( v - e ) } \right\} \sim \operatorname { e x p } \left\{ - \frac { 1 } { \hbar } x ^ { \frac { 5 } { 2 } } \right\}

@@ -1,0 +1,1 @@
+I _ { 1 1 } = \int d ^ { 1 1 } x \sqrt { - g } ~ ( { \frac { R } { \kappa ^ { 2 } } } - 3 \, \hat { F } _ { [ 4 ] } ^ { 2 } ) + { 2 8 8 } \sigma \int \hat { F } _ { [ 4 ] } \wedge \hat { F } _ { [ 4 ] } \wedge \hat { A } _ { [ 3 ] }

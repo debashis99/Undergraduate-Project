@@ -1,0 +1,1 @@
+S _ { \Omega ^ { \prime } , \Omega } x \Omega = x ^ { * } \Omega , \, \, x \in M

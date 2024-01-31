@@ -1,0 +1,1 @@
+\rho = \frac { 1 } { 2 } \left( \frac { x _ { i } ^ { 2 } } { m } + k q _ { i } ^ { 2 } \right)

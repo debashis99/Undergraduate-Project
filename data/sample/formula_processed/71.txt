@@ -1,0 +1,1 @@
+\tilde { S } _ { r , \Lambda } ( t _ { 2 } , t _ { 1 } ; g ) = - 2 i \delta ( t _ { 2 } - t _ { 1 } ) H _ { I } ^ { ( r ) } ( t _ { 1 } ) + \tilde { S } _ { r , \Lambda } ^ { \prime } ( t _ { 2 } , t _ { 1 } ; g ) ,

@@ -1,0 +1,1 @@
+T ( u ) = \left( \begin{array} { c | c } { 1 } & { - u ^ { 0 } \vec { u } ^ { \mathrm { T } } } \\ \hline { 0 } & { I } \\ \end{array} \right)

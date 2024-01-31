@@ -1,0 +1,1 @@
+D G _ { R } = 0 , ~ ~ ~ ~ ~ ~ G _ { L } \overleftarrow { D } = 0

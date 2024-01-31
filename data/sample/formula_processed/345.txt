@@ -1,0 +1,1 @@
+\hat { B } _ { 1 q _ { + } } ( \omega ) = { \frac { 2 \operatorname { s i n h } \Bigl ( ( \nu - q _ { + } ) { \frac { \omega } { 2 } } \Bigr ) \operatorname { c o s h } \Bigl ( ( \nu - 1 ) { \frac { \omega } { 2 } } \Bigr ) } { \operatorname { s i n h } ( { \frac { \nu \omega } { 2 } } ) } } \, .

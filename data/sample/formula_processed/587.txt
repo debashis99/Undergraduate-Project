@@ -1,0 +1,1 @@
+( a _ { i j } ) = \left( \begin{matrix} { 2 } & { - 1 } \\ { - 1 } & { 0 } \\ \end{matrix} \right) .

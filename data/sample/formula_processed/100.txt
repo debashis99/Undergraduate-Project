@@ -1,0 +1,1 @@
+S _ { B } [ A ] \; = \; i \, \frac { 1 } { \eta } \, S _ { C S } [ A ] \; + \; R [ \widetilde { F } ] + \frac { i } { \theta } \int d ^ { 3 } x d ^ { 3 } y j _ { \mu } ^ { T } ( x ) { \mathcal K } _ { \mu \nu } ( x - y ) j _ { \nu } ^ { T } ( y ) \; ,

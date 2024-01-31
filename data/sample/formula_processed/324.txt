@@ -1,0 +1,1 @@
+S = - \frac { 1 } { 2 } \int d ^ { 4 } x \sqrt { - \bar { g } } \left( \bar { R } - \frac { 1 } { 2 } ( \bar { \nabla } \phi ) ^ { 2 } \right)

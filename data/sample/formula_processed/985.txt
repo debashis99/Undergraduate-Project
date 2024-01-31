@@ -1,0 +1,1 @@
+\Pi ( q ) \equiv \prod _ { i < j } \sigma ( q _ { i j } ) , \hspace { 1 c m } \sqrt { g } = - \frac { l } { n } \sigma ^ { \prime } ( 0 ) ,

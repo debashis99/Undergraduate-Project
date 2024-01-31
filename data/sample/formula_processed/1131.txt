@@ -1,0 +1,1 @@
+\hat { \mathrm { P } } _ { \mathrm { R } } ^ { s } = \frac { 1 } { 2 } \hbar \int d x ( { \psi } _ { \mathrm { R } } ^ { \dagger s } ( - i \partial _ { x } ) { \psi } _ { \mathrm { R } } ^ { s } - { \psi } _ { \mathrm { R } } ^ { s } ( i \partial _ { x } ) { \psi } _ { \mathrm { R } } ^ { \dagger s } ) - \int d x \hat { \mathrm { E } } { \partial _ { 1 } } A _ { 1 } .

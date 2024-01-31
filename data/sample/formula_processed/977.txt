@@ -1,0 +1,1 @@
+\frac { S } { \tilde { S } ^ { ( n ) } } = O \left( \frac { 1 } { \lambda ^ { n + 1 } { \cal T } ^ { 3 } \, V } \right) .

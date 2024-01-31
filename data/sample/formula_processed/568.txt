@@ -1,0 +1,1 @@
+x ^ { 0 } ( \tau , \sigma ) = \frac M L \tau , \quad \quad x ^ { 1 } ( \tau , \sigma ) = q + \frac M { 2 L } \, [ f ( \tau + \sigma ) + g ( \tau - \sigma ) ] ,

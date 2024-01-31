@@ -1,0 +1,1 @@
+\partial _ { z } \partial _ { \bar { z } } \theta = \{ n ( n + 1 ) \eta ^ { 2 } + a \} \theta \, , \quad a \in { \cal R } \, , \quad n = 0 , 1 , 2 , \ldots

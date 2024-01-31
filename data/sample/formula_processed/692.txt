@@ -1,0 +1,1 @@
+R _ { \hat { g } } ( z , \bar { z } ) = - 1 \to R _ { g } ( z , \bar { z } ) = - e ^ { 4 \pi G ( z , w ) } \left( 1 + 8 \pi e ^ { - \varphi ( z , \bar { z } ) } \delta ^ { ( 2 ) } ( z - w ) + { \frac { 1 } { 4 \chi ( \Sigma ) } } \right) .

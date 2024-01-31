@@ -1,0 +1,1 @@
+\gamma _ { j } { \cal P } _ { j i } = \frac { 4 } { 3 } \{ [ A d \, T ] [ t _ { 8 } ^ { c } , [ t _ { 8 } ^ { c } , { \gamma } _ { j } ] ] [ A d \, T ^ { - 1 } ] \} { A d \, { \hat { g } } } _ { i j } .

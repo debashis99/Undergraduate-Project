@@ -1,0 +1,1 @@
+{ \bf P } = { \bf p } , \quad { \bf M } = { \bf p } \times { \bf x } + \sum _ { i = 1 } ^ { N } { \bf p } _ { i } \times { \bf e } _ { i } = { \bf p } \times { \bf x } + \sum _ { i = 1 } ^ { N } { { \bf p } ^ { \bot } } _ { i } \times { \bf e } _ { i } - \frac 1 2 \sum _ { i , j = 1 } ^ { N } { \phi } _ { i j } { \bf e } _ { i } \times { \bf e } _ { j } .

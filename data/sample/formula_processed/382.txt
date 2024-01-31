@@ -1,0 +1,1 @@
+E ( \alpha = 0 , n , \omega , \beta ) = \frac { 2 \omega + 3 } { 2 \omega + 4 } E ( \alpha = 0 , n , \omega = \infty , \beta ) \ . \

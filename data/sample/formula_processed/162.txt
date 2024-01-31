@@ -1,0 +1,1 @@
+\Delta _ { a } ^ { \! l i n } = - \int \frac { k ^ { \prime } } { 2 l } \, d l - \frac { 1 } { 2 } V \, .

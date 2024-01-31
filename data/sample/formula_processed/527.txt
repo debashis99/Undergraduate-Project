@@ -1,0 +1,1 @@
+{ F } = { \sum _ { m = 1 / 2 } ^ { \infty } \psi _ { - m } \cdot \psi _ { m } } - 1 ~ ~ , ~ ~ { G } = { - \sum _ { m = 1 / 2 } ^ { \infty } \left( \gamma _ { - m } \beta _ { m } + \beta _ { - m } \gamma _ { m } \right) } ~ ~ .

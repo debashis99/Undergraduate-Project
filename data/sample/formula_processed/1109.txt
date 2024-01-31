@@ -1,0 +1,1 @@
+\xi _ { \sigma } ( \sigma ) = 1 - \frac { \pi e ^ { \sigma } } { 3 } + 8 \pi e ^ { \sigma } \sum _ { n = 1 } ^ { \infty } \frac { n e ^ { - 2 n \pi e ^ { \sigma } } } { 1 - e ^ { - 2 n \pi e ^ { \sigma } } }

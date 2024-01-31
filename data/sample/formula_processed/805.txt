@@ -1,0 +1,1 @@
+G ( z \vert \tau ) = \operatorname { l o g } \chi \ , \ \ \chi = 2 \pi e ^ { - \pi y ^ { 2 } / \tau _ { 2 } } \Bigl \vert { \frac { \theta _ { 1 } ( z \vert \tau ) } { \theta _ { 1 } ^ { \prime } ( 0 \vert \tau ) } } \Bigr \vert \ \ ,

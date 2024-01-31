@@ -1,0 +1,1 @@
+t _ { 1 } = T ~ ~ , \hspace { 2 c m } t _ { 2 } = - \frac { S } { 2 \pi i } ,

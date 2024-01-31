@@ -1,0 +1,1 @@
+{ \cal L } = { \frac { 1 } { 2 } } \partial _ { \mu } \phi _ { x } \partial ^ { \mu } \phi _ { x } - { \frac { 1 } { 2 } } m _ { 0 } ^ { 2 } \phi _ { x } ^ { 2 } - { \frac { m ^ { 2 } } { \beta ^ { 2 } } } ( 1 - c o s ( \beta \phi _ { x } ) ) \equiv { \frac { 1 } { 2 } } \partial _ { \mu } \phi _ { x } \partial ^ { \mu } \phi _ { x } - U ( \phi _ { x } ) ,

@@ -1,0 +1,1 @@
+= g ^ { 2 } \left( \begin{array} { c | c } { \delta _ { \mu \nu } \delta _ { A B } \delta ^ { 4 } ( x - y ) } & { 0 } \\ { 0 } & { \delta _ { A B } \delta ^ { 4 } ( x - y ) } \\ \end{array} \right)

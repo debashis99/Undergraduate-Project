@@ -1,0 +1,1 @@
+\Omega _ { U V } \Omega _ { V W } \Omega _ { W U } = \mathrm { i d }

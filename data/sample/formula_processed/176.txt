@@ -1,0 +1,1 @@
+\{ Q ^ { + } , Q ^ { - } \} = H _ { n } + k ( R - 1 ) , \quad [ H _ { n } , Q ^ { \pm } ] = \mp 2 k Q ^ { \pm } , \quad [ R , Q ^ { \pm } ] = \pm 2 Q ^ { \pm } , \quad R ^ { 2 } = 1 .

@@ -1,0 +1,1 @@
+{ \tilde { \epsilon } } = \int _ { r _ { h } } ^ { r _ { h } + \epsilon } d r \, \Delta ^ { - \frac { 1 } { 2 } } = 2 \epsilon ^ { \frac { 1 } { 2 } } \left( \Delta _ { h } ^ { \prime } \right) ^ { - \frac { 1 } { 2 } } + O ( \epsilon ^ { \frac { 3 } { 2 } } ) ,

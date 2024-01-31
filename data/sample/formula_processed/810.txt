@@ -1,0 +1,1 @@
+\dot { \operatorname { l n } { \frac { [ i ] } { [ i - 1 ] } } } + ( \operatorname { l n } ( [ i ] [ i - 1 ] ) ^ { \prime \prime } + ( ( \operatorname { l n } { \frac { [ i ] } { [ i - 1 ] } } ^ { \prime } ) ^ { 2 } = 2 ( \bar { \alpha } _ { i - 1 , i } + \bar { \alpha } _ { i , i - 1 } - \bar { \alpha } _ { i - 1 } \bar { \alpha } _ { i } )

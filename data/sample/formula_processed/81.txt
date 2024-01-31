@@ -1,0 +1,1 @@
+E _ { \mathrm { q u a s i l o c a l } } = E _ { + } - E _ { - } = \left( r \left[ 1 - \left| r , _ { y } \right| \right] \right) _ { y = y _ { + } } - \left( r \left[ 1 - \left| r , _ { y } \right| \right] \right) _ { y = y _ { - } } .

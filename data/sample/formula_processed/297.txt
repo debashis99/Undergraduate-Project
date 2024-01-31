@@ -1,0 +1,1 @@
+{ \tilde { W } } \equiv W - S _ { 0 } ~ , \quad { \tilde { X } } \equiv X + S _ { 0 } ~ .

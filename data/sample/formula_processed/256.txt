@@ -1,0 +1,1 @@
+C _ { A B C } = \frac { 1 } { 2 4 \pi } \big ( A _ { [ A } ^ { i } \partial _ { B } A _ { C ] } ^ { i } + i \frac { 2 } { 3 } f ^ { i j k } A _ { [ A } ^ { i } A _ { B } ^ { j } A _ { C ] } ^ { k } \big ) .

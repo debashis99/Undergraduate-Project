@@ -1,0 +1,1 @@
+Z _ { 0 } ^ { F } ( T , L ) \equiv \operatorname { e x p } \left( \frac { \pi L T } { 6 } \right) .

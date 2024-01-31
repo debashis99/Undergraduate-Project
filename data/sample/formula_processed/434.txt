@@ -1,0 +1,1 @@
+\vec { E } ( \tau ) = \left[ { \frac { d ^ { 2 } } { d \tau ^ { 2 } } } - ( 2 / \tau ) { \frac { d } { d \tau } } \right] \vec { G } ( \tau )

@@ -1,0 +1,1 @@
+w _ { R } ( E ) \simeq { \frac { 1 } { \sigma _ { R } \sqrt { \pi } } } e ^ { - { \frac { ( E - E _ { R } ) ^ { 2 } } { \sigma _ { R } ^ { 2 } } } } ~ ~ ~ .

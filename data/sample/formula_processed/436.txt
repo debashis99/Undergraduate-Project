@@ -1,0 +1,1 @@
+\nabla _ { \nu } \nabla ^ { \nu } A _ { \mu } = - I _ { A \mu } = 4 e \Phi ^ { 2 } ( \chi _ { A , \mu } + e A _ { \mu } ) .

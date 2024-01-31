@@ -1,0 +1,1 @@
+\gamma _ { i } ( \beta \sqrt { - \triangle } ) = \int _ { 0 } ^ { \infty } \! \! { \mathrm d } t \, \, g _ { i } ( t ) \left[ \frac { 2 \pi } { \beta { \sqrt { - \triangle } } \, t } \, \frac { 1 } { { \mathrm s h } ( 2 \pi t / ( \beta { \sqrt { - \triangle } } ) ) } - \frac { 1 } { t ^ { 2 } } \right] ,

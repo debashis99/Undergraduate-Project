@@ -1,0 +1,1 @@
+d _ { \mathrm { e l } } ^ { - 2 } = \rho _ { \mathrm { p o l } } / A _ { 0 } \sim g ^ { 2 } T a ^ { 2 - d } \, .

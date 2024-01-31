@@ -1,0 +1,1 @@
+- \frac { T } { 8 \pi } \left( M _ { W } \left( 9 M _ { W } ^ { 2 } + \frac { 3 } { 2 } M _ { H } ^ { 2 } \right) + \frac { 3 } { 2 } M _ { H } ^ { 3 } \right) \int d ^ { 3 } x ( H _ { 0 } ^ { 2 } - 1 ) .

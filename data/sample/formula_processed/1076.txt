@@ -1,0 +1,1 @@
+f _ { \alpha } ( x ) = \left( 4 \operatorname { s i n } ^ { 2 } \frac { x } { 2 } \right) ^ { \alpha } .

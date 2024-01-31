@@ -1,0 +1,1 @@
+( \mu \frac { \partial } { \partial \mu } + \beta _ { g } \frac { \partial } { \partial g } + \beta _ { \lambda } \frac { \partial } { \partial \lambda } - \gamma _ { M } \frac { \partial } { \partial \operatorname { l n } M ^ { 2 } } + \gamma ) F _ { n } ( x _ { 1 } , . . . , x _ { n } ; m , M , g , \lambda , \mu ) = 0 ,

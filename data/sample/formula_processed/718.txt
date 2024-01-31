@@ -1,0 +1,1 @@
+A ( x _ { 1 } ) B ( x _ { 2 } ) = \cdots + g _ { A B C } \, \frac { 1 } { ( x _ { 1 2 } ^ { 2 } ) ^ { \frac { 1 } { 2 } ( \eta _ { A } + \eta _ { B } - \eta _ { C } ) } } C ^ { \eta _ { C } , \eta _ { A } - \eta _ { B } } ( x _ { 1 2 } , \partial _ { 2 } ) C ( x _ { 1 } ) + \cdots { } .

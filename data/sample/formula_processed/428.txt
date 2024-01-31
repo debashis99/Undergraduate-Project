@@ -1,0 +1,1 @@
+g \, e ^ { { \vec { \xi } } . { \vec { X } } } = e ^ { { \vec { \xi } } \, ^ { \prime } . { \vec { X } } } e ^ { { \vec { u } } \, ^ { \prime } . { \vec { T } } } ,

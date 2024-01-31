@@ -1,0 +1,1 @@
+E _ { \pm } \approx \pm m e ^ { - \frac { \mu ^ { 2 } } { m } \Delta x } .

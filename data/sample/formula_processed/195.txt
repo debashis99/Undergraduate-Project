@@ -1,0 +1,1 @@
+\mathbf { J } ^ { 2 } = ( \mathbf { J } ^ { 2 } ) ^ { \dagger } = G ( \mathbf { J } ^ { 2 } ) ^ { + } G ,

@@ -1,0 +1,1 @@
+{ \frac { d { Q } } { d \operatorname { l n } { \rho } } } = { \frac { g _ { s } } { 2 \pi } } \, { \widehat C _ { I J } m ^ { I } m ^ { J } } \propto \, { \beta _ { i } \bar { \beta } _ { j } \, G ^ { i j } } ~ ,

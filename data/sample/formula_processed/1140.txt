@@ -1,0 +1,1 @@
+{ \frac { \partial \bar { g } _ { \mu \nu } } { \partial l _ { i } } } \in \mathrm { K e r } ( \bar { F } ^ { \dagger } )

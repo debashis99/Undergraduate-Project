@@ -1,0 +1,1 @@
+\frac { \partial S } { \partial \xi } = \int d ^ { 3 } x d ^ { 3 } y \, A _ { i } ^ { A } ( x ) W ( x - y ) \partial _ { i } D _ { j } ^ { A B } \frac { \delta S } { \delta A _ { j } ^ { B } ( y ) } .

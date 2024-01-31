@@ -1,0 +1,1 @@
+\Lambda ^ { 0 } = ( \partial _ { i } F ^ { i o } - \rho ) \dot { { \bar { c } } } - b \nabla ^ { 2 } { \bar { c } } ,

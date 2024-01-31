@@ -1,0 +1,1 @@
+[ a _ { 1 } , a _ { 2 } , \cdots ~ , a _ { r } ] \rightarrow [ a _ { 1 } , a _ { 2 } , \cdots ~ , ( a _ { j } + 1 ) , 1 , ( a _ { j } + 1 ) , \cdots ~ , a _ { r } ]

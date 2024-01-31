@@ -1,0 +1,1 @@
+S ^ { - 1 } ( p ) = i \gamma \cdot p A ( p ^ { 2 } ) + B ( p ^ { 2 } ) ,

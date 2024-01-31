@@ -1,0 +1,1 @@
+\stackrel { \mathrm { G } } { { \mathcal L } } \, : = \frac { 1 } { 2 m } \left[ ( D _ { \alpha } \overline { { \Psi } } ) D ^ { \alpha } \Psi - m ^ { 2 } \overline { { \Psi } } \Psi \right] \, .

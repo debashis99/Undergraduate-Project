@@ -1,0 +1,1 @@
+m _ { 0 } ^ { 2 } \varphi + { \frac { \mu ^ { 2 } - m _ { 0 } ^ { 2 } } { \beta } } \operatorname { t a n } ( \beta \varphi ) = 0

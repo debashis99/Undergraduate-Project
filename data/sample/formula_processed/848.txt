@@ -1,0 +1,1 @@
+\chi [ { \cal M } _ { \alpha } ] = { \frac { 1 } { 3 2 \pi ^ { 2 } } } \int _ { { \cal M } _ { \alpha } / \Sigma } ( R ^ { 2 } - 4 R _ { \mu \nu } ^ { 2 } + R _ { \mu \nu \alpha \beta } ^ { 2 } ) + ( 1 - \alpha ) \chi [ \Sigma ] ~ ~ ~ ,

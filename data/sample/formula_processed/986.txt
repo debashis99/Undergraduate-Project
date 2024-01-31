@@ -1,0 +1,1 @@
+\int A _ { ( 3 ) } \wedge X _ { 8 } \ , \qquad \mathrm { w i t h } \quad X _ { 8 } = { \frac { 1 } { 2 4 } } \left( p _ { 2 } - { \frac { 1 } { 4 } } p _ { 1 } \wedge p _ { 1 } \right) \ .

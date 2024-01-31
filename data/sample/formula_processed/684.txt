@@ -1,0 +1,1 @@
+J ~ \equiv ~ \epsilon ^ { \alpha \beta \gamma \delta } \epsilon _ { a b c d e } \phi ^ { e } \nabla _ { \alpha } \phi ^ { a } \nabla _ { \beta } \phi ^ { b } \nabla _ { \gamma } \phi ^ { c } \nabla _ { \delta } \phi ^ { d } ~ ,

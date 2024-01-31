@@ -1,0 +1,1 @@
+G _ { \mu \nu } ^ { 0 } = \frac { \epsilon _ { \mu \nu \lambda } p _ { \lambda } + \delta _ { \mu \nu } M + p _ { \mu } p _ { \nu } / M } { p ^ { 2 } + M ^ { 2 } } \; , ~ ~ D _ { \mu \nu } ^ { 0 } ( p ) = \frac { \epsilon _ { \mu \nu \lambda } p _ { \lambda } } { p ^ { 2 } } \; , ~ ~ \mathrm { a n d } ~ ~ \Gamma _ { \mu \nu \lambda } ^ { 0 } = g \epsilon _ { \mu \nu \lambda }

@@ -1,0 +1,1 @@
+{ } ^ { ( { } ^ { \scriptstyle x } y ) } ( { } ^ { x } z ) = { } ^ { x } ( { } ^ { y } z ) , \qquad \forall x , y , z \in X .

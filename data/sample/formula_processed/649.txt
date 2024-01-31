@@ -1,0 +1,1 @@
+\left( d - { \textstyle \frac { 1 } { 4 } } \omega _ { a b } \gamma ^ { a b } + \Omega \right) \kappa = 0 \, .

@@ -1,0 +1,1 @@
+q _ { ( 1 ) } = q _ { i } \delta _ { i } ^ { j } \qquad \bar { q } _ { ( 1 ) } = \bar { q } _ { i } \delta _ { i } ^ { j } \qquad T _ { ( 1 ) } = T _ { i } \delta _ { i } ^ { j }

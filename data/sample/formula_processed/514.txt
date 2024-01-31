@@ -1,0 +1,1 @@
+{ \widetilde \Phi } ^ { A ^ { \prime } } ( \gamma ) \equiv \gamma ^ { A ^ { \prime } C ^ { \prime } C } \; { _ { e } n _ { C C ^ { \prime } } } = 0 \; .

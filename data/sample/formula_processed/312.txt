@@ -1,0 +1,1 @@
+\pm 1 = \frac { 1 } { 2 { \pi } i } \int T r { \cal P } ^ { ( { \pm } 1 ) } d { \cal P } ^ { ( { \pm } 1 ) } { \wedge } d { \cal P } ^ { ( { \pm } 1 ) } .

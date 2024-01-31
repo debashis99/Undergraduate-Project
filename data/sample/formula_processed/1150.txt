@@ -1,0 +1,1 @@
+\int _ { - \infty } ^ { \infty } P _ { r } ^ { \bf V } ( x ) P _ { s } ^ { \bf V } ( x ) \, e ^ { - x ^ { 2 } } \, d x \, \propto \delta _ { r \, s } .

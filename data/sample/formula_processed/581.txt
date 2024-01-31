@@ -1,0 +1,1 @@
+I \propto \epsilon _ { \{ n \} } \epsilon _ { \{ m \} } \prod _ { i } \left\langle P _ { n _ { i } } ( x _ { i } ) Q _ { m _ { i } } ( y _ { i } ) \right\rangle = N ! \prod _ { n = 1 } ^ { N } h _ { n }

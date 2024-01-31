@@ -1,0 +1,1 @@
+S ( x ) = { \cal S } _ { 0 } ( x ) \operatorname { e x p } \left[ - i e ^ { 2 } \beta ( x ) \right] \; ,

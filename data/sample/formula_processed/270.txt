@@ -1,0 +1,1 @@
+t = ( H ^ { - 2 } - r ^ { 2 } ) ^ { 1 / 2 } \operatorname { s i n h } ( H \tau ) ; \quad v = ( H ^ { - 2 } - r ^ { 2 } ) ^ { 1 / 2 } \operatorname { c o s h } ( H \tau ) ; \quad x = r

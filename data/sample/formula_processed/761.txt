@@ -1,0 +1,1 @@
+e ^ { 2 x } C ( x ) = \frac { B ( x ) \lambda _ { 1 } } { 2 } + \frac { C ( x ) \lambda _ { 1 } } { 4 } + \lambda _ { 1 } ,

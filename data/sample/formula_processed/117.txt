@@ -1,0 +1,1 @@
+\langle f , f \rangle = \langle g , g \rangle = 0 .

@@ -1,0 +1,1 @@
+\psi _ { l } \left( z \right) \psi _ { l } ^ { \dagger } \left( w \right) \sim \left( z - w \right) ^ { - 2 \Delta _ { l } } \left[ 1 + \frac { 2 \Delta _ { l } } { c _ { p } } \left( z - w \right) ^ { 2 } T _ { p } \left( w \right) + O \left( z - w \right) ^ { 3 } \right]

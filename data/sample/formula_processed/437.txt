@@ -1,0 +1,1 @@
+( 1 + \theta + \omega + \theta \omega ) ( 1 + \alpha \Omega ^ { \prime } )

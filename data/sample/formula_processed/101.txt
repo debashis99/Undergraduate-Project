@@ -1,0 +1,1 @@
+{ \cal L } = \frac { 1 } { 2 } { \it i } \overline { { \psi } } { \Gamma } ^ { \nu } \hspace { - . 1 5 c m } \stackrel { \; \leftrightarrow } { \partial } _ { \! \nu } \hspace { - . 1 c m } { \psi } - \overline { { \psi } } M { \psi } \quad ,

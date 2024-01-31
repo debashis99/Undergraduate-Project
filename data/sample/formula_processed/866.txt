@@ -1,0 +1,1 @@
+d s _ { n + 3 } ^ { 2 } = e ^ { - 2 n L \rho } d x ^ { 2 } + e ^ { 4 L \rho } ( 2 d x d t + \sum _ { i = 1 } ^ { n } { d y ^ { i } } ^ { 2 } ) + d \rho ^ { 2 }

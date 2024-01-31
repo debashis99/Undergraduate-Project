@@ -1,0 +1,1 @@
+p _ { \mu } T _ { \mu \nu } ^ { S \rightarrow A V } = 2 m i T _ { \nu } ^ { S \rightarrow P V }

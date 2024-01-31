@@ -1,0 +1,1 @@
+\psi _ { c o v a r } ( p , g ) = F ( L ^ { - 1 } ( p ) g ) \psi ( p )

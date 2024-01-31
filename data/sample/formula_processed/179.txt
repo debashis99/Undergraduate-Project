@@ -1,0 +1,1 @@
+{ \cal D } [ \partial ] : = 1 + { \frac { \partial ^ { 2 } } { \eta ^ { 2 } } } - { \frac { \partial ^ { 4 } } { \gamma ^ { 4 } } } .

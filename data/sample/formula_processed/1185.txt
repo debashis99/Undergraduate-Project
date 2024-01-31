@@ -1,0 +1,1 @@
+J ( x , y , M ) = \mathrm { t r } \left\langle x \left| \Gamma _ { 5 } \Gamma \frac { 1 } { \Theta + M } \right| y \right\rangle .

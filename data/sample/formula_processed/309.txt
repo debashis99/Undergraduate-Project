@@ -1,0 +1,1 @@
+S = \int d ^ { d - 1 } x \sqrt { | g | } \ \left[ R + { \textstyle \frac { 1 } { 2 } } \left( \partial \varphi \right) ^ { 2 } - { \textstyle \frac { 1 } { 4 } } e ^ { - a \varphi } F _ { ( 2 ) } ^ { 2 } + { \textstyle \frac { 1 } { 2 } } \left( { \cal D } \phi \right) ^ { 2 } - { \textstyle \frac { 1 } { 2 } } m ^ { 2 } e ^ { a \varphi } \right] \, ,

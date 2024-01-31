@@ -1,0 +1,1 @@
+\Big \langle \frac { 1 } { 4 } \int d ^ { 4 } x \, d ^ { 4 } \theta \, \Big ( \phi ^ { * } e ^ { 2 V } \phi + \tilde { \phi } ^ { * } e ^ { - 2 V } \tilde { \phi } \Big ) \Big \rangle = 0 .

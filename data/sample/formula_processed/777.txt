@@ -1,0 +1,1 @@
+\dot { \Psi } ^ { R } = i [ H ^ { R } , \Psi ^ { R } ] = \gamma _ { 0 } ( - i \gamma _ { i } \partial _ { i } - e \gamma _ { i } V _ { i } ^ { R } + m ) \Psi ^ { R } + { \frac { e } { 2 } } \left\{ \Psi ^ { R } , { \frac { 1 } { \vec { \partial } ^ { 2 } - M ^ { 2 } } } J _ { 0 } \right\} ~ ,

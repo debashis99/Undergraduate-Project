@@ -1,0 +1,1 @@
+\left\langle \int d ^ { 2 } x : \Psi ^ { \dagger } ( x ) M \Psi ( x ) : \right\rangle = - \frac { 1 } { 2 } \left( \sum _ { \mathrm { o c c u p i e d } } \int d ^ { 2 } x \psi _ { E } ^ { \dagger } ( x ) M \psi _ { E } ( x ) - \sum _ { \mathrm { u n o c c u p i e d } } \int d ^ { 2 } x \psi _ { E } ^ { \dagger } ( x ) M \psi _ { E } ( x ) \right) .

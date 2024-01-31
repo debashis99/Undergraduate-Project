@@ -1,0 +1,1 @@
+\partial _ { \rho } G _ { \mu \nu } = \partial _ { \rho } G _ { \mu \nu } ^ { ( 0 ) } + \gamma _ { \mu \nu } u _ { \rho } \theta ( u ) .

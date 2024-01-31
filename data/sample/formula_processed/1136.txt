@@ -1,0 +1,1 @@
+F _ { i _ { 1 } , \dots , i _ { n } } ( \beta _ { 1 } , \dots , \beta _ { n } + 2 \pi i ) = \operatorname { e x p } [ 2 \pi i \omega ( { \cal O } , \Psi ) ] F _ { i _ { n } , i _ { 1 } , \dots , i _ { n - 1 } } ( \beta _ { n } , \beta _ { 1 } , \dots , \beta _ { n - 1 } ) .

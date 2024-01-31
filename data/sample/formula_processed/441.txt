@@ -1,0 +1,1 @@
+L _ { 1 } = \mathcal { \vartheta } _ { 3 } ^ { 4 } ( 0 | \theta ) - \mathcal { \vartheta }

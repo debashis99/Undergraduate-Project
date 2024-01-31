@@ -1,0 +1,1 @@
+\frac { d \phi ^ { i } } { d t } = - g ^ { i j } \frac { \partial W } { \partial \phi ^ { j } } \ ,

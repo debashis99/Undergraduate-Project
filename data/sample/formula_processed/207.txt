@@ -1,0 +1,1 @@
+A d j ( S p ( 2 n _ { H } ) ) \to A d j ( U ( k ) ) + A d j ( U ( n _ { H } - k ) ) + 2 ( k , n _ { H } - k )

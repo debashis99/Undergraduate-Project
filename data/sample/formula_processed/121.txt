@@ -1,0 +1,1 @@
+{ \cal E } = \frac { { \bf D } ^ { 2 } + { \bf H } ^ { 2 } } { 2 } - \left( { \bf \theta } \cdot { \bf B } \right) { \bf B } ^ { 2 } ,

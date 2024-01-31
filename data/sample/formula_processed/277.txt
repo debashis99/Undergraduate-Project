@@ -1,0 +1,1 @@
+\delta ( f ( x ) ) = \sum _ { i = 1 } ^ { n } \frac { 1 } { | f ^ { \prime } ( x _ { i } ) | } \delta ( x - x _ { i } )

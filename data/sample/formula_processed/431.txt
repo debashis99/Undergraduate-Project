@@ -1,0 +1,1 @@
+{ \cal D } _ { b } \psi ^ { a b } = 0 , \quad \quad \psi ^ { a b } = \psi ^ { b a } ,

@@ -1,0 +1,1 @@
+s _ { \infty } ( k ^ { 2 } ) - s _ { J _ { \operatorname* { m a x } } } ( k ^ { 2 } ) \sim O ( J _ { \operatorname* { m a x } } ^ { - 2 } ) .

@@ -1,0 +1,1 @@
+Q ( x , \psi ) = x _ { 1 } ^ { d _ { 1 } } + \cdots + x _ { d + 1 } ^ { d _ { d + 1 } } - k \psi \cdot x _ { 1 } \cdots x _ { d + 1 } ,

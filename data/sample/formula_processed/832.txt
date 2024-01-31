@@ -1,0 +1,1 @@
+{ H _ { \bar { \partial } } ^ { p , p } } ( { { \mathcal P } ^ { n } } ) \cong { H _ { D R } ^ { 2 p } } \cong C

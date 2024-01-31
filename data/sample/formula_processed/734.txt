@@ -1,0 +1,1 @@
+\Omega ( \gamma _ { r } | A _ { + } \rangle ) = ( - 1 ) ^ { - r - \frac { 1 } { 2 } } \gamma _ { r } ( \Omega | A _ { + } \rangle ) .

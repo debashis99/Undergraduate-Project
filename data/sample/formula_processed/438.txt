@@ -1,0 +1,1 @@
+\operatorname { l o g } \, Z \left( \beta \right) = \frac { f \left( 0 \right) } { 2 } - I \left( 0 \right) - 2 \sum _ { n = 1 } ^ { \infty } I \left( n \right) ,

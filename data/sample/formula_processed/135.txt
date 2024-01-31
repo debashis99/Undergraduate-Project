@@ -1,0 +1,1 @@
+\stackrel { \rightarrow } { x } ( \tau ) = m ^ { - 2 } \stackrel { \rightarrow } { V }

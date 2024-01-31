@@ -1,0 +1,1 @@
+Z _ { M } = \sum _ { j _ { s } } \int d U _ { f } \Pi _ { s } \left( 2 j _ { s } + 1 \right) T r _ { j _ { s } } U _ { s }

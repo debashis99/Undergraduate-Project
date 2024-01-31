@@ -1,0 +1,1 @@
+\int _ { - \infty } ^ { \infty } \frac { d x } { ( \gamma + x ^ { 2 } ) ( \delta + x ^ { 2 } ) } = \frac { \pi } { \sqrt { \gamma \delta } ( \sqrt { \gamma } + \sqrt { \delta } ) } = \frac { \pi } { \sqrt { \gamma \delta } } \frac { \sqrt { \delta } - \sqrt { \gamma } } { \delta - \gamma } ,

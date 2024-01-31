@@ -1,0 +1,1 @@
+H _ { m n } \equiv F _ { m n } , \, \quad \quad B _ { m } \equiv F _ { 3 m } = - F _ { m 3 } , \,

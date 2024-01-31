@@ -1,0 +1,1 @@
+m _ { h } = \frac { g _ { s m } ^ { 2 } | \psi ( 0 ) | ^ { 2 } } { M _ { G } ^ { 2 } } = \frac { M _ { G } } { \sqrt { \pi } c _ { f } \alpha _ { s } \sqrt { N _ { s d } } }

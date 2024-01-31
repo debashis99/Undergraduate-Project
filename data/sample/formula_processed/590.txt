@@ -1,0 +1,1 @@
+\nabla ^ { 2 } \Phi ^ { X } + \nabla _ { \mu } \psi \nabla ^ { \mu } \Phi ^ { X } = \frac { ( q - 1 ) } { R ^ { 2 } } ( e ^ { - 2 \Phi ^ { X } } - e ^ { - 2 \psi } ) ,

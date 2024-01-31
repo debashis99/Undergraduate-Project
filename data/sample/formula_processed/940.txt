@@ -1,0 +1,1 @@
+{ \frac { \partial W } { \partial \bar { q } } } = 0 \qquad \Longrightarrow \qquad q = Q ,

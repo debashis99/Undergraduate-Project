@@ -1,0 +1,1 @@
+\mathcal { A } \equiv \operatorname { e x p } \left[ \int _ { 0 } ^ { \lambda } d \tilde { \lambda } \, \theta ( \tilde { \lambda } ) \right] \, .

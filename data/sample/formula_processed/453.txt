@@ -1,0 +1,1 @@
+{ \bf \Phi } _ { 1 } ^ { ( n _ { \rho } , m ) } = { \bf \Phi } _ { 1 } ^ { ( n _ { \rho } , m ) } ( \rho , k ) = \left( \begin{array} { c } { \phi _ { 1 } ^ { ( n _ { \rho } , m ) } ( \rho , k ) } \\ { \phi _ { 2 } ^ { ( n _ { \rho } , m ) } ( \rho , k ) } \\ \end{array} \right)

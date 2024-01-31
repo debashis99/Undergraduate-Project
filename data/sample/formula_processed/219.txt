@@ -1,0 +1,1 @@
+H \, { \cal U } = i { \frac { \partial } { \partial t } } \, { \cal U } \, ,

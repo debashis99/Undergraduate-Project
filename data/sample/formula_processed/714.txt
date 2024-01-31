@@ -1,0 +1,1 @@
+a _ { i } a _ { j } ^ { \dagger } - \hat { q } a _ { j } ^ { \dagger } a _ { i } = \delta _ { i j } , \qquad \hat { q } | \pm > = \pm 1 | \pm > .

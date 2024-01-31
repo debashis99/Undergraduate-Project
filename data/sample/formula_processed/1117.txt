@@ -1,0 +1,1 @@
+{ e _ { \hat { \mu } } ^ { \ \hat { m } } = \left( \begin{matrix} { e _ { \sigma } ^ { \ s } } & { 0 } \\ { 0 } & { e _ { \alpha } ^ { \ a } } \\ \end{matrix} \right) }

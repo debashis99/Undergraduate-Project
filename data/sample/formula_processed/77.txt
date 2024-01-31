@@ -1,0 +1,1 @@
+\left. \begin{array} { c c c } { S _ { \sigma \sigma ^ { \prime } } \nonumber } \\ { S _ { \Delta } \nonumber } \\ { \tilde { S } _ { \Delta } } \\ \end{array} \right\} \varpi = ( \varpi + 2 ) \left\{ \begin{array} { c c c } { S _ { \sigma \sigma ^ { \prime } } \nonumber } \\ { S _ { \Delta } \nonumber } \\ { \tilde { S } _ { \Delta } } \\ \end{array} \right. .

@@ -1,0 +1,1 @@
+\rho _ { \nu } ( x ) = \rho _ { \nu ^ { \prime } } ( x ) \frac { q ^ { C ( \nu ) / 2 } + \epsilon ( \nu ) \epsilon ( \nu ^ { \prime } ) x q ^ { C ( \nu ^ { \prime } ) / 2 } } { x q ^ { C ( \nu ) / 2 } + \epsilon ( \nu ) \epsilon ( \nu ^ { \prime } ) q ^ { C ( \nu ^ { \prime } ) / 2 } } \; , ~ ~ ~ ~ \forall \nu \neq \nu ^ { \prime } .

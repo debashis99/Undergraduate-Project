@@ -1,0 +1,1 @@
+\Lambda _ { \infty } R = e ^ { a ( \infty ) } \Lambda _ { \overline { { M S } } } R = e ^ { \gamma _ { E } } r / \sqrt { 6 }

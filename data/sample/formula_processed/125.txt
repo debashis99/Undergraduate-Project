@@ -1,0 +1,1 @@
+y \sqrt { c } \operatorname { s i n h } \alpha = \operatorname { c o s h } \alpha - \operatorname { c o s h } ( x \sqrt { c } - \alpha ) \; \; , \; \; \; \; \operatorname { t a n h } \alpha \equiv 2 \sqrt { c } \; .

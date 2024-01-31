@@ -1,0 +1,1 @@
+c ( i , j , k ) = ( - ) ^ { B ( \beta _ { i } , \beta _ { j } ) + B ( \beta _ { i } , \beta _ { k } ) + B ( \beta _ { j } , \beta _ { k } ) + B ( \beta _ { 0 } , \omega ) + 1 }

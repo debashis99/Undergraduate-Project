@@ -1,0 +1,1 @@
+\sigma _ { q } ( X _ { i } + a ) = \sum _ { r = 0 } ^ { q } \left( \begin{array} { c } { p - q + r } \\ { p - q } \\ \end{array} \right) a ^ { r } \sigma _ { q - r } ( X _ { i } )

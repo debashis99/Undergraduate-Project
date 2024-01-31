@@ -1,0 +1,1 @@
+x ^ { \mu } = R ^ { \mu } ( \tau , \sigma ) + \rho ^ { \alpha } n _ { ( \alpha ) } ^ { \mu } ( \tau , \sigma ) \; \; ,

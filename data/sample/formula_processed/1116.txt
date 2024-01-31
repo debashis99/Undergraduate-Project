@@ -1,0 +1,1 @@
+x ^ { N } + y ^ { N } = z ^ { N } , ~ ~ \Phi ( l ) = \omega ^ { l ( l + N ) / 2 } , ~ ~ \omega ^ { 1 / 2 } = \operatorname { e x p } ( \pi i / N ) .

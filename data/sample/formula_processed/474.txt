@@ -1,0 +1,1 @@
+L = g ^ { - 1 } C g , \quad L \in G ^ { * } , \quad g \in G ,

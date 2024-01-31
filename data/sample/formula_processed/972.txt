@@ -1,0 +1,1 @@
+\widetilde { \cal F } ^ { ( 1 ) } ( x ) = - \int d y \int d z \int d w \Phi ^ { j } ( y ) \omega _ { j k } ( y , z ) X ^ { k l } ( z , w ) \{ \Omega _ { l } ( w ) , { \cal F } ( x ) \} _ { ( { \cal F } ) } .

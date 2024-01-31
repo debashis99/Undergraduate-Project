@@ -1,0 +1,1 @@
+\frac { \mathrm { e } ^ { - x ^ { 2 } / 2 t } } { \left( 2 \pi t \right) ^ { D / 2 } } = \int \frac { \mathrm { d } ^ { D } p } { \left( 2 \pi \right) ^ { D } } \; \mathrm { e } ^ { - i p \cdot x - \frac 1 2 p ^ { 2 } t } ,

@@ -1,0 +1,1 @@
+g _ { z \overline { { z } } } = \tau _ { 2 } \eta ^ { 2 } \overline { { \eta } } ^ { 2 } \prod _ { i } ( z - z _ { i } ) ^ { - 1 / 1 2 } \prod _ { i } ( \overline { { z } } - \overline { { z } } _ { i } ) ^ { - 1 / 1 2 } ~ .

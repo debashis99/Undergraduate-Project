@@ -1,0 +1,1 @@
+j ^ { m i } \equiv \frac { \delta I _ { S I } } { \delta v _ { m } ^ { i } } , \quad K ^ { m i } \equiv \frac { \delta I _ { S I } } { \delta A _ { m } ^ { i } } .

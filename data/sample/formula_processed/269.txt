@@ -1,0 +1,1 @@
+\tau _ { c l } = { \frac { \theta _ { 0 } } { 2 \pi } } + { \frac { 4 \pi i } { g _ { 0 } ^ { 2 } } } ,

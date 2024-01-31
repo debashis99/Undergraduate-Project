@@ -1,0 +1,1 @@
+\{ Q ^ { \alpha } , \bar { Q } _ { \beta } \} = - i ( \Gamma ^ { a } ) _ { \beta } ^ { \alpha } P _ { a } - i ( \Gamma ^ { a b c d e } ) _ { \beta } ^ { \alpha } Z _ { a b c d e } ,

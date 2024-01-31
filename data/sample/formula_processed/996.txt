@@ -1,0 +1,1 @@
+\begin{array} { c } { s c = c \partial c \; , } \\ { s b = - ( \partial b ) c - 2 b \partial c \; . } \\ \end{array}

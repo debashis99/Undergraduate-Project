@@ -1,0 +1,1 @@
+\eta ^ { l m } \partial _ { i } \partial _ { j } \partial _ { m } F _ { M } \partial _ { l } \partial _ { k } \partial _ { n } F _ { M } = \eta ^ { l m } \partial _ { j } \partial _ { k } \partial _ { m } F _ { M } \partial _ { i } \partial _ { l } \partial _ { n } F _ { M }

@@ -1,0 +1,1 @@
+r = \rho \; , \; \; f = 1 - \frac { \rho _ { 0 } } { \rho } - \frac { \Lambda } { 6 } \rho ^ { 2 } \; .

@@ -1,0 +1,1 @@
+\nu _ { R } ( E ) = \int _ { \mu } ^ { E - \mu _ { Q } } \nu ( E ^ { \prime } ) \nu _ { Q } ( E - E ^ { \prime } ) d E ^ { \prime } ~ ~ ~ .

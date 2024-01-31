@@ -1,0 +1,1 @@
+\tilde { \Gamma } _ { 3 } = - \frac { \lambda ^ { 3 } } { 6 4 \pi ^ { 3 } } \mathrm { l n } \left( T \right) .

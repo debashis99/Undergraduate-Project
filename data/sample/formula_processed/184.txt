@@ -1,0 +1,1 @@
+H = 1 + Q _ { 1 } \sum _ { n = - \infty } ^ { \infty } \frac { 1 } { \mid \vec { y } - 2 \pi n a \hat { z } \mid ^ { 6 } } ,

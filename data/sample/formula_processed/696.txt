@@ -1,0 +1,1 @@
+( c _ { 0 } ^ { ( 1 ) } + c _ { 0 } ^ { ( 2 ) } + c _ { 0 } ^ { ( 3 ) } ) | V _ { 3 } \rangle = 0 , \ \ c _ { 0 } | I \star A \rangle = | I \star ( c _ { 0 } A ) \rangle , \ \ \forall A

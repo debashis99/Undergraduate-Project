@@ -1,0 +1,1 @@
+S = - T _ { ( p - 1 ) } \int d ^ { p } \sigma \sqrt { - \operatorname* { d e t } ( \mathcal { G } _ { \alpha \beta } + 2 \pi \alpha ^ { \prime } \mathcal { F } _ { \alpha \beta } ) } ,

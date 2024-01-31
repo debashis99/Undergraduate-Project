@@ -1,0 +1,1 @@
+\begin{array} { c } { \left\{ M _ { 1 } , M _ { 2 } \right\} = a M _ { 1 } M _ { 2 } - M _ { 1 } M _ { 2 } a , } \\ { a = \frac 1 2 \left( r - r ^ { * } \right) . } \\ \end{array}

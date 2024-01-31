@@ -1,0 +1,1 @@
+I = \int _ { \Omega } \frac { 1 } { 2 } \left( \epsilon _ { \mu \nu \lambda } B _ { \mu } ^ { * } ( \partial _ { \nu } - i g a _ { \nu } ) B _ { \lambda } + M B _ { \mu } ^ { * } B ^ { \mu } + \epsilon _ { \mu \nu \lambda } a _ { \mu } \partial _ { \nu } a _ { \lambda } \right) \; ,

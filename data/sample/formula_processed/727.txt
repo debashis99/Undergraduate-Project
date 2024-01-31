@@ -1,0 +1,1 @@
+\int d u \; 1 = 1 , \ \ \int d u \; u _ { ( A _ { 1 } } ^ { + } \ldots u _ { A _ { p } } ^ { + } u _ { B _ { 1 } } ^ { - } \ldots u _ { B _ { q } ) } ^ { - } = 0 \ \mathrm { f o r ~ p ~ a n d / o r ~ q > 0 ~ } \; .

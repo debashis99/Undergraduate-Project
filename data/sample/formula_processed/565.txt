@@ -1,0 +1,1 @@
+\left\{ Q _ { n } ^ { - } , Q _ { n } ^ { + } \right\} _ { P B } = - i ( H _ { n } ) ^ { n } , \qquad \{ Q _ { n } ^ { \pm } , H _ { n } \} _ { P B } = 0 .

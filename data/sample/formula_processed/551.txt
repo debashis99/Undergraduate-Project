@@ -1,0 +1,1 @@
+\operatorname* { d e t } V _ { \pm } [ \alpha ] \operatorname* { d e t } V _ { \pm } [ \beta ] = \operatorname* { d e t } V _ { \pm } [ \alpha + \beta ] \; ,

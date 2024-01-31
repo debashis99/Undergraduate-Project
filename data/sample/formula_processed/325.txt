@@ -1,0 +1,1 @@
+R _ { \gamma \alpha \beta } ^ { \mu } = \partial _ { \alpha } \Gamma _ { \beta \gamma } ^ { \mu } - \partial _ { \beta } \Gamma _ { \alpha \gamma } ^ { \mu } + \Gamma _ { \alpha \lambda } ^ { \mu } \Gamma _ { \beta \gamma } ^ { \lambda } - \Gamma _ { \beta \lambda } ^ { \mu } \Gamma _ { \alpha \gamma } ^ { \lambda }

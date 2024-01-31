@@ -1,0 +1,1 @@
+f _ { k } ^ { ( D ) } ( \Omega ^ { ( { D } ) } ) = - \Gamma _ { { D } } ( k ) \, \frac { 1 } { 1 / \lambda + { \mathcal G } _ { { D } } ^ { ( + ) } ( { \bf 0 } ; k ) } \; ,

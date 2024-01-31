@@ -1,0 +1,1 @@
+( \bar { \varepsilon } _ { + } ^ { a } ) ^ { \dagger } ( \bar { \varepsilon } _ { - } ^ { a } ) = 0 ; \hspace { 1 . 0 c m } ( \bar { \varepsilon } _ { + } ^ { a } ) ^ { \dagger } ( \bar { \varepsilon } _ { + } ^ { a } ) = ( \bar { \varepsilon } _ { - } ^ { a } ) ^ { \dagger } ( \bar { \varepsilon } _ { - } ^ { a } ) = 1 .

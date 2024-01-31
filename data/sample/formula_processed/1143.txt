@@ -1,0 +1,1 @@
+L _ { a } = \frac { 1 } { 1 6 \pi } \mathrm { I m } \int d ^ { 2 } \theta \, W ^ { 2 } \tau ( z ^ { - 1 / 4 } )

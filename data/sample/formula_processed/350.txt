@@ -1,0 +1,1 @@
+g _ { \mu \nu } \partial _ { n } X ^ { \nu } + 2 \pi \alpha ^ { \prime } B _ { \mu \nu } \partial _ { s } X ^ { \nu } | _ { \partial \Sigma } = 0 ,

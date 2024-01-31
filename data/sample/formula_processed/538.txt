@@ -1,0 +1,1 @@
+\xi ^ { ( i ) } ( x _ { + } ) \equiv \langle \lambda ^ { i } | T _ { L } , { } ~ ~ ~ ~ \bar { \xi } ^ { ( i ) } ( x _ { - } ) \equiv T _ { R } ^ { - 1 } | \lambda ^ { i } \rangle

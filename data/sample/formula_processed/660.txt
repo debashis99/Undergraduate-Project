@@ -1,0 +1,1 @@
+B \times J = \pi \frac { 2 + 2 \operatorname { c o s } 2 v s + 2 \operatorname { c o s h } 2 s c _ { 1 } + 2 \operatorname { c o s h } 2 s c _ { 2 } - 8 \operatorname { c o s } v s ( \operatorname { c o s h } s c _ { 1 } \operatorname { c o s h } s c _ { 2 } ) } { 4 \operatorname { s i n h } s c _ { 1 } \operatorname { s i n h } s c _ { 2 } \operatorname { s i n } s v }

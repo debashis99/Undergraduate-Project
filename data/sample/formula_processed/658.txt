@@ -1,0 +1,1 @@
+\left[ - [ f ( p ) \partial _ { p } ] ^ { 2 } - \xi ^ { 2 } + 2 \, a ( i \, f ( p ) \partial _ { p } - \xi ) + 2 \, b ( v ( p ) - \gamma ) - \mu ^ { 2 } \right] \Psi ( p ) = 0

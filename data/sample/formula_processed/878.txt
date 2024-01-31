@@ -1,0 +1,1 @@
+R _ { i j } = \frac { E ( z _ { i } , z _ { j } ) E ( w _ { i } , w _ { j } ) } { E ( z _ { i } , w _ { j } ) E ( w _ { i } z _ { j } ) }

@@ -1,0 +1,1 @@
+\tilde { s } ^ { 0 } ( x , y ) = i e ^ { 2 } \int \! d ^ { 4 } \! z \, S _ { \mathrm { F } } ( x , z ) \, \gamma ^ { \mu } \, S _ { \mathrm { F } } ( z , y ) \, [ d _ { \mu } ( x - z ) + d _ { \mu } ( z - y ) ]

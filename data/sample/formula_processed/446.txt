@@ -1,0 +1,1 @@
+q _ { j } ( x _ { 0 } ) = A _ { j + 1 } , \quad q _ { j } ^ { \prime } ( x _ { 0 } ) = B _ { j + 1 } , \quad j = 0 , 1 , \ldots , n - 1 .

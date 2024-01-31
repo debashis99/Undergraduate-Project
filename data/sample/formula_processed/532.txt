@@ -1,0 +1,1 @@
+( \gamma / \nu d _ { H } ) _ { e f f } \equiv \operatorname { l n } \left( { \frac { \chi _ { 2 N } } { \chi _ { N } } } \right) / \operatorname { l n } 2 .

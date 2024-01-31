@@ -1,0 +1,1 @@
+[ Q _ { i } , \; Q _ { j } ] _ { + } = \sum _ { n = 0 } ^ { \infty } \; A _ { M _ { 1 } } ^ { \dagger } \ldots A _ { M _ { n } } ^ { \dagger } ( A ^ { \dagger } [ \Gamma _ { i } , \; \Gamma _ { j } ] _ { + } A ) A _ { M _ { n } } \ldots A _ { M _ { 1 } } .

@@ -1,0 +1,1 @@
+h _ { \ell } = - \frac { d ^ { 2 } } { d r ^ { 2 } } + \frac { \ell ( \ell + 1 ) } { r ^ { 2 } } + \frac { \gamma } { r }

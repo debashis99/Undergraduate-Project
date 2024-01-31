@@ -1,0 +1,1 @@
+\sum _ { { \lambda } = 1 } ^ { 2 } { \epsilon } _ { \mu } ^ { ( { \lambda } ) } ( k ) { \epsilon } _ { \nu } ^ { ( { \lambda } ) } ( k ) = - g _ { { \mu } { \nu } } + \frac { n _ { \mu } k _ { \nu } + n _ { \nu } k _ { \mu } } { k _ { - } } - n ^ { 2 } \frac { k _ { \mu } k _ { \nu } } { k _ { - } ^ { 2 } } .

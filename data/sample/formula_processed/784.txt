@@ -1,0 +1,1 @@
+F ( z , x ) = \operatorname { e x p } - \int _ { a } ^ { b } \frac { d y } { 2 \pi i } \frac { 1 } { y - x } \operatorname { l o g } \bigg [ \frac { z - u ( y ) } { z - \bar { u } ( y ) } \bigg ] =

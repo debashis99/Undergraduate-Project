@@ -1,0 +1,1 @@
+- { \cal L } _ { \xi } J ^ { \mu \nu } = \hat { \xi } ^ { \lambda } \partial _ { \lambda } J ^ { \mu \nu } - \partial _ { \lambda } \hat { \xi } ^ { \mu } J ^ { \lambda \nu } - \partial _ { \lambda } \hat { \xi } ^ { \nu } J ^ { \mu \lambda }

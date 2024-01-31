@@ -1,0 +1,1 @@
+\partial _ { x _ { _ \perp } } ^ { 2 } H _ { p } ( x _ { _ \perp } ) = 0 .

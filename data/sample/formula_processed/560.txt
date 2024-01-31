@@ -1,0 +1,1 @@
+\dot { \phi } _ { i } ~ = ~ g _ { i } ( \phi _ { i } , { \frac { \delta S } { \delta \phi _ { i } } } , \rho ) ~ = ~ f _ { i } ( \phi _ { i } , \rho ) .

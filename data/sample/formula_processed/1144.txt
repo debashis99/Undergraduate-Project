@@ -1,0 +1,1 @@
++ \, \, \mathrm { e } ^ { \varphi } \, { F } _ { [ 3 ] } ^ { R R } \wedge \star { F } _ { [ 3 ] } ^ { R R } \, + \, \frac { 1 } { 2 } \, { F } _ { [ 5 ] } ^ { R R } \wedge \star { F } _ { [ 5 ] } ^ { R R } \, - \, C _ { [ 4 ] } \wedge F _ { [ 3 ] } ^ { N S } \wedge F _ { [ 3 ] } ^ { R R } \Big ] \Bigg \}

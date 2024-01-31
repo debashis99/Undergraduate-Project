@@ -1,0 +1,1 @@
+\delta B _ { \hat { 0 } \alpha } ^ { g } = \frac { 1 } { \sqrt { a } } { \bar { e } } _ { \alpha } ^ { \; \; i } \left( \delta { \beta } _ { o i } ^ { g } - v _ { i } \delta \beta ^ { a } \right) .

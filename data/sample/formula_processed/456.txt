@@ -1,0 +1,1 @@
+\tilde { h } = \frac { 1 } { 1 + ( a u ) ^ { 7 - p } } , \ \ \ a ^ { 7 - p } = \tilde { b } ^ { 2 } / R ^ { 7 - p } , \ \ \ R ^ { 7 - p } = \frac { 1 } { 2 } ( 2 \pi ) ^ { 6 - p } \pi ^ { - ( 7 - p ) / 2 } \Gamma [ ( 7 - p ) / 2 ] \hat { g } _ { s } N .

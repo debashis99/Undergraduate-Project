@@ -1,0 +1,1 @@
+y ^ { 2 } = \rho \; \operatorname { c o s h } \beta \; \operatorname { s i n } \theta \; \operatorname { s i n } \phi \qquad \qquad y ^ { 3 } = \rho \; \operatorname { c o s } \theta

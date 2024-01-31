@@ -1,0 +1,1 @@
+\partial _ { 0 } { \cal E } + { \bf d i v } { \bf S } = 0 \, .

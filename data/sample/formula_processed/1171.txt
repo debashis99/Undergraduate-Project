@@ -1,0 +1,1 @@
+\operatorname* { l i m } _ { t \rightarrow - \infty } ( f ( x ) , \phi ( x - t ) ) = L _ { 0 } ^ { - 1 } [ f ] \int _ { - \infty } ^ { \infty } \phi ( x ) d x

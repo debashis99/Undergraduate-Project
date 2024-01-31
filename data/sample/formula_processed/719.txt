@@ -1,0 +1,1 @@
+\rho ( \phi ) = \frac { 1 } { 2 \pi } \int _ { 0 } ^ { 1 } d t \; \frac { \theta \left( 4 R ( t ) - \phi ^ { 2 } \right) } { \sqrt { 4 R ( t ) - \phi ^ { 2 } } }

@@ -1,0 +1,1 @@
+d \omega \equiv \left[ g ^ { D } ( d X , d X ) \right] ^ { \frac { 1 } { 2 } } .

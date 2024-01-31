@@ -1,0 +1,1 @@
+\Omega ^ { J } \equiv ( v _ { i } ^ { J } ) ^ { T } \frac { \partial V ( q ) } { \partial q _ { i } } = 0 ,

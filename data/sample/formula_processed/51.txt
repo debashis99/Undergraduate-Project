@@ -1,0 +1,1 @@
+C _ { m } ( \mu ) = { \frac { 1 } { 2 \pi i } } \int _ { \Gamma _ { r } } { \frac { C _ { m } ( z ) } { z - \mu } } d z ,

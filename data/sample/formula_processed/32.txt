@@ -1,0 +1,1 @@
+X ( u ) = { \frac { \left( \pm i + e ^ { 3 \eta } \right) \left( - 1 + { e ^ { u } } \right) \left( 1 + { e ^ { u } } \right) x _ { 1 } } { 2 { e ^ { u } } \left( \pm i + { e ^ { 3 \eta + u } } \right) } } ,

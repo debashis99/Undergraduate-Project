@@ -1,0 +1,1 @@
+[ R , M ] = - \mathrm { \frac { i } { 2 } } \sum _ { \rho \in \Delta _ { + } } g _ { | \rho | } \thinspace { \frac { | \rho | ^ { 2 } \operatorname { c o s } ( \rho \cdot q ) } { \operatorname { s i n } ^ { 2 } ( \rho \cdot q ) } } \thinspace [ \mathrm { e } ^ { 2 \mathrm { i } q \cdot \hat { H } } , \hat { s } _ { \rho } ] .

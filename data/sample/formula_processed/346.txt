@@ -1,0 +1,1 @@
+- \left[ J ^ { 1 } ( x ) \right] _ { - L / 2 } ^ { L / 2 } = \left[ ( / \hspace { - 0 . 5 e m } \partial \phi + U ) \gamma ^ { 1 } \psi - ( - / \hspace { - 0 . 5 e m } \partial \phi + U ) \gamma ^ { 1 } \gamma ^ { 3 } \psi \right] _ { L / 2 } = \left. ( 1 + \gamma _ { 3 } ) ( / \hspace { - 0 . 5 e m } \partial \phi + U ) \gamma ^ { 1 } \psi \right| _ { L / 2 } .

@@ -1,0 +1,1 @@
+\int d ^ { 2 p - 2 } x \sqrt { \operatorname* { d e t } ( \delta _ { i j } + 2 \pi \alpha ^ { \prime } F _ { i j } ) } \ .

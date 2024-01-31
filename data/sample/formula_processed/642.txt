@@ -1,0 +1,1 @@
+u = \phi _ { A B } \phi _ { B A } , v = \phi _ { A C } \phi _ { C A } , w = \phi _ { A D } \phi _ { D A } , t = \phi _ { A B } \phi _ { B D } \phi _ { D A }

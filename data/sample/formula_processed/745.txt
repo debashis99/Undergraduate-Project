@@ -1,0 +1,1 @@
+\nu = \frac { g \beta } { 2 \pi } \int E ( x ) d x = - \frac { g } { 2 \pi T } [ A _ { 0 } ( \infty ) - A _ { 0 } ( - \infty ) ] \ = ~ 1

@@ -1,0 +1,1 @@
+D \sum _ { I \neq J } ( - 1 ) ^ { p _ { I } p _ { J } } e _ { J I } \otimes e _ { I J } D ^ { - 1 } = \sum _ { I \neq J } e _ { J I } \otimes e _ { I J }

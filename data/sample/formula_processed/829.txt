@@ -1,0 +1,1 @@
+x = \beta | \stackrel { \rightharpoonup } { l } | , \ y = \beta m \ \mathrm { a n d } \ r = \beta \mu .

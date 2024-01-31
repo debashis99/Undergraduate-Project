@@ -1,0 +1,1 @@
+e ^ { - K } = \pm \frac { W ^ { 3 / 2 } } { \omega _ { 1 } \omega _ { 2 } \omega _ { 3 } } \ ,

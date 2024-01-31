@@ -1,0 +1,1 @@
+\overline { { \sigma } } _ { 3 } ^ { \prime } ( s ) = - 4 \frac { \mu ( t ) + \mu ( t ^ { 2 } ) } { \sqrt { s ( s - 4 ) } } \, \Theta ( s - 4 )

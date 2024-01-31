@@ -1,0 +1,1 @@
+a _ { 1 } = \frac { 2 \tilde { q } } { \alpha ^ { 2 } ( D - 2 ) + 2 q \tilde { q } } , ~ ~ ~ ~ a _ { 2 } = \frac { \alpha ^ { 2 } ( D - 2 ) } { \alpha ^ { 2 } d ( D - 2 ) + 2 \tilde { d } q ^ { 2 } }

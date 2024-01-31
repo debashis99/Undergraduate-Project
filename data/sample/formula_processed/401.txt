@@ -1,0 +1,1 @@
+\partial _ { \alpha } Y ^ { 2 5 } = \epsilon _ { \alpha \beta } \partial ^ { \beta } X ^ { 2 5 } .

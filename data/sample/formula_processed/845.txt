@@ -1,0 +1,1 @@
+{ \cal S } _ { E } = \int _ { 0 } ^ { \tau } d t \int _ { 0 } ^ { \pi } d \sigma \left( \frac { \rho } { 2 } \left( \frac { \partial X } { \partial t } \right) ^ { 2 } + \frac { \nu } { 2 } \left( \frac { \partial X } { \partial \sigma } \right) ^ { 2 } \right) .

@@ -1,0 +1,1 @@
+\left\langle { { \xi } \left\vert { \xi ^ { \prime } } \right\rangle } \right. = { \frac { \left( { 1 - { \vert \xi \vert } ^ { 2 } } \right) ^ { K } \left( { 1 - { \vert \xi ^ { \prime } \vert } ^ { 2 } } \right) ^ { K } } { \left( { 1 - \xi ^ { * } \xi ^ { \prime } } \right) ^ { 2 K } } } \ ,

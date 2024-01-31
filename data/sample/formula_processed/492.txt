@@ -1,0 +1,1 @@
+T \equiv \frac { 1 } { \sqrt { 1 - y _ { 3 } ^ { 2 } } } \left( y _ { 2 } { \bf 1 } _ { 2 } + i { \bf y } \cdot \mathrm { \boldmath ~ \sigma ~ } \right) \; \; .

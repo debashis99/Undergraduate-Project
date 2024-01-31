@@ -1,0 +1,1 @@
+\mathcal { L } = \sum _ { i = 1 } ^ { N } \bar { \psi } ^ { i } \left( \partial \! \! \! \slash + \lambda \sigma \right) \psi ^ { i }

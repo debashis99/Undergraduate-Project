@@ -1,0 +1,1 @@
+t ^ { t t } \approx \ell ^ { 2 } \delta ^ { - 2 } \, \Rightarrow \, < 0 | T ^ { t t } | 0 > \approx \hbar \ell ^ { 2 } \delta ^ { - 6 } \approx \hbar \ell ^ { - 1 } ( \ell - T ) ^ { - 3 } .

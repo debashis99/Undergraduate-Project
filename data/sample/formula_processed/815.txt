@@ -1,0 +1,1 @@
+T _ { n } = \frac { m ^ { 2 } } { 2 } \sum _ { k = 1 } ^ { \infty } \frac { a _ { n } ^ { \dagger } ( k ) a _ { n } ( k ) } { k - \frac { 1 } { 2 } }

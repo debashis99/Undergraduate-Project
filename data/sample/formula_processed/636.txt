@@ -1,0 +1,1 @@
+D _ { a } X _ { \mu } ( \delta _ { \mu \nu } I - i [ X _ { \mu } , X _ { \nu } ] ) ^ { - 1 } D _ { b } X _ { \nu } = ( I - [ X , Y ] ^ { 2 } ) ^ { - 1 } ( D _ { a } X _ { \mu } D _ { b } X _ { \mu } + i D _ { a } X _ { \mu } [ X _ { \mu } , X _ { \nu } ] D _ { b } X _ { \nu } ) .

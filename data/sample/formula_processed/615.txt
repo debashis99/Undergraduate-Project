@@ -1,0 +1,1 @@
+\frac { 1 } { 2 \pi } \int _ { - \infty } ^ { \infty } \operatorname { l n } \left( 1 - e ^ { - a \sqrt { 1 + k ^ { 2 } } } \right) \frac { d \delta _ { s _ { \parallel , \perp } } ( k ) } { d k } d k

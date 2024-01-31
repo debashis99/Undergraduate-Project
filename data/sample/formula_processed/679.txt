@@ -1,0 +1,1 @@
+\Phi ( \omega ) \sim { \frac { 2 \omega ^ { D - 2 } } { ( 4 \pi ) ^ { ( D - 1 ) / 2 } } } \sum _ { n = 0 } ^ { \infty } { \frac { c _ { n } } { \Gamma \left( { \frac { D - 1 } { 2 } } - n \right) } } \omega ^ { - 2 n } ,

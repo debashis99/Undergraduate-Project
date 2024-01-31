@@ -1,0 +1,1 @@
+V _ { ( n , \, m ) } ( z , \overline { { z } } ) = : \operatorname { e x p } i ( p _ { + } \phi ( z ) + p _ { - } \bar { \phi } ( \overline { { z } } ) ) : \: .

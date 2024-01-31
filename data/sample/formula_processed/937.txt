@@ -1,0 +1,1 @@
+\widehat { p } ^ { a } \left| B _ { X } \right\rangle \! = \left( \widehat { q } ^ { i } - y ^ { i } \right) \left| B _ { X } \right\rangle \! = 0 ,

@@ -1,0 +1,1 @@
+F ( z ) \; = \; F ( 0 ) \, + \, \sum _ { m = 1 } ^ { \infty } \, \left\{ \frac { b _ { m } } { z - a _ { m } } + \frac { b _ { m } } { a _ { m } } \right\} \, + \, \sum _ { m = 1 } ^ { \infty } \, \left\{ \frac { b _ { - m } } { z - a _ { - m } } + \frac { b _ { - m } } { a _ { - m } } \right\} \, .

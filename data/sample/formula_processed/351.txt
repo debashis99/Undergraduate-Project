@@ -1,0 +1,1 @@
+\Phi ( x ) = \left( \begin{array} { c } { G _ { \alpha } ^ { \beta } ( x ) } \\ { \Psi _ { \alpha } ( x ) } \\ \end{array} \right)

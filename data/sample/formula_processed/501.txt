@@ -1,0 +1,1 @@
+{ \frac { \partial ^ { 2 } \varphi } { \partial \tau ^ { 2 } } } + { \frac { \partial ^ { 2 } \varphi } { \partial r ^ { 2 } } } + { \frac { 2 } { r } } { \frac { \partial \varphi } { \partial r } } = { \frac { \partial U ( \varphi , T ) } { \partial \varphi } } ,

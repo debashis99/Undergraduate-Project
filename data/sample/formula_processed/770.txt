@@ -1,0 +1,1 @@
+h = \Pi ^ { \mu } ( C \Gamma _ { \mu } \Gamma _ { 1 1 } ) _ { \alpha \beta } \Pi ^ { \alpha } \Pi ^ { \beta } { \cal F } ^ { \frac { p - 1 } { 2 } } \quad , \quad p \geq 1 \quad .

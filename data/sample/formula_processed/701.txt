@@ -1,0 +1,1 @@
+{ \Lambda } ( l ) = \frac { 1 } { N } { \times } ( ~ M i n i m u m ~ o f ~ s _ { F } )

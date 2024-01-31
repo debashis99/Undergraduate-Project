@@ -1,0 +1,1 @@
+\varphi ^ { \prime \prime } + { \frac { 1 } { r } } \varphi ^ { \prime } + \lambda \left( \varphi - \varphi ^ { 3 } \right) = 0 ,

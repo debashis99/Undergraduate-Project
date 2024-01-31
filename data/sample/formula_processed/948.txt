@@ -1,0 +1,1 @@
+i \hat { { \cal V } } ( x , y ) \; ( \equiv i { \cal V } ( x , y ) \, \hat { A } ) \to 2 \int \frac { d ^ { \, 4 } P } { ( 2 \pi ) ^ { 4 } } \, e ^ { - i P \cdot ( x - y ) } \left[ P \cdot \partial _ { X } f ( X ; P ) \right] \hat { A } .

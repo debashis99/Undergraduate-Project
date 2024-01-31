@@ -1,0 +1,1 @@
+W _ { i } ( \xi ) = \int _ { 0 } ^ { \infty } i \Delta ^ { + } ( \xi , \kappa ) \rho _ { i } ( \kappa ) d \kappa , \quad i = 1 , 2

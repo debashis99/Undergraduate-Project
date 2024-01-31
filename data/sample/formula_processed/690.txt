@@ -1,0 +1,1 @@
+v ( \infty ) = \frac { L ^ { 2 } } { 4 \pi ^ { 2 } } \int \mathrm { T r } \; F _ { ( \infty ) } ^ { 2 } = 1 .

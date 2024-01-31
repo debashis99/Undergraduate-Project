@@ -1,0 +1,1 @@
+- \left( 2 s + 1 \right) - \frac { \left( 2 s + 1 \right) ( e \tau ) ^ { 2 } \mathcal { F } } 3 \left[ s ( s + 1 ) \left( g ^ { 2 } - \sigma ^ { 2 } \right) - 1 \right] \biggl \} ,

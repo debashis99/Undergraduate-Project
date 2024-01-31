@@ -1,0 +1,1 @@
+\Gamma ( s + 2 n - 1 ) \zeta _ { R } ( s ) \zeta ( \frac { s + 2 n - 1 } { 2 } | \L _ { 3 } ) \; \beta ^ { - s } \: , \nonumber

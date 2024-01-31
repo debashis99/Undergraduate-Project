@@ -1,0 +1,1 @@
+T \sim \frac { m } { L ^ { p } } \sim \frac { 1 } { g \ell _ { s } ^ { p + 1 } } .

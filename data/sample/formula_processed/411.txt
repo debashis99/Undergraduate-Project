@@ -1,0 +1,1 @@
+r = \frac { \alpha } { \beta } \vert \operatorname { s i n } \beta \left( \sigma - \sigma _ { 0 } \right) \vert

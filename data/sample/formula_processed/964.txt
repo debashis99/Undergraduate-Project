@@ -1,0 +1,1 @@
+\lbrack 1 , 1 \rbrack _ { Z _ { 2 } } = \lbrack 1 , \gamma \rbrack _ { Z _ { 2 } } = 0 , \quad \lbrack \gamma , \gamma \rbrack _ { Z _ { 2 } } = - 2 .
